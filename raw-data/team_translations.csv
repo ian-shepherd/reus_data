@@ -1,321 +1,496 @@
-﻿country,fbref,fbref_name,transfermarkt,transfermarkt_name,transfermarkt_link,fcpython,fivethirtyeight,football_data
-Austria,d20821dd,LASK,413,LASK,lask-linz,LASK,LASK Linz,LASK
-Austria,912e4c40,Rapid Wien,170,Rapid Vienna,sk-rapid-wien,Rapid Vienna,Rapid Vienna,Rapid Vienna
-Austria,50f2a074,Red Bull Salzburg,409,Red Bull Salzburg,red-bull-salzburg,Red Bull Salzburg,FC Salzburg,Red Bull Salzburg
-Austria,426658a6,Wolfsberger AC,4441,Wolfsberger AC,wolfsberger-ac,Wolfsberger AC,Wolfsberger AC,Wolfsberger AC
-Azerbaijan,44b65410,Qarabağ Ağdam,10625,Qarabağ Ağdam,qarabag-agdam,Qarabağ Ağdam,,Qarabağ Ağdam
-Belarus,b983b638,BATE Borisov,713,BATE Borisov,bate-borisov,BATE Borisov,BATE Borisov,BATE Borisov
-Belgium,08ad393c,Anderlecht,58,RSC Anderlecht,rsc-anderlecht,RSC Anderlecht,Anderlecht,RSC Anderlecht
-Belgium,c2e6b53b,Antwerp,1096,Royal Antwerp FC,royal-fc-antwerpen,Royal Antwerp FC,Antwerp,Royal Antwerp FC
-Belgium,f1e6c5f1,Club Brugge,2282,Club Brugge KV,fc-brugge,Club Brugge KV,Club Brugge,Club Brugge KV
-Belgium,1e972a99,Genk,1.18E+03,KRC Genk,krc-genk,KRC Genk,Genk,KRC Genk
-Belgium,51e5a603,Gent,157,KAA Gent,kaa-gent,KAA Gent,KAA Gent,KAA Gent
-Belgium,33c6b26e,Standard Liège,3057,Standard Liège,standard-luttich,Standard Liège,Standard Liege,Standard Liège
-Bulgaria,cbde2682,CSKA Sofia,208,CSKA-Sofia,zska-sofia,CSKA Sofia,CSKA Sofia,CSKA Sofia
-Bulgaria,488c6ba1,Ludogorets Razgrad,31614,PFK Ludogorets Razgrad,pfk-ludogorets-razgrad,PFK Ludogorets Razgrad,,PFK Ludogorets Razgrad
-Croatia,edd0d381,Dinamo Zagreb,419,GNK Dinamo Zagreb,gnk-dinamo-zagreb,GNK Dinamo Zagreb,Dinamo Zagreb,GNK Dinamo Zagreb
-Croatia,25dbe099,Rijeka,144,HNK Rijeka,hnk-rijeka,HNK Rijeka,Rijeka,HNK Rijeka
-Cyprus,15e031af,AC Omonia,829,Omonia Nicosia,omonia-nikosia,Omonia Nicosia,Omonia Nicosia,Omonia Nicosia
-Cyprus,01689b1a,AÉK Lárnaka,2156,AEK Larnaca,aek-larnaka,AEK Larnaca,AEK Larnaca,AEK Larnaca
-Cyprus,eab315a6,APOEL,2784,APOEL Nicosia,apoel-nikosia,APOEL Nicosia,Apoel Nicosia,APOEL Nicosia
-Cyprus,8dff1828,Apollon,429,Apollon Limassol,apollon-limassol,Apollon Limassol,Apollon Limassol,Apollon Limassol
-Czech Republic,8424bb18,Jablonec,1322,FK Jablonec,fk-jablonec,FK Jablonec,Jablonec,FK Jablonec
-Czech Republic,111cbfb1,Slavia Prague,62,SK Slavia Prague,sk-slavia-prag,SK Slavia Prague,Slavia Prague,SK Slavia Prague
-Czech Republic,2c9bebcd,Slovan Liberec,697,FC Slovan Liberec,fc-slovan-liberec,FC Slovan Liberec,Slovan Liberec,FC Slovan Liberec
-Czech Republic,ecb862be,Sparta Prague,197,AC Sparta Prague,ac-sparta-prag,AC Sparta Prague,Sparta Prague,AC Sparta Prague
-Czech Republic,02cd81bf,Viktoria Plzeň,941,FC Viktoria Plzen,fc-viktoria-pilsen,FC Viktoria Plzen,,FC Viktoria Plzen
-Denmark,18050b20,FC Copenhagen,190,FC Copenhagen,fc-kopenhagen,FC Copenhagen,FC Copenhagen,FC Copenhagen
-Denmark,3c4fb635,Midtjylland,865,FC Midtjylland,fc-midtjylland,FC Midtjylland,FC Midtjylland,FC Midtjylland
-England,18bb7c10,Arsenal,11,Arsenal FC,arsenal-fc,Arsenal FC,Arsenal,Arsenal
-England,8602292d,Aston Villa,405,Aston Villa,aston-villa,Aston Villa,Aston Villa,Aston Villa
-England,ec79b7c2,Birmingham City,337,Birmingham City,birmingham-city,,Birmingham City,Birmingham
-England,e090f40b,Blackburn Rovers,164,Blackburn Rovers,blackburn-rovers,,Blackburn,Blackburn
-England,7cbf5cb4,Blackpool,1181,Blackpool FC,fc-blackpool,Blackpool FC,Blackpool,Blackpool
-England,445d3104,Bolton Wanderers,355,Bolton Wanderers,bolton-wanderers,,Bolton,Bolton
-England,4ba7cbea,Bournemouth,989,AFC Bournemouth,afc-bournemouth,AFC Bournemouth,AFC Bournemouth,Bournemouth
-England,3148d79f,Bradford City,1027,Bradford City,bradford-city,Bradford City,Bradford City,Bradford
-England,cd051869,Brentford,1148,Brentford FC,fc-brentford,Brentford FC,Brentford,Brentford
-England,d07537b9,Brighton & Hove Albion,1237,Brighton & Hove Albion,brighton-amp-hove-albion,Brighton & Hove Albion,Brighton and Hove Albion,Brighton
-England,943e8050,Burnley,1.13E+03,Burnley FC,burnley-fc,Burnley FC,Burnley,Burnley
-England,75fae011,Cardiff City,603,Cardiff City,cardiff-city,Cardiff City,Cardiff City,Cardiff
-England,7a8db6d4,Charlton Athletic,358,Charlton Athletic,charlton-athletic,Charlton Athletic,Charlton Athletic,Charlton
-England,cff3d9bb,Chelsea,631,Chelsea FC,chelsea-fc,Chelsea FC,Chelsea,Chelsea
-England,f7e3dfe9,Coventry City,990,Coventry City,coventry-city,Coventry City,Coventry City,Coventry
-England,47c64c55,Crystal Palace,873,Crystal Palace,crystal-palace,Crystal Palace,Crystal Palace,Crystal Palace
-England,26ab47ee,Derby County,22,Derby County,derby-county,Derby County,Derby County,Derby
-England,d3fd31cc,Everton,29,Everton FC,everton-fc,Everton FC,Everton,Everton
-England,fd962109,Fulham,931,Fulham FC,fulham-fc,Fulham FC,Fulham,Fulham
-England,f5922ca5,Huddersfield Town,1110,Huddersfield Town,huddersfield-town,Huddersfield Town,Huddersfield Town,Huddersfield
-England,bd8769d1,Hull City,3008,Hull City,hull-city,Hull City,Hull City,Hull
-England,b74092de,Ipswich Town,677,Ipswich Town,ipswich-town,,Ipswich Town,Ipswich
-England,5bfb9659,Leeds United,399,Leeds United,leeds-united,Leeds United,Leeds United,Leeds
-England,a2d435b3,Leicester City,1003,Leicester City,leicester-city,Leicester City,Leicester City,Leicester
-England,822bd0ba,Liverpool,31,Liverpool FC,liverpool-fc,Liverpool FC,Liverpool,Liverpool
-England,b8fd03ef,Manchester City,281,Manchester City,manchester-city,Manchester City,Manchester City,Man City
-England,19538871,Manchester United,985,Manchester United,manchester-united,Manchester United,Manchester United,Man United
-England,7f59c601,Middlesbrough,641,Middlesbrough FC,fc-middlesbrough,Middlesbrough FC,Middlesbrough,Middlesbrough
-England,b2b47a98,Newcastle United,762,Newcastle United,newcastle-united,Newcastle United,Newcastle,Newcastle
-England,1c781004,Norwich City,1123,Norwich City,norwich-city,Norwich City,Norwich City,Norwich
-England,e4a775cb,Nottingham Forest,703,Nottingham Forest,nottingham-forest,Nottingham Forest,Nottingham Forest,
-England,76ffc013,Poursmouth,1020,Portsmouth FC,fc-portsmouth,Portsmouth FC,Portsmouth,Portsmouth
-England,a757999c,Queens Park Rangers,1039,Queens Park Rangers,queens-park-rangers,Queens Park Rangers,Queens Park Rangers,QPR
-England,b0ac61ff,Reading,1032,Reading FC,fc-reading,Reading FC,Reading,Reading
-England,1df6b87e,Sheffield United,350,Sheffield United,sheffield-united,Sheffield United,Sheffield United,Sheffield United
-England,33c895d4,Southampton,180,Southampton FC,southampton-fc,Southampton FC,Southampton,Southampton
-England,17892952,Stoke City,512,Stoke City,stoke-city,Stoke City,Stoke City,Stoke
-England,8ef52968,Sunderland,289,Sunderland AFC,afc-sunderland,Sunderland AFC,Sunderland,Sunderland
-England,fb10988f,Swansea City,2288,Swansea City,swansea-city,Swansea City,Swansea City,Swansea
-England,361ca564,Tottenham Hotspur,148,Tottenham Hotspur,tottenham-hotspur,Tottenham Hotspur,Tottenham Hotspur,Tottenham
-England,2abfe087,Watford,1010,Watford FC,watford-fc,Watford FC,Watford,Watford
-England,60c6b05f,West Bromwich Albion,984,West Bromwich Albion,west-bromwich-albion,West Bromwich Albion,West Bromwich Albion,West Brom
-England,7c21e445,West Ham United,379,West Ham United,west-ham-united,West Ham United,West Ham United,West Ham
-England,e59ddc76,Wigan Athletic,1071,Wigan Athletic,wigan-athletic,,Wigan,Wigan
-England,8cec06e1,Wolverhampton Wanderers,543,Wolverhampton Wanderers,wolverhampton-wanderers,Wolverhampton Wanderers,Wolverhampton,Wolves
-France,7a54bb4f,Ajaccio,1147,AC Ajaccio,ac-ajaccio,,AC Ajaccio,Ajaccio
-France,25622401,Amiens,1416,Amiens SC,sc-amiens,Amiens SC,Amiens,Amiens
-France,69236f98,Angers,1420,SCO Angers,sco-angers,SCO Angers,Angers,Angers
-France,e95faa7f,Arles-Avignon,11300,Athlétic Club Arlésien,athletic-club-arlesien,,,Arles
-France,5ae09109,Auxerre,290,AJ Auxerre,aj-auxerre,,Auxerre,Auxerre
-France,6283be2c,Bastia,61431,FC Bastia-Borgo,fc-bastia-borgo,,Bastia,Bastia
-France,123f3efe,Bordeaux,40,FC Girondins Bordeaux,fc-girondins-bordeaux,FC Girondins Bordeaux,Bordeaux,Bordeaux
-France,98973a5c,Boulogne,7042,US Boulogne,us-boulogne,US Boulogne,,Boulogne
-France,fb08dbb3,Brest,3911,Stade Brest 29,stade-brest-29,Stade Brest 29,Brest,Brest
-France,74229020,Caen,1162,SM Caen,sm-caen,SM Caen,Caen,Caen
-France,d9676424,Clermont Foot,3524,Clermont Foot 63,clermont-foot-63,,Clermont Foot,Clermont
-France,8dfb7350,Dijon,2969,Dijon FCO,fco-dijon,Dijon FCO,Dijon FCO,Dijon
-France,633fbb6e,Evian,14171,Thonon Évian Grand Genève FC,thonon-evian-grand-geneve-fc,,,Evian Thonon Gaillard
-France,73905dde,Gazélec Ajaccio,3558,GFC Ajaccio,gfc-ajaccio,,GFC Ajaccio,Ajaccio GFCO
-France,40aa7280,Grenoble,1290,Grenoble Foot 38,grenoble-foot-38,,Grenoble,Grenoble
-France,d41b5f53,Guingamp,855,EA Guingamp,ea-guingamp,EA Guingamp,Guingamp,Guingamp
-France,70f96e85,Istres,2580,Istres Football Club,istres-football-club,,,Istres
-France,5c2737db,Le Havre,738,AC Le Havre,ac-le-havre,AC Le Havre,Le Havre,Le Havre
-France,cd5d7aa6,Le Mans,1164,Le Mans FC,le-mans-fc,,Le Mans,Le Mans
-France,fd4e0f7d,Lens,826,RC Lens,Racing Club de Lens,RC Lens,Lens,Lens
-France,cb188c0c,Lille,1082,LOSC Lille,osc-lille,LOSC Lille,Lille,Lille
-France,d2c87802,Lorient,1158,FC Lorient,fc-lorient,FC Lorient,Lorient,Lorient
-France,d53c0b06,Lyon,1041,Olympique Lyon,olympique-lyon,Olympique Lyon,Lyon,Lyon
-France,5725cc7b,Marseille,244,Olympique Marseille,olympique-marseille,Olympique Marseille,Marseille,Marseille
-France,f83960ae,Metz,347,FC Metz,fc-metz,FC Metz,Metz,Metz
-France,fd6114db,Monaco,162,AS Monaco,as-monaco,AS Monaco,AS Monaco,Monaco
-France,281b0e73,Montpellier,969,Montpellier HSC,hsc-montpellier,Montpellier HSC,Montpellier,Montpellier
-France,e88fc6e5,Nancy,1159,AS Nancy-Lorraine,as-nancy-lorraine,,AS Nancy Lorraine,Nancy
-France,d7a486cd,Nantes,995,FC Nantes,fc-nantes,FC Nantes,Nantes,Nantes
-France,132ebc33,Nice,417,OGC Nice,ogc-nizza,OGC Nice,Nice,Nice
-France,1cbf5f9e,Nîmes,1160,Nîmes Olympique,olympique-nimes,Nîmes Olympique,Nimes,Nimes
-France,e2d8892c,Paris Saint-Germain,583,Paris Saint-Germain,fc-paris-saint-germain,Paris Saint-Germain,Paris Saint-Germain,Paris SG
-France,7fdd64e0,Reims,1421,Stade Reims,stade-reims,Stade Reims,Reims,Reims
-France,b3072e00,Rennes,273,Stade Rennais FC,fc-stade-rennes,Stade Rennais FC,Stade Rennes,Rennes
-France,d298ef2c,Saint-Étienne,618,AS Saint-Étienne,as-saint-etienne,AS Saint-Étienne,St Etienne,St Etienne
-France,e4e952b9,Sedan,1081,CS Sedan-Ardennes,cs-sedan-ardennes,CS Sedan-Ardennes,,Sedan
-France,b9cd3c9a,Sochaux,750,FC Sochaux-Montbéliard,fc-sochaux-montbeliard,,Sochaux,Sochaux
-France,c0d3eab4,Strasbourg,667,RC Strasbourg Alsace,racing-strassburg,RC Strasbourg Alsace,Strasbourg,Strasbourg
-France,3f8c4b5f,Toulouse,415,FC Toulouse,fc-toulouse,FC Toulouse,Toulouse,Toulouse
-France,54195385,Troyes,1095,ES Troyes AC,es-troyes-ac,ES Troyes AC,Troyes,Troyes
-France,259d3345,Valenciennes,1423,Valenciennes FC,fc-valenciennes,,Valenciennes,Valenciennes
-Germany,2fbdf057,1860 Munich,72,TSV 1860 Munich,tsv-1860-munchen,TSV 1860 Munich,,Munich 1860
-Germany,3659060d,Alemannia Aachen,8,Alemannia Aachen,alemannia-aachen,Alemannia Aachen,,Aachen
-Germany,247c4b67,Arminia,10,Arminia Bielefeld,arminia-bielefeld,Arminia Bielefeld,Arminia Bielefeld,Bielefeld
-Germany,0cdc4311,Augsburg,167,FC Augsburg,fc-augsburg,FC Augsburg,FC Augsburg,Augsburg
-Germany,c7a9f859,Bayer Leverkusen,15,Bayer 04 Leverkusen,bayer-04-leverkusen,Bayer 04 Leverkusen,Bayer Leverkusen,Leverkusen
-Germany,054efa67,Bayern Munich,27,Bayern Munich,fc-bayern-munchen,Bayern Munich,Bayern Munich,Bayern Munich
-Germany,b42c6323,Bochum,80,VfL Bochum,vfl-bochum,VfL Bochum,VfL Bochum,Bochum
-Germany,6a6967fc,Darmstadt 98,105,SV Darmstadt 98,sv-darmstadt-98,SV Darmstadt 98,SV Darmstadt 98,Darmstadt
-Germany,add600ae,Dortmund,16,Borussia Dortmund,borussia-dortmund,Borussia Dortmund,Borussia Dortmund,Dortmund
-Germany,b1278397,Düsseldorf,38,Fortuna Düsseldorf,fortuna-dusseldorf,Fortuna Düsseldorf,Fortuna Düsseldorf,Fortuna Dusseldorf
-Germany,8107958d,Eintracht Braunschweig,23,Eintracht Braunschweig,eintracht-braunschweig,Eintracht Braunschweig,Eintracht Braunschweig,Braunschweig
-Germany,f0ac8ee6,Eintracht Frankfurt,24,Eintracht Frankfurt,eintracht-frankfurt,Eintracht Frankfurt,Eintracht Frankfurt,Ein Frankfurt
-Germany,7675ab36,Energie Cottbus,25,FC Energie Cottbus,fc-energie-cottbus,FC Energie Cottbus,,Cottbus
-Germany,a486e511,Freiburg,60,SC Freiburg,sc-freiburg,SC Freiburg,SC Freiburg,Freiburg
-Germany,12192a4c,Greuther Fürth,65,SpVgg Greuther Fürth,spvgg-greuther-furth,SpVgg Greuther Fürth,SpVgg Greuther Fürt,Greuther Furth
-Germany,26790c6a,Hamburger SV,41,Hamburger SV,hamburger-sv,Hamburger SV,Hamburg SV,Hamburg
-Germany,60b5e41f,Hannover 96,42,Hannover 96,hannover-96,Hannover 96,Hannover 96,Hannover
-Germany,bc31a6e4,Hansa Rostock,30,FC Hansa Rostock,fc-hansa-rostock,FC Hansa Rostock,Hansa Rostock,Hansa Rostock
-Germany,2818f8bc,Hertha BSC,44,Hertha BSC,hertha-bsc,Hertha BSC,Hertha Berlin,Hertha
-Germany,033ea6b8,Hoffenheim,533,TSG 1899 Hoffenheim,tsg-1899-hoffenheim,TSG 1899 Hoffenheim,TSG Hoffenheim,Hoffenheim
-Germany,12eb2039,Inglostadt 04,4795,FC Ingolstadt 04,fc-ingolstadt-04,FC Ingolstadt 04,FC Ingolstadt 04,Ingolstadt
-Germany,73a27a73,Kaiserslautern,2,1.FC Kaiserslautern,1-fc-kaiserslautern,1.FC Kaiserslautern,1. FC Kaiserslautern,Kaiserslautern
-Germany,33ba9d7b,Karlsruher,48,Karlsruher SC,karlsruher-sc,Karlsruher SC,Karlsruher SC,Karlsruhe
-Germany,bc357bf7,Köln,3,1. FC Köln,1-fc-koln,1. FC Köln,FC Cologne,FC Koln
-Germany,a224b06a,Mainz 05,39,1.FSV Mainz 05,1-fsv-mainz-05,1. FSV Mainz 05,Mainz,Mainz
-Germany,32f3ee20,Mönchengladbach,18,Borussia Mönchengladbach,borussia-monchengladbach,Borussia Mönchengladbach,Borussia Monchengladbach,M'gladbach
-Germany,bbfd364f,MSV Duisburg,52,MSV Duisburg,msv-duisburg,MSV Duisburg,MSV Duisburg,Duisburg
-Germany,6f2c108c,Nürnberg,4,1.FC Nuremberg,1-fc-nurnberg,1. FC Nuremberg,1. FC Nürnberg,Nurnberg
-Germany,d9f93f02,Paderborn 07,127,SC Paderborn 07,sc-paderborn-07,SC Paderborn 07,SC Paderborn,Paderborn
-Germany,acbb6a5b,RB Leipzig,23826,RB Leipzig,rasenballsport-leipzig,RB Leipzig,RB Leipzig,RB Leipzig
-Germany,c539e393,Schalke 04,33,FC Schalke 04,fc-schalke-04,FC Schalke 04,Schalke 04,Schalke 04
-Germany,54864664,St. Pauli,35,FC St. Pauli,fc-st-pauli,FC St. Pauli,FC St. Pauli,St Pauli
-Germany,598bc722,Stuttgart,79,Vfb Stuttgart,vfb-stuttgart,Vfb Stuttgart,VfB Stuttgart,Stuttgart
-Germany,7a41008f,Union Berlin,89,1.FC Union Berlin,1-fc-union-berlin,1. FC Union Belin,1. FC Union Berlin,Union Berlin
-Germany,ba68a0c5,Unterhaching,66,SpVgg Unterhaching,spvgg-unterhaching,SpVgg Unterhaching,,Unterhaching
-Germany,62add3bf,Werder Bremen,86,SV Werder Bremen,sv-werder-bremen,SV Werder Bremen,Werder Bremen,Werder Bremen
-Germany,4eaa11d7,Wolfsburg,82,Vfl Wolfsburg,vfl-wolfsburg,Vfl Wolfsburg,VfL Wolfsburg,Wolfsburg
-Greece,d5348c80,AEK Athens,2441,AEK Athens,aek-athen,AEK Athens,AEK Athens,AEK Athens
-Greece,2fdb4aef,Olympiacos,683,Olympiacos Piraeus,olympiakos-piraus,Olympiacos Piraeus,Olympiacos,Olympiacos Piraeus
-Greece,5a5e7874,PAOK,1091,PAOK Thessaloniki,paok-thessaloniki,PAOK Thessaloniki,PAOK Salonika,PAOK Thessaloniki
-Hungary,6611f992,Ferencváros,279,Ferencvárosi TC,ferencvaros-budapest,Ferencvárosi TC,,Ferencvárosi TC
-Hungary,a338349f,Vidi,11107,MOL Fehérvár FC,videoton-fc,MOL Fehérvár FC,,MOL Fehérvár FC
-Ireland,e4a9d483,Dundalk,6066,Dundalk FC,dundalk-fc,Dundalk FC,Dundalk,Dundalk FC
-Israel,133013ee,Hapoel Be'er Sheva,2976,Hapoel Beer Sheva,hapoel-beer-sheva,Hapoel Beer Sheva,,Hapoel Beer Sheva
-Israel,04c011d8,Maccabi Tel Aviv,119,Maccabi Tel Aviv,maccabi-tel-aviv,Maccabi Tel Aviv,,Maccabi Tel Aviv
-Italy,1d2f81d0,Ancona,1388,Ancona Matelica,us-anconitana,,,Ancona
-Italy,72c031e3,Ascoli,408,Ascoli Calcio,ascoli-calcio,Ascoli Calcio,Ascoli,Ascoli
-Italy,922493f3,Atalanta,800,Atalanta BC,atalanta-bergamo,Atalanta BC,Atalanta,Atalanta
-Italy,01baa639,Bari,332,SSC Bari,ssc-bari,SSC Bari,Bari,Bari
-Italy,4fcb34fd,Benevento,4171,Benevento Calcio,benevento-calcio,Benevento Calcio,Benevento,Benevento
-Italy,1d8099f8,Bologna,1025,Bologna FC 1909,fc-bologna,Bologna FC 1909,Bologna,Bologna
-Italy,4ef57aeb,Brescia,19,Brescia Calcio,brescia-calcio,Brescia Calcio,Brescia,Brescia
-Italy,c4260e09,Cagliari,1390,Cagliari Calcio,cagliari-calcio,Cagliari Calcio,Cagliari,Cagliari
-Italy,71f07916,Carpi,4102,Athletic Carpi 2021,carpi-fc-1909,,Carpi,Carpi
-Italy,7b046f08,Catania,14843,Catania Primavera,catania-calcio-u19,,,Catania
-Italy,283f2557,Cesena,1429,Cesena FC,cesena-fc,Cesena FC,Cesena,Cesena
-Italy,cc919b35,Chievo,862,Chievo Verona,chievo-verona,Chievo Verona,Chievo Verona,Chievo
-Italy,28c9c3cd,Como,1047,Como 1907,como-1907,Como 1907,Como,Como
-Italy,9aad3a77,Cremonese,2239,US Cremonese,us-cremonese,Cremonese Primavera,Cremonese,
-Italy,3074d7b1,Crotone,4083,FC Crotone,fc-crotone,FC Crotone,Crotone,Crotone
-Italy,a3d88bd8,Empoli,749,FC Empoli,fc-empoli,FC Empoli,Empoli,Empoli
-Italy,421387cf,Fiorentina,430,ACF Fiorentina,ac-florenz,ACF Fiorentina,Fiorentina,Fiorentina
-Italy,6a7ad59d,Frosinone,8970,Frosinone Calcio,frosinone-calcio,Frosinone Calcio,Frosinone,Frosinone
-Italy,658bf2de,Genoa,252,Genoa CFC,fc-genua-1893,Genoa CFC,Genoa,Genoa
-Italy,0e72edf2,Hellas Verona,276,Hellas Verona,hellas-verona,Hellas Verona,Verona,Verona
-Italy,d609edc0,Internazionale,46,Inter Milan,inter-mailand,Inter Milan,Internazionale,Inter
-Italy,e0652b02,Juventus,506,Juventus FC,juventus-turin,Juventus FC,Juventus,Juventus
-Italy,7213da33,Lazio,398,SS Lazio,lazio-rom,SS Lazio,Lazio,Lazio
-Italy,ffcbe334,Lecce,1005,US Lecce,us-lecce,US Lecce,Lecce,Lecce
-Italy,939201df,Livorno,1210,US Livorno 1915,as-livorno,AS Livorno,Livorno,Livorno
-Italy,fe2dc36d,Messina,1104,ACR Messina,acr-messina,ACR Messina,,Messina
-Italy,dc56fe14,Milan,5,AC Milan,ac-mailand,AC Milan,AC Milan,Milan
-Italy,71a3700b,Modena,1385,Modena FC 2018,modena-fc-2018,Modena FC 2018,,Modena
-Italy,21680aa4,Monza,2919,AC Monza,ac-monza,AC Monza,Monza,
-Italy,d48ad4ff,Napoli,6195,SSC Napoli,ssc-neapel,SSC Napoli,Napoli,Napoli
-Italy,6c37111f,Novara,6692,Novara FC,novara-calcio,Novara Calcio 1908,Novara,Novara
-Italy,ee058a17,Palermo,458,Palermo FC,palermo-fc,Palermo FC,Palermo,Palermo
-Italy,eab4234c,Parma,130,Parma Calcio 1913,fc-parma,Parma Calcio 1913,Parma,Parma
-Italy,37cba288,Perugia,839,AC Perugia Calcio,ac-perugia-calcio,AC Perugia Calcio,Perugia,Perugia
-Italy,b985784c,Pescara,2921,Delfino Pescara 1936,delfino-pescara-1936,Delfino Pescara 1936,,Pescara
-Italy,81e923a1,Piacenza,1.41E+03,Piacenza Calcio 1919,piacenza-calcio-1919,Piacenza Calcio 1919,,Piacenza
-Italy,cf74a709,Roma,12,AS Roma,as-rom,AS Roma,AS Roma,Roma
-Italy,c5577084,Salernitana,380,US Salernitana 1919,us-salernitana-1919,US Salernitana 1919,Salernitana,Salernitana
-Italy,8ff9e3b3,Sampdoria,1038,UC Sampdoria,uc-sampdoria,UC Sampdoria,Sampdoria,Sampdoria
-Italy,e2befd26,Sassuolo,6574,US Sassuolo,us-sassuolo,US Sassuolo,Sassuolo,Sassuolo
-Italy,45a2f824,Siena,1387,ACN Siena 1904,acn-siena-1904,ACN Siena 1904,,Siena
-Italy,1d2fe027,SPAL,2722,SPAL,spal-2013,SPAL,Spal,Spal
-Italy,68449f6d,Spezia,3522,Spezia Calcio,spezia-calcio,Spezia Calcio,Spezia,Spezia
-Italy,105360fe,Torino,416,Torino FC,fc-turin,Torino FC,Torino,Torino
-Italy,f71ec3ae,Treviso,2251,ACD Treviso,acd-treviso,ACD Treviso,,Treviso
-Italy,04eea015,Udinese,410,Udinese Calcio,udinese-calcio,Udinese Calcio,Udinese,Udinese
-Italy,46f8c29f,US Reggina,1386,Reggina 1914,reggina-1914,Reggina 1914,Reggina,Reggina
-Italy,af5d5982,Venezia,607,Venezia FC,venezia-fc,Venezia FC,F.B.C Unione Venezia,Venezia
-Italy,2591250b,Vicenza Virtus,14925,Vicenza Primavera,vicenza-primavera,Vicenza Primavera,Vicenza,Vicenza
-Kazakhstan,c72c8787,Astana FK,22220,FC Astana,fk-astana,FK Astana 1964,FC Astana,FK Astana 1964
-Luxembourg,baae133b,F91 Dudelange,853,F91 Dudelange,f91-dudelange,F91 Dudelange,F91 Dudelange,F91 Dudelange
-Netherlands,19c3f8c4,Ajax,610,Ajax Amsterdam,ajax-amsterdam,Ajax Amsterdam,Ajax,Ajax Amsterdam
-Netherlands,3986b791,AZ Alkmaar,1090,AZ Alkmaar,az-alkmaar,AZ Alkmaar,,AZ Alkmaar
-Netherlands,fb4ca611,Feyenoord,234,Feyenoord Rotterdam,feyenoord-rotterdam,Feyenoord Rotterdam,Feyenoord,Feyenoord Rotterdam
-Netherlands,e334d850,PSV Eindhoven,383,PSV Eindhoven,psv-eindhoven,PSV Eindhoven,PSV,PSV Eindhoven
-Norway,174bd5a0,Molde,687,Molde FK,molde-fk,Molde FK,Molde,Molde FK
-Norway,90e37d3a,Rosenborg,195,Rosenborg BK,rosenborg-trondheim,Rosenborg BK,Rosenborg,Rosenborg BK
-Norway,47b3e736,Sarpsborg 08,10217,Sarpsborg 08 FF,sarpsborg-08-ff,Sarpsborg 08 FF,Sarpsborg,Sarpsborg 08 FF
-Poland,fdba14df,Lech Poznań,238,Lech Poznan,ech-poznań,Lech Poznan,Lech Poznan,Lech Poznan
-Portugal,a77c513e,Benfica,294,SL Benfica,benfica-lissabon,SL Benfica,Benfica,SL Benfica
-Portugal,69d84c29,Braga,1075,SC Braga,sc-braga,SC Braga,Braga,SC Braga
-Portugal,5e876ee6,Porto,2.50E+03,FC Porto,boavista-porto-fc,FC Porto,FC Porto,FC Porto
-Portugal,13dc44fd,Sporting CP,336,Sporting CP,sporting-lissabon,Sporting CP,Sporting CP,Sporting CP
-Portugal,3f319bc9,Vitória Guimarães,2420,Vitória Guimarães SC,vitoria-guimaraes-sc,Vitória Guimarães SC,,Vitória Guimarães SC
-Romania,ff04e205,CFR Cluj,7769,CFR Cluj,cfr-cluj,CFR Cluj,,CFR Cluj
-Russia,f0c0c2c2,CSKA Moscow,2410,CSKA Moscow,zska-moskau,CSKA Moscow,CSKA Moscow,CSKA Moscow
-Russia,fa11a9cc,Krasnodar,16704,FK Krasnodar,fk-krasnodar,FK Krasnodar,,FK Krasnodar
-Russia,5a8dc328,Lokomotiv Moscow,932,Lokomotiv Moscow,lokomotiv-moskau,Lokomotiv Moscow,Lokomotiv Moscow,Lokomotiv Moscow
-Russia,8c635914,Spartak Moscow,232,Spartak Moscow,spartak-moskau,Spartak Moscow,Spartak Moscow,Spartak Moscow
-Russia,98ce363d,Zenit,964,Zenit St. Petersburg,zenit-st-petersburg,Zenit St. Petersburg,Zenit St Petersburg,Zenit St. Petersburg
-Scotland,b81aa4fa,Celtic,371,Celtic FC,celtic-glasgow,Celtic FC,Celtic,Celtic FC
-Scotland,86b7acd2,Rangers,124,Rangers FC,glasgow-rangers,Rangers FC,Rangers,Rangers FC
-Serbia,dde3e804,Partizan,669,FK Partizan Belgrade,k-partizan-belgrad,FK Partizan Belgrade,FK Partizan Belgrade,FK Partizan Belgrade
-Serbia,099c6eb5,Red Star,159,Red Star Belgrade,roter-stern-belgrad,Red Star Belgrade,Red Star Belgrade,Red Star Belgrade
-Slovakia,ae7f2f70,Slovan Bratislava,540,Slovan Bratislava,slovan-bratislava,Slovan Bratislava,Slovan Bratislava,Slovan Bratislava
-Slovakia,c16f1fe7,Spartak Trnava,365,Spartak Trnava,spartak-trnava,Spartak Trnava,FC Spartak Trnava,Spartak Trnava
-Spain,8d6fd021,Alavés,1108,Deportivo Alavés,deportivo-alaves,Deportivo Alavés,Alavés,Alaves
-Spain,b7e3e46e,Albacete,1532,Albacete Balompié,albacete-balompie,Albacete Balompié,Albacete,Albacete
-Spain,78ecf4bb,Almería,3302,UD Almería,ud-almeria,,Almeria,Almeria
-Spain,2b390eca,Athletic Club,621,Athletic Bilbao,athletic-bilbao,Athletic Bilbao,Athletic Bilbao,Ath Bilbao
-Spain,db3b9613,Atlético Madrid,13,Atlético Madrid,atletico-madrid,Atlético Madrid,Atletico Madrid,Ath Madrid
-Spain,206d90db,Barcelona,131,FC Barcelona,fc-barcelona,FC Barcelona,Barcelona,Barcelona
-Spain,ee7c297c,Cádiz,2687,Cádiz CF,cadiz-cf,Cádiz CF,Cadiz,Cadiz
-Spain,f25da7fb,Celta Vigo,940,Celta de Vigo,celta-vigo,Celta de Vigo,Celta Vigo,Celta
-Spain,6009ff35,Córdoba,993,Córdoba CF,fc-cordoba,Córdoba CF,,Cordoba
-Spain,2a60ed82,Deportivo La Coruña,897,Deportivo de La Coruña,deportivo-la-coruna,Deportivo de La Coruña,Deportivo La Coruña,La Coruna
-Spain,bea5c710,Eibar,1533,SD Eibar,sd-eibar,SD Eibar,Eibar,Eibar
-Spain,6c8b07df,Elche,1531,Elche CF,fc-elche,Elche CF,Elche,Elche
-Spain,a8661628,Espanyol,714,RCD Espanyol Barcelona,espanyol-barcelona,RCD Espanyol Barcelona,Espanyol,Espanol
-Spain,7848bd64,Getafe,3709,Getafe CF,fc-getafe,Getafe CF,Getafe,Getafe
-Spain,d5de8ff3,Gimnàstic,5648,Gimnàstic de Tarragona,gimnastic-de-tarragona,,,Gimnastic
-Spain,9024a00a,Girona,12321,Girona FC,fc-girona,Girona FC,Girona FC,Girona
-Spain,a0435291,Granada,16795,Granada CF,fc-granada,Granada CF,Granada,Granada
-Spain,4222a514,Hércules,7971,Hércules CF,hercules-alicante,Hércules CF,,Hercules
-Spain,c6c493e6,Huesca,5358,SD Huesca,sd-huesca,SD Huesca,SD Huesca,Huesca
-Spain,0049d422,Las Palmas,472,UD Las Palmas,ud-las-palmas,UD Las Palmas,Las Palmas,Las Palmas
-Spain,7c6f2c78,Leganés,1244,CD Leganés,cd-leganes,CD Leganés,Leganes,Leganes
-Spain,9800b6a1,Levante,3368,Levante UD,ud-levante,Levante UD,Levante,Levante
-Spain,1c896955,Málaga,1084,Málaga CF,fc-malaga,Málaga CF,Málaga,Malaga
-Spain,2aa12281,Mallorca,237,RCD Mallorca,rcd-mallorca,RCD Mallorca,Mallorca,Mallorca
-Spain,76d8bafa,Numancia,2296,CD Numancia,cd-numancia,CD Numancia,Numancia,Numancia
-Spain,03c57e2b,Osasuna,331,CA Osasuna,ca-osasuna,CA Osasuna,Osasuna,Osasuna
-Spain,ab358912,Oviedo,2497,Real Oviedo,real-oviedo,Real Oviedo,Real Oviedo,Oviedo
-Spain,dee3bbc8,Racing Santander,630,Racing Santander,racing-santander,Racing Santander,Racing Santander,Santander
-Spain,98e8af82,Rayo Vallecano,367,Rayo Vallecano,rayo-vallecano,Rayo Vallecano,Rayo Vallecano,Vallecano
-Spain,fc536746,Real Betis,150,Real Betis Balompié,real-betis-sevilla,Real Betis Balompié,Real Betis,Betis
-Spain,53a2f082,Real Madrid,418,Real Madrid,real-madrid,Real Madrid,Real Madrid,Real Madrid
-Spain,ab0dc306,Real Murcia,171,Real Murcia CF,real-murcia,Real Murcia CF,,Murcia
-Spain,e31d1cd9,Real Sociedad,681,Real Sociedad,real-sociedad-san-sebastian,Real Sociedad,Real Sociedad,Sociedad
-Spain,6e1d6d95,Recreativo,2867,Recreativo Huelva,recreativo-huelva,,,Recreativo
-Spain,ad2be733,Sevilla,368,Sevilla FC,fc-sevilla,Sevilla FC,Sevilla FC,Sevilla
-Spain,bb9efd50,Sporting Gijón,2448,Sporting Gijón,sporting-gijon,Sporting Gijón,Sporting Gijón,Sp Gijon
-Spain,27cc9c62,Tenerife,648,CD Tenerife,cd-teneriffa,CD Tenerife,Tenerife,Tenerife
-Spain,dcc91a7b,Valencia,1049,Valencia CF,fc-valencia,Valencia CF,Valencia,Valencia
-Spain,17859612,Valladolid,366,Real Valladolid CF,real-valladolid,Real Valladolid CF,Real Valladolid,Valladolid
-Spain,2a8183b3,Villarreal,1050,Villarreal CF,fc-villarreal,Villarreal CF,Villarreal,Villarreal
-Spain,bf87d1df,Xerez Deportivo FC,44564,Xerez Deportivo FC,xerez-deportivo-fc,Xerez CD,,Xerez
-Spain,800303a0,Zaragoza,142,Real Zaragoza,real-saragossa,,Real Zaragoza,Zaragoza
-Sweden,f3d8c8b9,Malmö,496,Malmö FF,malmo-ff,Malmö FF,Malmo FF,Malmö FF
-Switzerland,d3d9424a,Basel,26,FC Basel 1893,c-basel-1893,FC Basel 1893,Basel,FC Basel 1893
-Switzerland,4dcf77da,Lugano,2790,FC Lugano,fc-lugano,FC Lugano,FC Lugano,FC Lugano
-Switzerland,4b682260,Young Boys,452,BSC Young Boys,bsc-young-boys,BSC Young Boys,Young Boys,BSC Young Boys
-Switzerland,22a5a99c,Zürich,504,FC Zürich,grasshopper-club-zurich,Grasshopper Club Zurich,,Grasshopper Club Zurich
-Turkey,92ce6559,Akhisar Belediyespor,19771,Akhisarspor,akhisar-belediye-genclik-ve-spor,Akhisarspor,,Akhisarspor
-Turkey,0f9294bd,Beşiktaş,114,Besiktas JK,besiktas-istanbul,Besiktas JK,,Besiktas JK
-Turkey,ae1e2d7d,Fenerbahçe,36,Fenerbahce SK,fenerbahce-istanbul,Fenerbahce SK,,Fenerbahce SK
-Turkey,ecd11ca2,Galatasaray,141,Galatasaray SK,galatasaray-istanbul,Galatasaray SK,Galatasaray,Galatasaray SK
-Turkey,bff39cf5,İstanbul Başakşehir,6890,Istanbul Basaksehir FK,istanbul-buyuksehir-belediyespor,Istanbul Basaksehir FK,,Istanbul Basaksehir FK
-Turkey,c63f6c0c,Sivasspor,2381,Sivasspor,sivasspor,Sivasspor,Sivasspor,Sivasspor
-Turkey,c8ad3091,Trabzonspor,449,Trabzonspor,trabzonspor,Trabzonspor,Trabzonspor,Trabzonspor
-Ukraine,c734e22f,Dynamo Kyiv,338,Dynamo Kyiv,dynamo-kiew,Dynamo Kyiv,Dynamo Kiev,Dynamo Kyiv
-Ukraine,797d38d2,FC Oleksandriya,18303,FK Oleksandriya,pfk-oleksandria,FK Oleksandriya,,FK Oleksandriya
-Ukraine,e89d5a28,Shakhtar Donetsk,660,Shakhtar Donetsk,shakhtar-donetsk,Shakhtar Donetsk,Shakhtar Donetsk,Shakhtar Donetsk
-Ukraine,99f258c2,Vorskla Poltava,2740,Vorskla Poltava,vorskla-poltava,Vorskla Poltava,,Vorskla Poltava
-Ukraine,946a30cb,Zorya Luhansk,10690,Zorya Lugansk,orya-lugansk,Zorya Lugansk,,Zorya Lugansk
-USA,1ebc1a5b,Atlanta United,51663,Atlanta United FC,atlanta-united-fc,Atlanta United,Atlanta United FC,Atlanta United
-USA,b918956d,Austin FC,72309,Austin FC,austin-fc,Austin FC,Austin FC,Austin FC
-USA,f9940243,Chicago Fire,432,Chicago Fire FC,chicago-fire,Chicago Fire FC,Chicago Fire,Chicago Fire FC
-USA,415b4465,Colorado Rapids,1247,Colorado Rapids,colorado-rapids,Colorado Rapids,Colorado Rapids,Colorado Rapids
-USA,529ba333,Columbus Crew,813,Columbus Crew SC,columbus-crew,Columbus Crew SC,Columbus Crew,Columbus Crew SC
-USA,44117292,D.C. United,2440,D.C. United,d-c-united,D.C. United,DC United,D.C. United
-USA,e9ea41b2,FC Cincinnati,51772,FC Cincinnati,fc-cincinnati,FC Cincinnati,FC Cincinnati,FC Cincinnati
-USA,15cf8f40,FC Dallas,8816,FC Dallas,fc-dallas,FC Dallas,FC Dallas,FC Dallas
-USA,0d885416,Houston Dynamo,9168,Houston Dynamo FC,houston-dynamo,Houston Dynamo,Houston Dynamo,Houston Dynamo
-USA,cb8b86a2,Inter Miami,69261,Inter Miami CF,inter-miami-cf,Inter Miami CF,Inter Miami CF,Inter Miami CF
-USA,d8b46897,LA Galaxy,1061,Los Angeles Galaxy,los-angeles-galaxy,Los Angeles Galaxy,Los Angeles Galaxy,Los Angeles Galaxy
-USA,81d817a3,Los Angeles FC,51828,Los Angeles FC,los-angeles-football-club,LAFC,Los Angeles FC,LAFC
-USA,99ea75a6,Minnesota United,56089,Minnesota United FC,minnesota-united-fc,Minnesota United FC,Minnesota United FC,Minnesota United FC
-USA,fc22273c,Montreal Impact,4078,Club de Foot Montréal,montreal-impact,Montreal Impact,Montreal Impact,Montreal Impact
-USA,35f1b818,Nashville SC,63966,Nashville SC,nashville-mls-team,Nashville SC,Nashville SC,Nashville SC
-USA,3c079def,New England Revolution,626,New England Revolution,new-england-revolution,New England Revolution,New England Revolution,New England Revolution
-USA,64e81410,New York City FC,4.01E+04,New York City FC,new-york-city-fc,NYCFC,New York City FC,NYCFC
-USA,69a0fb10,New York Red Bulls,623,New York Red Bulls,new-york-red-bulls,New York Red Bulls,New York Red Bulls,New York Red Bulls
-USA,46ef01d0,Orlando City,45604,Orlando City SC,orlando-city-sc,Orlando City,Orlando City SC,Orlando City
-USA,46024eeb,Philadelphia Union,25467,Philadelphia Union,philadelphia-union,Philadelphia Union,Philadelphia Union,Philadelphia Union
-USA,d076914e,Portland Timbers,4291,Portland Timbers,portland-timbers,Portland Timbers,Portland Timbers,Portland Timbers
-USA,f7d86a43,Real Salt Lake,6643,Real Salt Lake City,real-salt-lake-city,Real Salt Lake City,Real Salt Lake,Real Salt Lake City
-USA,ca460650,San Jose Earthquakes,218,San Jose Earthquakes,san-jose-earthquakes,San Jose Earthquakes,San Jose Earthquakes,San Jose Earthquakes
-USA,6218ebd4,Seattle Sounders FC,9636,Seattle Sounders FC,seattle-sounders-fc,Seattle Sounders FC,Seattle Sounders FC,Seattle Sounders FC
-USA,4acb0537,Sporting KC,4284,Sporting Kansas City,sporting-kansas-city,Sporting Kansas City,Sporting Kansas City,Sporting Kansas City
-USA,130f43fa,Toronto FC,11141,Toronto FC,toronto-fc,Toronto FC,Toronto FC,Toronto FC
-USA,ab41cb90,Vancouver Whitecaps FC,6321,Vancouver Whitecaps FC,vancouver-whitecaps,Vancouver Whitecaps FC,Vancouver Whitecaps,Vancouver Whitecaps FC
+﻿gender,country,fbref,fbref_name,fotmob,fotmob_name,transfermarkt,transfermarkt_name,transfermarkt_link,fcpython,fivethirtyeight,football_data
+M,Albania,df526548,Skënderbeu Korçë,10033,Skenderbeu,12469,KF Skënderbeu,kf-skenderbeu,,Skenderbeu Korce,
+M,Armenia,e6232d10,Alashkert,310094,Alashkert FC,37914,Alashkert Yerevan FC,alashkert-yerevan,,Alashkert FC,
+M,Armenia,3022534,Pyunik,6345,Pyunik,10301,FC Pyunik Yerevan,fc-pyunik-erewan,FC Pyunik Yerevan,Pyunik Yerevan,
+M,Austria,50f2a074,Red Bull Salzburg,10013,Salzburg,409,Red Bull Salzburg,red-bull-salzburg,Red Bull Salzburg,FC Salzburg,Salzburg
+M,Austria,ee0bccc5,Austria Wien,10011,Austria Wien,14,Austria Vienna,fk-austria-wien,Austria Vienna,FK Austria Vienna,Austria Vienna
+M,Austria,d20821dd,LASK,9977,LASK,413,LASK,lask-linz,LASK,LASK Linz,LASK
+M,Austria,912e4c40,Rapid Wien,10015,Rapid Wien,170,Rapid Vienna,sk-rapid-wien,Rapid Vienna,Rapid Vienna,Rapid Vienna
+M,Austria,3f4fe568,Sturm Graz,10014,Sturm Graz,122,SK Sturm Graz,sk-sturm-graz,SK Sturm Graz,SK Sturm Graz,Sturm Graz
+M,Austria,426658a6,Wolfsberger AC,1954,Wolfsberger AC,4441,Wolfsberger AC,wolfsberger-ac,Wolfsberger AC,Wolfsberger AC,Wolfsberger AC
+M,Azerbaijan,44b65410,Qarabağ Ağdam,7981,Qarabag FK,10625,Qarabağ Ağdam,qarabag-agdam,Qarabağ Ağdam,FK Qarabag,
+M,Belarus,b983b638,BATE Borisov,10063,BATE Borisov,713,BATE Borisov,bate-borisov,BATE Borisov,BATE Borisov,
+M,Belgium,08ad393c,Anderlecht,8635,Anderlecht,58,RSC Anderlecht,rsc-anderlecht,RSC Anderlecht,Anderlecht,Anderlecht
+M,Belgium,c2e6b53b,Antwerp,9988,Royal Antwerp,1096,Royal Antwerp FC,royal-fc-antwerpen,Royal Antwerp FC,Antwerp,Antwerp
+M,Belgium,f1e6c5f1,Club Brugge,8342,Club Brugge,2282,Club Brugge KV,fc-brugge,Club Brugge KV,Club Brugge,Club Brugge
+M,Belgium,1e972a99,Genk,9987,Genk,1180,KRC Genk,krc-genk,KRC Genk,Genk,Genk
+M,Belgium,51e5a603,Gent,9991,Gent,157,KAA Gent,kaa-gent,KAA Gent,KAA Gent,Gent
+M,Belgium,33c6b26e,Standard Liège,9985,Standard Liege,3057,Standard Liège,standard-luttich,Standard Liège,Standard Liege,Standard
+M,Belgium,ecd34b98,Zulte Waregem,10000,Zulte Waregem,3508,SV Zulte Waregem,sv-zulte-waregem,SV Zulte Waregem,SV Zulte Waregem,Waregem
+M,Belgium,e14f61a5,Union SG,7978,Union St.Gilloise,3948,Royale Union Saint Gilloise,royale-union-saint-gilloise,,Union Saint Gilloise,St. Gilloise
+M,Brazil,1f68d780,América (MG),1757,America MG,2863,América Futebol Clube (MG),america-futebol-clube-mg-,,América Mineiro,America MG
+M,Brazil,32d508ca,Atlético Goianiense,239123,Goianesia,15172,Atlético Clube Goianiense,atletico-clube-goianiense,Atlético Goianiense,Atlético Goianiense,Atletico GO
+M,Brazil,422bb734,Atlético Mineiro,10272,Atletico MG,330,Clube Atlético Mineiro,clube-atletico-mineiro,Clube Atlético Mineiro,Atletico Mineiro,Atletico-MG
+M,Brazil,2091c619,Atlético Paranaense,10273,Athletico Paranaense,679,Club Athletico Paranaense,club-athletico-paranaense,Athletico Paranaense,Atlético Paranaense,Atletico-PR
+M,Brazil,f205258a,Avaí,104822,Avai FC,2035,Avaí Futebol Clube (SC),avai-fc-sc-,,Avaí,Avai
+M,Brazil,157b7fee,Bahia,7877,Bahia,10010,Esporte Clube Bahia,esporte-clube-bahia,Esporte Clube Bahia,Bahía,Bahia
+M,Brazil,d9fdd9d9,Botafogo (RJ),8517,Botafogo,537,Botafogo de Futebol e Regatas,botafogo-rio-de-janeiro,Botafogo de Futebol e Regatas,Botafogo,Botafogo RJ
+M,Brazil,f98930d1,Bragantino,109705,Red Bull Bragantino,8793,Red Bull Bragantino,red-bull-bragantino,Bragantino,Bragantino,Bragantino
+M,Brazil,2f335e17,Ceará,172341,Ceara,2029,Ceará Sporting Club,ceara-sporting-club,Ceará Sporting Club,Ceará,Ceara
+M,Brazil,baa296ad,Chapecoense,197693,Chapecoense AF,17776,Associação Chapecoense de Futebol,chapecoense,,Chapecoense AF,Chapecoense-SC
+M,Brazil,bf4acd28,Corinthians,9808,Corinthians,199,Sport Club Corinthians Paulista,corinthians-sao-paulo,Sport Club Corinthians Paulista,Corinthians,Corinthians
+M,Brazil,d680d257,Coritiba,9767,Coritiba,776,Coritiba Foot Ball Club,coritiba-fc,,Coritiba,Coritiba
+M,Brazil,03ff5eeb,Cruzeiro,9781,Cruzeiro,609,Cruzeiro Esporte Clube,ec-cruzeiro-belo-horizonte,,Cruzeiro,Cruzeiro
+M,Brazil,05aff519,CSA,239132,CSA,18545,Centro Sportivo Alagoano (AL),centro-sportivo-alagoano-al-,,CSA,CSA
+M,Brazil,f0e6fb14,Cuiabá,197815,Cuiaba,28022,Cuiabá Esporte Clube (MT),cuiaba-ec-mt-,,Cuiaba,Cuiaba
+M,Brazil,639950ae,Flamengo,9770,Flamengo,614,CR Flamengo,flamengo-rio-de-janeiro,,Flamengo,Flamengo RJ
+M,Brazil,84d9701c,Fluminense,9863,Fluminense,2462,Fluminense Football Club,fluminense-rio-de-janeiro,Fluminense Football Club,Fluminense,Fluminense
+M,Brazil,a9d0ab0e,Fortaleza,8287,Fortaleza,10870,Fortaleza Esporte Clube,fortaleza-esporte-clube,,Fortaleza,Fortaleza
+M,Brazil,78c617cc,Goiás,9862,Goias,3197,Goiás Esporte Clube,goias-ec,Goiás Esporte Clube,Goiás,Goias
+M,Brazil,d5ae3703,Grêmio,9769,Gremio,210,Grêmio Foot-Ball Porto Alegrense,gremio-porto-alegre,Grêmio,Grêmio,Gremio
+M,Brazil,6f7e1f03,Internacional,8702,Internacional,6600,Sport Club Internacional,sc-internacional-porto-alegre,Sport Club Internacional,Internacional,Internacional
+M,Brazil,d081b697,Juventude,10274,Juventude,10492,Esporte Clube Juventude,esporte-clube-juventude,,Juventude,Juventude
+M,Brazil,abdce579,Palmeiras,10283,Palmeiras,1023,Sociedade Esportiva Palmeiras,se-palmeiras-sao-paulo,Sociedade Esportiva Palmeiras,Palmeiras,Palmeiras
+M,Brazil,712c528f,Santos,8514,Santos FC,221,Santos FC,fc-santos,Santos FC,Santos,Santos
+M,Brazil,5f232eb1,São Paulo,10277,Sao Paulo,585,São Paulo Futebol Clube,fc-sao-paulo,São Paulo Futebol Clube,São Paulo,Sao Paulo
+M,Brazil,ece66b78,Sport Recife,6305,Sport Recife,8718,Sport Club do Recife,sport-club-do-recife,,Sport Recife,Sport Recife
+M,Brazil,83f55dbe,Vasco da Gama,10276,Vasco da Gama,978,Clube de Regatas Vasco da Gama,vasco-da-gama-rio-de-janeiro,Vasco Da Gama,Vasco da Gama,Vasco
+M,Budapest,6611f992,Ferencváros,8222,Ferencvaros,279,Ferencvárosi TC,ferencvaros-budapest,Ferencvárosi TC,Ferencvaros,
+M,Bulgaria,cbde2682,CSKA Sofia,10144,PFC CSKA-Sofia,208,CSKA-Sofia,zska-sofia,CSKA Sofia,CSKA Sofia,
+M,Bulgaria,488c6ba1,Ludogorets Razgrad,210173,Ludogorets Razgrad,31614,PFK Ludogorets Razgrad,pfk-ludogorets-razgrad,PFK Ludogorets Razgrad,Ludogorets,
+M,Croatia,edd0d381,Dinamo Zagreb,10156,Dinamo Zagreb,419,GNK Dinamo Zagreb,gnk-dinamo-zagreb,GNK Dinamo Zagreb,Dinamo Zagreb,
+M,Croatia,25dbe099,Rijeka,10162,Rijeka,144,HNK Rijeka,hnk-rijeka,HNK Rijeka,Rijeka,
+M,Cyprus,01689b1a,AÉK Lárnaka,7797,AEK Larnaca,2156,AEK Larnaca,aek-larnaka,AEK Larnaca,AEK Larnaca,
+M,Cyprus,d27fe90c,Anorthosis,6243,Anorthosis,3899,Anorthosis Famagusta,anorthosis-famagusta,,Anorthosis Famagusta,
+M,Cyprus,eab315a6,APOEL,8621,APOEL Nicosia,2784,APOEL Nicosia,apoel-nikosia,APOEL Nicosia,Apoel Nicosia,
+M,Cyprus,8dff1828,Apollon,8003,Apollon Limassol,429,Apollon Limassol,apollon-limassol,Apollon Limassol,Apollon Limassol,
+M,Cyprus,15e031af,AC Omonia,8044,Omonia Nicosia,829,Omonia Nicosia,omonia-nikosia,Omonia Nicosia,Omonia Nicosia,
+M,Czech,8424bb18,Jablonec,7758,Jablonec,1322,FK Jablonec,fk-jablonec,FK Jablonec,Jablonec,
+M,Czech,111cbfb1,Slavia Prague,7787,Slavia Prague,62,SK Slavia Prague,sk-slavia-prag,SK Slavia Prague,Slavia Prague,
+M,Czech,38988e1a,Slovácko,2021,Slovacko,5544,1.FC Slovacko,1-fc-slovacko,,Slovácko,
+M,Czech,2c9bebcd,Slovan Liberec,10245,Slovan Liberec,697,FC Slovan Liberec,fc-slovan-liberec,FC Slovan Liberec,Slovan Liberec,
+M,Czech,ecb862be,Sparta Prague,10247,Sparta Prague,197,AC Sparta Prague,ac-sparta-prag,AC Sparta Prague,Sparta Prague,
+M,Czech,02cd81bf,Viktoria Plzeň,6033,Viktoria Plzen,941,FC Viktoria Plzen,fc-viktoria-pilsen,FC Viktoria Plzen,Viktoria Plzen,
+M,Czech,d9097887,Fastav Zlín,1860,FC Zlin,5545,FC Trinity Zlin,fc-fastav-zlin,,,
+M,Denmark,ab75e049,Brøndby,8595,Brøndby IF,206,Bröndby IF,brondby-if,Bröndby IF,Brondby,Brondby
+M,Denmark,18050b20,FC Copenhagen,8391,FC København,190,FC Copenhagen,fc-kopenhagen,FC Copenhagen,FC Copenhagen,FC Copenhagen
+M,Denmark,3c4fb635,Midtjylland,8113,Midtjylland,865,FC Midtjylland,fc-midtjylland,FC Midtjylland,FC Midtjylland,Midtjylland
+M,Denmark,d06bc460,Randers,8410,Randers FC,5724,Randers FC,randers-fc,,Randers FC,Randers FC
+M,Denmark,b0dd06cd,Silkeborg,8415,Silkeborg,1177,Silkeborg IF,silkeborg-if,,Silkeborg,Silkeborg
+M,England,293cb36b,Barnsley,8283,Barnsley,349,Barnsley FC,fc-barnsley,,Barnsley,Barnsley
+M,England,ec79b7c2,Birmingham City,8658,Birmingham City,337,Birmingham City,birmingham-city,,Birmingham City,Birmingham
+M,England,e090f40b,Blackburn Rovers,8655,Blackburn Rovers,164,Blackburn Rovers,blackburn-rovers,,Blackburn,Blackburn
+M,England,7cbf5cb4,Blackpool,8483,Blackpool,1181,Blackpool FC,fc-blackpool,Blackpool FC,Blackpool,Blackpool
+M,England,445d3104,Bolton Wanderers,8559,Bolton Wanderers,355,Bolton Wanderers,bolton-wanderers,,Bolton,Bolton
+M,England,93493607,Bristol City,8427,Bristol City,698,Bristol City,bristol-city,,Bristol City,Bristol City
+M,England,943e8050,Burnley,8191,Burnley,1132,Burnley FC,burnley-fc,Burnley FC,Burnley,Burnley
+M,England,75fae011,Cardiff City,8344,Cardiff City,603,Cardiff City,cardiff-city,Cardiff City,Cardiff City,Cardiff
+M,England,7a8db6d4,Charlton Athletic,8451,Charlton Athletic,358,Charlton Athletic,charlton-athletic,Charlton Athletic,Charlton Athletic,Charlton
+M,England,f7e3dfe9,Coventry City,8669,Coventry City,990,Coventry City,coventry-city,Coventry City,Coventry City,Coventry
+M,England,26ab47ee,Derby County,10170,Derby County,22,Derby County,derby-county,Derby County,Derby County,Derby
+M,England,f5922ca5,Huddersfield Town,9796,Huddersfield Town,1110,Huddersfield Town,huddersfield-town,Huddersfield Town,Huddersfield Town,Huddersfield
+M,England,bd8769d1,Hull City,8667,Hull City,3008,Hull City,hull-city,Hull City,Hull City,Hull
+M,England,b74092de,Ipswich Town,9902,Ipswich Town,677,Ipswich Town,ipswich-town,,Ipswich Town,Ipswich
+M,England,e297cd13,Luton Town,8346,Luton Town,1031,Luton Town,luton-town,Luton Town,Luton Town,Luton
+M,England,7f59c601,Middlesbrough,8549,Middlesbrough,641,Middlesbrough FC,fc-middlesbrough,Middlesbrough FC,Middlesbrough,Middlesbrough
+M,England,e3c537a1,Millwall,10004,Millwall,1028,Millwall FC,fc-millwall,,Millwall,Millwall
+M,England,1c781004,Norwich City,9850,Norwich City,1123,Norwich City,norwich-city,Norwich City,Norwich City,Norwich
+M,England,d6e6321c,Peterborough United,8677,Peterborough United,1072,Peterborough United,peterborough-united,Peterborough United,Peterborough United,Peterboro
+M,England,22df8478,Preston North End,8411,Preston North End,466,Preston North End,preston-north-end,,Preston North End,Preston
+M,England,a757999c,Queens Park Rangers,10172,Queens Park Rangers,1039,Queens Park Rangers,queens-park-rangers,Queens Park Rangers,Queens Park Rangers,QPR
+M,England,b0ac61ff,Reading,9798,Reading,1032,Reading FC,fc-reading,Reading FC,Reading,Reading
+M,England,375d66f1,Rotherham United,8119,Rotherham United,1194,Rotherham United,rotherham-united,Rotherham United,Rotherham United,Rotherham
+M,England,1df6b87e,Sheffield United,8657,Sheffield United,350,Sheffield United,sheffield-united,Sheffield United,Sheffield United,Sheffield United
+M,England,bba7d733,Sheffield Wednesday,10163,Sheffield Wednesday,1035,Sheffield Wednesday,sheffield-wednesday,,Sheffield Wednesday,Sheffield Weds
+M,England,17892952,Stoke City,10194,Stoke City,512,Stoke City,stoke-city,Stoke City,Stoke City,Stoke
+M,England,8ef52968,Sunderland,8472,Sunderland,289,Sunderland AFC,afc-sunderland,Sunderland AFC,Sunderland,Sunderland
+M,England,fb10988f,Swansea City,10003,Swansea City,2288,Swansea City,swansea-city,Swansea City,Swansea City,Swansea
+M,England,2abfe087,Watford,9817,Watford,1010,Watford FC,watford-fc,Watford FC,Watford,Watford
+M,England,60c6b05f,West Bromwich Albion,8659,West Bromwich Albion,984,West Bromwich Albion,west-bromwich-albion,West Bromwich Albion,West Bromwich Albion,West Brom
+M,England,e59ddc76,Wigan Athletic,8528,Wigan Athletic,1071,Wigan Athletic,wigan-athletic,,Wigan,Wigan
+M,England,43c2583e,Wycombe Wanderers,8676,Wycombe Wanderers,2805,Wycombe Wanderers,wycombe-wanderers,Wycombe Wanderers,Wycombe Wanderers,Wycombe
+M,England,4ba7cbea,Bournemouth,8678,AFC Bournemouth,989,AFC Bournemouth,afc-bournemouth,AFC Bournemouth,AFC Bournemouth,Bournemouth
+M,England,18bb7c10,Arsenal,9825,Arsenal,11,Arsenal FC,arsenal-fc,Arsenal FC,Arsenal,Arsenal
+M,England,8602292d,Aston Villa,10252,Aston Villa,405,Aston Villa,aston-villa,Aston Villa,Aston Villa,Aston Villa
+M,England,cd051869,Brentford,9937,Brentford,1148,Brentford FC,fc-brentford,Brentford FC,Brentford,Brentford
+M,England,d07537b9,Brighton & Hove Albion,10204,Brighton & Hove Albion,1237,Brighton & Hove Albion,brighton-amp-hove-albion,Brighton & Hove Albion,Brighton and Hove Albion,Brighton
+M,England,cff3d9bb,Chelsea,8455,Chelsea,631,Chelsea FC,chelsea-fc,Chelsea FC,Chelsea,Chelsea
+M,England,47c64c55,Crystal Palace,9826,Crystal Palace,873,Crystal Palace,crystal-palace,Crystal Palace,Crystal Palace,Crystal Palace
+M,England,d3fd31cc,Everton,8668,Everton,29,Everton FC,everton-fc,Everton FC,Everton,Everton
+M,England,fd962109,Fulham,9879,Fulham,931,Fulham FC,fulham-fc,Fulham FC,Fulham,Fulham
+M,England,5bfb9659,Leeds United,8463,Leeds United,399,Leeds United,leeds-united,Leeds United,Leeds United,Leeds
+M,England,a2d435b3,Leicester City,8197,Leicester City,1003,Leicester City,leicester-city,Leicester City,Leicester City,Leicester
+M,England,822bd0ba,Liverpool,8650,Liverpool,31,Liverpool FC,liverpool-fc,Liverpool FC,Liverpool,Liverpool
+M,England,b8fd03ef,Manchester City,8456,Manchester City,281,Manchester City,manchester-city,Manchester City,Manchester City,Man City
+M,England,19538871,Manchester United,10260,Manchester United,985,Manchester United,manchester-united,Manchester United,Manchester United,Man United
+M,England,b2b47a98,Newcastle United,10261,Newcastle United,762,Newcastle United,newcastle-united,Newcastle United,Newcastle,Newcastle
+M,England,e4a775cb,Nottingham Forest,10203,Nottingham Forest,703,Nottingham Forest,nottingham-forest,Nottingham Forest,Nottingham Forest,Nott'm Forest
+M,England,33c895d4,Southampton,8466,Southampton,180,Southampton FC,southampton-fc,Southampton FC,Southampton,Southampton
+M,England,361ca564,Tottenham Hotspur,8586,Tottenham Hotspur,148,Tottenham Hotspur,tottenham-hotspur,Tottenham Hotspur,Tottenham Hotspur,Tottenham
+M,England,7c21e445,West Ham United,8654,West Ham United,379,West Ham United,west-ham-united,West Ham United,West Ham United,West Ham
+M,England,8cec06e1,Wolverhampton Wanderers,8602,Wolverhampton Wanderers,543,Wolverhampton Wanderers,wolverhampton-wanderers,Wolverhampton Wanderers,Wolverhampton,Wolves
+M,Estonia,719d83f1,Flora,8155,Flora Tallinn,1002,FC Flora Tallinn,fc-flora-tallinn,FC Flora Tallinn,Flora,
+M,Finland,d7319d80,HJK Helsinki,9861,HJK,1008,HJK Helsinki,hjk-helsinki,,HJK Helsinki,HJK
+M,France,7a54bb4f,Ajaccio,8576,AC Ajaccio,1147,AC Ajaccio,ac-ajaccio,,AC Ajaccio,Ajaccio
+M,France,25622401,Amiens,8587,Amiens,1416,Amiens SC,amiens-sc,,Amiens,Amiens
+M,France,69236f98,Angers,8121,Angers,1420,SCO Angers,sco-angers,SCO Angers,Angers,Angers
+M,France,fd6114db,Monaco,9829,Monaco,162,AS Monaco,as-monaco,AS Monaco,AS Monaco,Monaco
+M,France,5ae09109,Auxerre,8583,Auxerre,290,AJ Auxerre,aj-auxerre,,Auxerre,Auxerre
+M,France,123f3efe,Bordeaux,9827,Bordeaux,40,FC Girondins Bordeaux,fc-girondins-bordeaux,FC Girondins Bordeaux,Bordeaux,Bordeaux
+M,France,fb08dbb3,Brest,8521,Brest,3911,Stade Brest 29,stade-brest-29,Stade Brest 29,Brest,Brest
+M,France,74229020,Caen,7819,Caen,1162,SM Caen,sm-caen,,Caen,Caen
+M,France,d9676424,Clermont Foot,8311,Clermont Foot,3524,Clermont Foot 63,clermont-foot-63,,Clermont Foot,Clermont
+M,France,8dfb7350,Dijon,9836,Dijon,2969,Dijon FCO,fco-dijon,Dijon FCO,Dijon FCO,Dijon
+M,France,d41b5f53,Guingamp,9747,Guingamp,855,EA Guingamp,ea-guingamp,EA Guingamp,Guingamp,Guingamp
+M,France,fd4e0f7d,Lens,8588,Lens,826,RC Lens,Racing Club de Lens,RC Lens,Lens,Lens
+M,France,cb188c0c,Lille,8639,Lille,1082,LOSC Lille,osc-lille,LOSC Lille,Lille,Lille
+M,France,d2c87802,Lorient,8689,Lorient,1158,FC Lorient,fc-lorient,FC Lorient,Lorient,Lorient
+M,France,d53c0b06,Lyon,9748,Lyon,1041,Olympique Lyon,olympique-lyon,Olympique Lyon,Lyon,Lyon
+M,France,5725cc7b,Marseille,8592,Marseille,244,Olympique Marseille,olympique-marseille,Olympique Marseille,Marseille,Marseille
+M,France,f83960ae,Metz,8550,Metz,347,FC Metz,fc-metz,FC Metz,Metz,Metz
+M,France,281b0e73,Montpellier,10249,Montpellier,969,Montpellier HSC,hsc-montpellier,Montpellier HSC,Montpellier,Montpellier
+M,France,d7a486cd,Nantes,9830,Nantes,995,FC Nantes,fc-nantes,FC Nantes,Nantes,Nantes
+M,France,132ebc33,Nice,9831,Nice,417,OGC Nice,ogc-nizza,OGC Nice,Nice,Nice
+M,France,1cbf5f9e,Nîmes,6394,Nimes,1160,Nîmes Olympique,olympique-nimes,Nîmes Olympique,Nimes,Nimes
+M,France,e2d8892c,Paris Saint-Germain,9847,Paris Saint-Germain,583,Paris Saint-Germain,fc-paris-saint-germain,Paris Saint-Germain,Paris Saint-Germain,Paris SG
+M,France,7fdd64e0,Reims,9837,Reims,1421,Stade Reims,stade-reims,Stade Reims,Reims,Reims
+M,France,d298ef2c,Saint-Étienne,9853,Saint-Etienne,618,AS Saint-Étienne,as-saint-etienne,AS Saint-Étienne,St Etienne,St Etienne
+M,France,b3072e00,Rennes,9851,Rennes,273,Stade Rennais FC,fc-stade-rennes,Stade Rennais FC,Stade Rennes,Rennes
+M,France,c0d3eab4,Strasbourg,9848,Strasbourg,667,RC Strasbourg Alsace,racing-strassburg,RC Strasbourg Alsace,Strasbourg,Strasbourg
+M,France,3f8c4b5f,Toulouse,9941,Toulouse,415,FC Toulouse,fc-toulouse,FC Toulouse,Toulouse,Toulouse
+M,France,54195385,Troyes,10242,Troyes,1095,ESTAC Troyes,es-troyes-ac,,Troyes,Troyes
+M,Germany,6f2c108c,Nürnberg,8165,Nürnberg,4,1.FC Nuremberg,1-fc-nurnberg,1.FC Nuremberg,1. FC Nürnberg,Nurnberg
+M,Germany,7a41008f,Union Berlin,8149,Union Berlin,89,1.FC Union Berlin,1-fc-union-berlin,1.FC Union Berlin,1. FC Union Berlin,Union Berlin
+M,Germany,247c4b67,Arminia,9912,Arminia Bielefeld,10,Arminia Bielefeld,arminia-bielefeld,Arminia Bielefeld,Arminia Bielefeld,Bielefeld
+M,Germany,c7a9f859,Bayer Leverkusen,8178,Bayer Leverkusen,15,Bayer 04 Leverkusen,bayer-04-leverkusen,Bayer 04 Leverkusen,Bayer Leverkusen,Leverkusen
+M,Germany,054efa67,Bayern Munich,9823,Bayern München,27,Bayern Munich,fc-bayern-munchen,Bayern Munich,Bayern Munich,Bayern Munich
+M,Germany,add600ae,Dortmund,9789,Borussia Dortmund,16,Borussia Dortmund,borussia-dortmund,Borussia Dortmund,Borussia Dortmund,Dortmund
+M,Germany,32f3ee20,Mönchengladbach,9788,Borussia M'Gladbach,18,Borussia Mönchengladbach,borussia-monchengladbach,Borussia Mönchengladbach,Borussia Monchengladbach,M'gladbach
+M,Germany,f0ac8ee6,Eintracht Frankfurt,9810,Eintracht Frankfurt,24,Eintracht Frankfurt,eintracht-frankfurt,Eintracht Frankfurt,Eintracht Frankfurt,Ein Frankfurt
+M,Germany,0cdc4311,Augsburg,8406,FC Augsburg,167,FC Augsburg,fc-augsburg,FC Augsburg,FC Augsburg,Augsburg
+M,Germany,bc357bf7,Köln,8722,1. FC Köln,3,1. FC Köln,1-fc-koln,1. FC Köln,FC Cologne,FC Koln
+M,Germany,b1278397,Düsseldorf,8194,Fortuna Düsseldorf,38,Fortuna Düsseldorf,fortuna-dusseldorf,Fortuna Düsseldorf,Fortuna Düsseldorf,Fortuna Dusseldorf
+M,Germany,26790c6a,Hamburger SV,9790,Hamburger SV,41,Hamburger SV,hamburger-sv,Hamburger SV,Hamburg SV,Hamburg
+M,Germany,60b5e41f,Hannover 96,9904,Hannover 96,42,Hannover 96,hannover-96,Hannover 96,Hannover 96,Hannover
+M,Germany,2818f8bc,Hertha BSC,8177,Hertha BSC,44,Hertha BSC,hertha-bsc,Hertha BSC,Hertha Berlin,Hertha
+M,Germany,a224b06a,Mainz 05,9905,Mainz 05,39,1.FSV Mainz 05,1-fsv-mainz-05,1.FSV Mainz 05,Mainz,Mainz
+M,Germany,acbb6a5b,RB Leipzig,178475,RB Leipzig,23826,RB Leipzig,rasenballsport-leipzig,RB Leipzig,RB Leipzig,RB Leipzig
+M,Germany,a486e511,Freiburg,8358,SC Freiburg,60,SC Freiburg,sc-freiburg,SC Freiburg,SC Freiburg,Freiburg
+M,Germany,d9f93f02,Paderborn 07,8460,Paderborn,127,SC Paderborn 07,sc-paderborn-07,SC Paderborn 07,SC Paderborn,Paderborn
+M,Germany,c539e393,Schalke 04,10189,Schalke 04,33,FC Schalke 04,fc-schalke-04,FC Schalke 04,Schalke 04,Schalke 04
+M,Germany,12192a4c,Greuther Fürth,8357,Greuther Fürth,65,SpVgg Greuther Fürth,spvgg-greuther-furth,SpVgg Greuther Fürth,SpVgg Greuther Fürt,Greuther Furth
+M,Germany,033ea6b8,Hoffenheim,8226,TSG Hoffenheim,533,TSG 1899 Hoffenheim,tsg-1899-hoffenheim,TSG 1899 Hoffenheim,TSG Hoffenheim,Hoffenheim
+M,Germany,598bc722,Stuttgart,10269,VfB Stuttgart,79,Vfb Stuttgart,vfb-stuttgart,Vfb Stuttgart,VfB Stuttgart,Stuttgart
+M,Germany,b42c6323,Bochum,9911,VfL Bochum,80,VfL Bochum,vfl-bochum,VfL Bochum,VfL Bochum,Bochum
+M,Germany,4eaa11d7,Wolfsburg,8721,Wolfsburg,82,Vfl Wolfsburg,vfl-wolfsburg,Vfl Wolfsburg,VfL Wolfsburg,Wolfsburg
+M,Germany,62add3bf,Werder Bremen,8697,Werder Bremen,86,SV Werder Bremen,sv-werder-bremen,SV Werder Bremen,Werder Bremen,Werder Bremen
+M,Gibraltar,2d3c1b6d,Lincoln Red Imps,545012,Lincoln Red Imps FC,38204,Lincoln Red Imps FC,lincoln-red-imps-fc,,,
+M,Greece,d5348c80,AEK Athens,8563,AEK Athens,2441,AEK Athens,aek-athen,AEK Athens,AEK Athens,AEK
+M,Greece,2fdb4aef,Olympiacos,8638,Olympiacos,683,Olympiacos Piraeus,olympiakos-piraus,Olympiacos Piraeus,Olympiacos,Olympiakos
+M,Greece,5a5e7874,PAOK,8619,PAOK Thessaloniki FC,1091,PAOK Thessaloniki,paok-thessaloniki,PAOK Thessaloniki,PAOK Salonika,PAOK
+M,Hungary,a338349f,Vidi,8036,Fehervar FC,11107,MOL Fehérvár FC,videoton-fc,MOL Fehérvár FC,,
+M,Ireland,e4a9d483,Dundalk,1853,Dundalk,6066,Dundalk FC,dundalk-fc,Dundalk FC,Dundalk,Dundalk
+M,Ireland,f082c4f3,Shamrock Rovers,4131,Shamrock Rovers,3258,Shamrock Rovers,shamrock-rovers,Shamrock Rovers,Shamrock Rovers,Shamrock Rovers
+M,Israel,133013ee,Hapoel Be'er Sheva,9754,Hapoel Beer Sheva,2976,Hapoel Beer Sheva,hapoel-beer-sheva,Hapoel Beer Sheva,Hapoel Be'er,
+M,Israel,187832f5,Maccabi Haifa,10185,Maccabi Haifa,1064,Maccabi Haifa,maccabi-haifa,Maccabi Haifa,Maccabi Haifa,
+M,Israel,04c011d8,Maccabi Tel Aviv,7855,Maccabi Tel Aviv,119,Maccabi Tel Aviv,maccabi-tel-aviv,Maccabi Tel Aviv,Maccabi Tel-Aviv,
+M,Italy,dc56fe14,Milan,8564,Milan,5,AC Milan,ac-mailand,AC Milan,AC Milan,Milan
+M,Italy,cf74a709,Roma,8686,Roma,12,AS Roma,as-rom,AS Roma,AS Roma,Roma
+M,Italy,922493f3,Atalanta,8524,Atalanta,800,Atalanta BC,atalanta-bergamo,Atalanta BC,Atalanta,Atalanta
+M,Italy,4fcb34fd,Benevento,6266,Benevento,4171,Benevento Calcio,benevento-calcio,Benevento Calcio,Benevento,Benevento
+M,Italy,1d8099f8,Bologna,9857,Bologna,1025,Bologna FC 1909,fc-bologna,Bologna FC 1909,Bologna,Bologna
+M,Italy,4ef57aeb,Brescia,9858,Brescia,19,Brescia Calcio,brescia-calcio,Brescia Calcio,Brescia,Brescia
+M,Italy,c4260e09,Cagliari,8529,Cagliari,1390,Cagliari Calcio,cagliari-calcio,Cagliari Calcio,Cagliari,Cagliari
+M,Italy,cc919b35,Chievo,8533,Chievo Verona,862,Chievo Verona,chievo-verona,Chievo Verona,Chievo Verona,
+M,Italy,9aad3a77,Cremonese,7801,Cremonese,2239,US Cremonese,us-cremonese,US Cremonese,Cremonese,Cremonese
+M,Italy,3074d7b1,Crotone,9884,Crotone,4083,FC Crotone,fc-crotone,FC Crotone,Crotone,Crotone
+M,Italy,a3d88bd8,Empoli,8534,Empoli,749,FC Empoli,fc-empoli,FC Empoli,Empoli,Empoli
+M,Italy,af5d5982,Venezia,7881,Venezia,607,Venezia FC,venezia-fc,Venezia FC,F.B.C Unione Venezia,Venezia
+M,Italy,421387cf,Fiorentina,8535,Fiorentina,430,ACF Fiorentina,ac-florenz,ACF Fiorentina,Fiorentina,Fiorentina
+M,Italy,6a7ad59d,Frosinone,9891,Frosinone,8970,Frosinone Calcio,frosinone-calcio,Frosinone Calcio,Frosinone,Frosinone
+M,Italy,658bf2de,Genoa,10233,Genoa,252,Genoa CFC,fc-genua-1893,Genoa CFC,Genoa,Genoa
+M,Italy,d609edc0,Internazionale,8636,Inter,46,Inter Milan,inter-mailand,Inter Milan,Internazionale,Inter
+M,Italy,e0652b02,Juventus,9885,Juventus,506,Juventus FC,juventus-turin,Juventus FC,Juventus,Juventus
+M,Italy,7213da33,Lazio,8543,Lazio,398,SS Lazio,lazio-rom,SS Lazio,Lazio,Lazio
+M,Italy,ffcbe334,Lecce,9888,Lecce,1005,US Lecce,us-lecce,US Lecce,Lecce,Lecce
+M,Italy,21680aa4,Monza,6504,Monza,2919,AC Monza,ac-monza,AC Monza,Monza,Monza
+M,Italy,d48ad4ff,Napoli,9875,Napoli,6195,SSC Napoli,ssc-neapel,SSC Napoli,Napoli,Napoli
+M,Italy,eab4234c,Parma,674792,Parma,130,Parma Calcio 1913,fc-parma,Parma Calcio 1913,Parma,Parma
+M,Italy,c5577084,Salernitana,6480,Salernitana,380,US Salernitana 1919,us-salernitana-1919,US Salernitana 1919,Salernitana,Salernitana
+M,Italy,8ff9e3b3,Sampdoria,9882,Sampdoria,1038,UC Sampdoria,uc-sampdoria,UC Sampdoria,Sampdoria,Sampdoria
+M,Italy,e2befd26,Sassuolo,7943,Sassuolo,6574,US Sassuolo,us-sassuolo,US Sassuolo,Sassuolo,Sassuolo
+M,Italy,1d2fe027,SPAL,8547,SPAL,2722,SPAL,spal-2013,SPAL,Spal,Spal
+M,Italy,68449f6d,Spezia,9881,Spezia,3522,Spezia Calcio,spezia-calcio,Spezia Calcio,Spezia,Spezia
+M,Italy,105360fe,Torino,9804,Torino,416,Torino FC,fc-turin,Torino FC,Torino,Torino
+M,Italy,04eea015,Udinese,8600,Udinese,410,Udinese Calcio,udinese-calcio,Udinese Calcio,Udinese,Udinese
+M,Italy,0e72edf2,Hellas Verona,9876,Hellas Verona,276,Hellas Verona,hellas-verona,Hellas Verona,Verona,Verona
+M,Kazakhstan,c72c8787,Astana FK,166865,FC Astana,22220,FC Astana,fk-astana,FK Astana 1964,FC Astana,
+M,Kazakhstan,768fb565,Qaırat Almaty,8037,Kairat Almaty,10482,Kairat Almaty,kairat-almaty,Kairat Almaty,Kairat Almaty,
+M,Kosovo,1ebfb2aa,KF Ballkani Therandë,952668,Ballkani,28082,FC Ballkani,kf-ballkani,,Ballkani,
+M,Latvia,7c90642e,FK Rīgas FS,248871,RFS,33783,RFS,fk-rfs,,Rigas Futbola Skola,
+M,Lithuania,4c6489de,Žalgiris,4616,Zalgiris Vilnius,602,FK Zalgiris Vilnius,zalgiris-vilnius,,Zalgiris Vilnius,
+M,Luxembourg,baae133b,F91 Dudelange,4548,F91 Dudelange,853,F91 Dudelange,f91-dudelange,F91 Dudelange,F91 Dudelange,
+M,Macedonia,5b47810a,FK Vardar,8041,FK Vardar Skopje,77,Vardar Skopje,vardar-skopje,,Vardar,
+M,Mexico,7c76bc53,Atlas,6577,Atlas,8590,Atlas Guadalajara,atlas-guadalajara,Atlas Guadalajara,Atlas,Atlas
+M,Mexico,5d274ee4,Atlético,6358,Atletico de San Luis,40188,Atlético de San Luis,atletico-de-san-luis,,Atlético San Luis,Atl. San Luis
+M,Mexico,18d3c3a3,América,6576,CF America,3631,CF América,cf-america,CF América,Club América,Club America
+M,Mexico,632f1838,Cruz Azul,6578,Cruz Azul,3711,CD Cruz Azul,cd-cruz-azul,CD Cruz Azul,Cruz Azul,Cruz Azul
+M,Mexico,29bff345,FC Juárez,649424,FC Juarez,49283,FC Juárez,fc-juarez,,FC Juárez,Juarez
+M,Mexico,c02b0f7a,Guadalajara,7807,Guadalajara,6711,Deportivo Guadalajara,deportivo-guadalajara,Deportivo Guadalajara,Guadalajara,Guadalajara Chivas
+M,Mexico,fd7dad55,León,1841,Leon,4941,Club León FC,club-leon-fc,Club León FC,León,Club Leon
+M,Mexico,272a9f59,Lobos BUAP,162417,Lobos BUAP,13357,Lobos BUAP,lobos-buap,,Lobos de la BUAP,Lobos BUAP
+M,Mexico,f0297c23,Mazatlán,1170234,Mazatlan FC,82696,Mazatlán FC,mazatlan-fc,,Mazatlán FC,Mazatlan FC
+M,Mexico,dd5ca9bd,Monterrey,7849,Monterrey,2407,CF Monterrey,cf-monterrey,CF Monterrey,Monterrey,Monterrey
+M,Mexico,8e3492b3,Morelia,6575,Atletico Morelia,5623,Club Atlético Morelia,club-atletico-morelia,,Morelia,
+M,Mexico,752db496,Necaxa,1842,Necaxa,1146,Club Necaxa,club-necaxa,Club Necaxa,Necaxa,Necaxa
+M,Mexico,1be8d2e3,Pachuca,7848,Pachuca,4035,CF Pachuca,cf-pachuca,,Pachuca,Pachuca
+M,Mexico,73fd2313,Puebla,7847,Puebla,5662,Puebla FC,puebla-fc,Puebla FC,Puebla,Puebla
+M,Mexico,c9d59c6c,UNAM,1946,Club Universidad Nacional,7633,UNAM Pumas,unam-pumas,UNAM Pumas,Pumas Unam,U.N.A.M.- Pumas
+M,Mexico,c3352ce7,Querétaro,1943,Queretaro,4961,Querétaro FC,queretaro-fc,Querétaro FC,Querétaro,Queretaro
+M,Mexico,03b65ba9,Santos Laguna,7857,Santos Laguna,1403,Santos Laguna,santos-laguna,,Santos Laguna,Santos Laguna
+M,Mexico,d9e1bd51,UANL,8561,Tigres,7055,Tigres UANL,tigres-uanl,Tigres UANL,Tigres UANL,U.A.N.L.- Tigres
+M,Mexico,a42ddf2f,Tijuana,162418,Tijuana,13353,Club Tijuana,club-tijuana,Club Tijuana,Tijuana,Club Tijuana
+M,Mexico,44b88a4e,Toluca,6618,Toluca,1804,Deportivo Toluca,deportivo-toluca,,Toluca,Toluca
+M,Mexico,260596d3,Veracruz,6382,Veracruz,5138,Tiburones Rojos de Veracruz,tiburones-rojos-de-veracruz,Tiburones Rojos de Veracruz,Veracruz,Veracruz
+M,Moldova,50995c1e,Sheriff Tiraspol,9729,FC Sheriff,2481,FC Sheriff Tiraspol,fc-sheriff-tiraspol,Sheriff Tiraspol,FC Sheriff Tiraspol,
+M,Netherlands,4e7459b7,ADO Den Haag,10217,ADO Den Haag,1268,ADO Den Haag,ado-den-haag,ADO Den Haag,ADO Den Haag,
+M,Netherlands,19c3f8c4,Ajax,8593,Ajax,610,Ajax Amsterdam,ajax-amsterdam,Ajax Amsterdam,Ajax,Ajax
+M,Netherlands,3986b791,AZ Alkmaar,10229,AZ Alkmaar,1090,AZ Alkmaar,az-alkmaar,AZ Alkmaar,AZ,AZ Alkmaar
+M,Netherlands,5c9e307a,Cambuur,7788,Cambuur,133,SC Cambuur Leeuwarden,sc-cambuur-leeuwarden,,Cambuur Leeuwarden,Cambuur
+M,Netherlands,c6f58d53,De Graafschap,8526,De Graafschap,642,De Graafschap Doetinchem,de-graafschap-doetinchem,De Graafschap Doetinchem,De Graafschap,
+M,Netherlands,01888db1,Emmen,6660,FC Emmen,1283,FC Emmen,fc-emmen,FC Emmen,Emmen,FC Emmen
+M,Netherlands,740cb7d4,Excelsior,10218,Excelsior,798,Excelsior Rotterdam,sbv-excelsior-rotterdam,,Excelsior,Excelsior
+M,Netherlands,bec05adb,Groningen,8674,FC Groningen,202,FC Groningen,fc-groningen,FC Groningen,FC Groningen,Groningen
+M,Netherlands,a1f721d3,Twente,8611,FC Twente,317,Twente Enschede FC,fc-twente-enschede,Twente Enschede FC,FC Twente,Twente
+M,Netherlands,2a428619,Utrecht,9908,FC Utrecht,200,FC Utrecht,fc-utrecht,FC Utrecht,FC Utrecht,Utrecht
+M,Netherlands,8783f4ee,Volendam,6601,FC Volendam,724,FC Volendam,fc-volendam,FC Volendam,FC Volendam,Volendam
+M,Netherlands,fb4ca611,Feyenoord,10235,Feyenoord,234,Feyenoord Rotterdam,feyenoord-rotterdam,Feyenoord Rotterdam,Feyenoord,Feyenoord
+M,Netherlands,bd08295c,Fortuna Sittard,6422,Fortuna Sittard,385,Fortuna Sittard,fortuna-sittard,Fortuna Sittard,Fortuna Sittard,For Sittard
+M,Netherlands,e33d6108,Go Ahead Eagles,6433,Go Ahead Eagles,1435,Go Ahead Eagles,go-ahead-eagles-deventer,,Go Ahead Eagles,Go Ahead Eagles
+M,Netherlands,193ff7aa,Heerenveen,10228,SC Heerenveen,306,SC Heerenveen,sc-heerenveen,SC Heerenveen,Heerenveen,Heerenveen
+M,Netherlands,c882b88e,Heracles Almelo,9791,Heracles,1304,Heracles Almelo,heracles-almelo,Heracles Almelo,Heracles,
+M,Netherlands,8ed04be8,NAC Breda,9761,NAC Breda,132,NAC Breda,nac-breda,NAC Breda,NAC,
+M,Netherlands,fc629994,NEC Nijmegen,8464,NEC Nijmegen,467,NEC Nijmegen,nec-nijmegen,NEC Nijmegen,NEC,Nijmegen
+M,Netherlands,e3db180b,Zwolle,6413,PEC Zwolle,1269,PEC Zwolle,pec-zwolle,PEC Zwolle,PEC Zwolle,
+M,Netherlands,e334d850,PSV Eindhoven,8640,PSV Eindhoven,383,PSV Eindhoven,psv-eindhoven,PSV Eindhoven,PSV,PSV Eindhoven
+M,Netherlands,bb14adb3,RKC Waalwijk,10219,RKC Waalwijk,235,RKC Waalwijk,rkc-waalwijk,RKC Waalwijk,RKC,Waalwijk
+M,Netherlands,146a68ce,Sparta Rotterdam,8614,Sparta Rotterdam,468,Sparta Rotterdam,sparta-rotterdam,Sparta Rotterdam,Sparta,Sparta Rotterdam
+M,Netherlands,209d7fa2,Vitesse,8277,Vitesse,499,Vitesse Arnhem,vitesse-arnheim,Vitesse Arnhem,Vitesse,Vitesse
+M,Netherlands,534ac6d0,VVV-Venlo,9839,VVV-Venlo,1426,VVV-Venlo,vvv-venlo,VVV-Venlo,VVV Venlo,
+M,Netherlands,f0479d7b,Willem II,8525,Willem II,403,Willem II Tilburg,willem-ii-tilburg,,Willem II,
+M,Norway,d86248bd,Bodø/Glimt,8402,Bodø/Glimt,501,FK Bodø/Glimt,fk-bodo-glimt,,Bodo/Glimt,Bodo/Glimt
+M,Norway,174bd5a0,Molde,9917,Molde,687,Molde FK,molde-fk,Molde FK,Molde,Molde
+M,Norway,90e37d3a,Rosenborg,8422,Rosenborg,195,Rosenborg BK,rosenborg-trondheim,Rosenborg BK,Rosenborg,Rosenborg
+M,Norway,47b3e736,Sarpsborg 08,8509,Sarpsborg 08,10217,Sarpsborg 08 FF,sarpsborg-08-ff,Sarpsborg 08 FF,Sarpsborg,Sarpsborg 08
+M,Poland,fdba14df,Lech Poznań,2182,Lech Poznan,238,Lech Poznan,ech-poznań,Lech Poznan,Lech Poznan,Lech Poznan
+M,Poland,a73408a7,Legia Warsaw,8673,Legia Warszawa,255,Legia Warszawa,legia-warschau,Legia Warszawa,Legia Warsaw,Legia
+M,Portugal,5905b07a,Belenenses SAD,9807,B-SAD,2457,B SAD,belenenses-sad,Belenenses SAD,Belenenses,
+M,Portugal,a77c513e,Benfica,9772,Benfica,294,SL Benfica,benfica-lissabon,SL Benfica,Benfica,Benfica
+M,Portugal,37b7e9e2,Boavista,8613,Boavista,2503,Boavista FC,boavista-porto-fc,Boavista FC,Boavista,Boavista
+M,Portugal,69d84c29,Braga,10264,Braga,1075,SC Braga,sc-braga,SC Braga,Braga,Sp Braga
+M,Portugal,5c9eb756,Nacional,10214,Nacional,982,CD Nacional,cd-nacional,,C.D. Nacional,
+M,Portugal,b20a2b76,Casa Pia,212821,Casa Pia AC,3268,Casa Pia AC,casa-pia-ac,,Casa Pia,Casa Pia
+M,Portugal,bf4e8a13,Chaves,9774,Chaves,3325,GD Chaves,gd-chaves,GD Chaves,Chaves,Chaves
+M,Portugal,cfdb925a,Aves,10223,Aves,3336,Desportivo Aves,desportivo-aves,,Desportivo Aves,
+M,Portugal,00c41b75,Estoril,7842,Estoril,1465,GD Estoril Praia,gd-estoril-praia,,Estoril Praia,Estoril
+M,Portugal,2de656d5,Famalicão,1634,Famalicao,3329,FC Famalicão,fc-famalicao,FC Famalicão,Famalicao,Famalicao
+M,Portugal,0d36ddd4,Arouca,158085,Arouca,8024,FC Arouca,fc-arouca,,FC Arouca,Arouca
+M,Portugal,5e876ee6,Porto,9773,FC Porto,2500,FC Porto,fc-porto,FC Porto,FC Porto,Porto
+M,Portugal,a995609f,Feirense,4064,Feirense,3349,CD Feirense,cd-feirense,,Feirense,
+M,Portugal,6a329209,Gil Vicente FC,9764,Gil Vicente,2424,Gil Vicente FC,gil-vicente-fc,,Gil Vicente,Gil Vicente
+M,Portugal,3f319bc9,Vitória Guimarães,7844,Vitoria de Guimaraes,2420,Vitória Guimarães SC,vitoria-guimaraes-sc,Vitória Guimarães SC,Guimaraes,Guimaraes
+M,Portugal,c1b0f61b,Marítimo,10212,Maritimo,1301,CS Marítimo,cs-maritimo,,Maritimo,Maritimo
+M,Portugal,e4502862,Moreirense,8348,Moreirense,979,Moreirense FC,moreirense-fc,,Moreirense,
+M,Portugal,f6af6f6f,Paços de Ferreira,6403,Pacos de Ferreira,2995,FC Paços de Ferreira,fc-pacos-de-ferreira,FC Paços de Ferreira,Pacos Ferreira,Pacos Ferreira
+M,Portugal,a549d6c6,Portimonense,9765,Portimonense,7378,Portimonense SC,portimonense-sc,Portimonense SC,Portimonense,Portimonense
+M,Portugal,eea856da,Rio Ave,7841,Rio Ave,2425,Rio Ave FC,rio-ave-fc,,Rio Ave,Rio Ave
+M,Portugal,f5b64cb1,Santa Clara,1567,Santa Clara,2423,CD Santa Clara,cd-santa-clara,,Santa Clara,Santa Clara
+M,Portugal,13dc44fd,Sporting CP,9768,Sporting CP,336,Sporting CP,sporting-lissabon,Sporting CP,Sporting CP,Sp Lisbon
+M,Portugal,e442fa76,Tondela,188163,Tondela,7179,CD Tondela,cd-tondela,CD Tondela,Tondela,
+M,Portugal,4cb59dcf,Vitória Setúbal,10238,Vitoria de Setubal,1085,Vitória Setúbal FC,vitoria-setubal-fc,,Vitoria Setubal,
+M,Portugal,b9daacef,Vizela,4531,Vizela,6912,FC Vizela,fc-vizela,FC Vizela,Vizela,Vizela
+M,Portugal,489c9cd9,Farense,6004,Farense,4294,SC Farense,sc-farense,SC Farense,,
+M,Romania,ff04e205,CFR Cluj,9731,CFR Cluj,7769,CFR Cluj,cfr-cluj,CFR Cluj,CFR 1907 Cluj,CFR Cluj
+M,Romania,aed59852,FCSB,9723,FC FCSB,301,FCSB,fcsb,FCSB,,FCSB
+M,Russia,f0c0c2c2,CSKA Moscow,9760,CSKA Moscow,2410,CSKA Moscow,zska-moskau,CSKA Moscow,CSKA Moscow,CSKA Moscow
+M,Russia,fa11a9cc,Krasnodar,168719,FC Krasnodar,16704,FK Krasnodar,fk-krasnodar,FK Krasnodar,FC Krasnodar,Krasnodar
+M,Russia,5a8dc328,Lokomotiv Moscow,8710,Lokomotiv Moscow,932,Lokomotiv Moscow,lokomotiv-moskau,Lokomotiv Moscow,Lokomotiv Moscow,Lokomotiv Moscow
+M,Russia,8c635914,Spartak Moscow,8643,Spartak Moscow,232,Spartak Moscow,spartak-moskau,Spartak Moscow,Spartak Moscow,Spartak Moscow
+M,Russia,98ce363d,Zenit,8698,Zenit St. Petersburg,964,Zenit St. Petersburg,zenit-st-petersburg,Zenit St. Petersburg,Zenit St Petersburg,Zenit
+M,Scotland,b81aa4fa,Celtic,9925,Celtic,371,Celtic FC,celtic-glasgow,Celtic FC,Celtic,Celtic
+M,Scotland,7c77b0bc,Heart of Midlothian,9860,Hearts,43,Heart of Midlothian FC,heart-of-midlothian-fc,Heart of Midlothian FC,Hearts,Hearts
+M,Scotland,86b7acd2,Rangers,8548,Rangers,124,Rangers FC,glasgow-rangers,Rangers FC,Rangers,Rangers
+M,Serbia,dde3e804,Partizan,7998,Partizan Beograd,669,FK Partizan Belgrade,k-partizan-belgrad,FK Partizan Belgrade,FK Partizan Belgrade,
+M,Serbia,099c6eb5,Red Star Belgrade,8687,FK Crvena Zvezda,159,Red Star Belgrade,roter-stern-belgrad,Red Star Belgrade,Red Star Belgrade,
+M,Slovakia,c16f1fe7,Spartak Trnava,4662,Spartak Trnava,365,Spartak Trnava,spartak-trnava,Spartak Trnava,FC Spartak Trnava,
+M,Slovakia,ae7f2f70,Slovan Bratislava,6019,Slovan Bratislava,540,Slovan Bratislava,slovan-bratislava,Slovan Bratislava,Slovan Bratislava,
+M,Slovenia,2aae7689,NK Maribor,8340,Maribor,790,NK Maribor,nk-maribor,NK Maribor,NK Maribor,
+M,Slovenia,43a5e45a,NŠ Mura,2172,Mura,4059,NS Mura,ns-mura,NS Mura,NS Mura,
+M,Spain,8d6fd021,Alavés,9866,Deportivo Alaves,1108,Deportivo Alavés,deportivo-alaves,Deportivo Alavés,Alavés,Alaves
+M,Spain,78ecf4bb,Almería,9865,Almeria,3302,UD Almería,ud-almeria,,Almeria,Almeria
+M,Spain,2b390eca,Athletic Club,8315,Athletic Club,621,Athletic Bilbao,athletic-bilbao,Athletic Bilbao,Athletic Bilbao,Ath Bilbao
+M,Spain,db3b9613,Atlético Madrid,9906,Atletico Madrid,13,Atlético Madrid,atletico-madrid,Atlético Madrid,Atletico Madrid,Ath Madrid
+M,Spain,206d90db,Barcelona,8634,Barcelona,131,FC Barcelona,fc-barcelona,FC Barcelona,Barcelona,Barcelona
+M,Spain,ee7c297c,Cádiz,8385,Cadiz,2687,Cádiz CF,cadiz-cf,Cádiz CF,Cadiz,Cadiz
+M,Spain,f25da7fb,Celta Vigo,9910,Celta Vigo,940,Celta de Vigo,celta-vigo,Celta de Vigo,Celta Vigo,Celta
+M,Spain,2a60ed82,Deportivo La Coruña,9783,Deportivo La Coruna,897,Deportivo de La Coruña,deportivo-la-coruna,Deportivo de La Coruña,Deportivo La Coruña,La Coruna
+M,Spain,bea5c710,Eibar,8372,Eibar,1533,SD Eibar,sd-eibar,SD Eibar,Eibar,Eibar
+M,Spain,6c8b07df,Elche,10268,Elche,1531,Elche CF,fc-elche,Elche CF,Elche,Elche
+M,Spain,a8661628,Espanyol,8558,Espanyol,714,RCD Espanyol Barcelona,espanyol-barcelona,RCD Espanyol Barcelona,Espanyol,Espanol
+M,Spain,7848bd64,Getafe,8305,Getafe,3709,Getafe CF,fc-getafe,Getafe CF,Getafe,Getafe
+M,Spain,9024a00a,Girona,7732,Girona,12321,Girona FC,fc-girona,Girona FC,Girona FC,Girona
+M,Spain,a0435291,Granada,7878,Granada,16795,Granada CF,fc-granada,Granada CF,Granada,Granada
+M,Spain,0049d422,Las Palmas,8306,Las Palmas,472,UD Las Palmas,ud-las-palmas,UD Las Palmas,Las Palmas,Las Palmas
+M,Spain,7c6f2c78,Leganés,7854,Leganes,1244,CD Leganés,cd-leganes,CD Leganés,Leganes,Leganes
+M,Spain,9800b6a1,Levante,8581,Levante,3368,Levante UD,ud-levante,Levante UD,Levante,Levante
+M,Spain,1c896955,Málaga,9864,Malaga,1084,Málaga CF,fc-malaga,Málaga CF,Málaga,Malaga
+M,Spain,2aa12281,Mallorca,8661,Mallorca,237,RCD Mallorca,rcd-mallorca,RCD Mallorca,Mallorca,Mallorca
+M,Spain,03c57e2b,Osasuna,8371,Osasuna,331,CA Osasuna,ca-osasuna,CA Osasuna,Osasuna,Osasuna
+M,Spain,98e8af82,Rayo Vallecano,8370,Rayo Vallecano,367,Rayo Vallecano,rayo-vallecano,Rayo Vallecano,Rayo Vallecano,Vallecano
+M,Spain,fc536746,Real Betis,8603,Real Betis,150,Real Betis Balompié,real-betis-sevilla,Real Betis Balompié,Real Betis,Betis
+M,Spain,53a2f082,Real Madrid,8633,Real Madrid,418,Real Madrid,real-madrid,Real Madrid,Real Madrid,Real Madrid
+M,Spain,e31d1cd9,Real Sociedad,8560,Real Sociedad,681,Real Sociedad,real-sociedad-san-sebastian,Real Sociedad,Real Sociedad,Sociedad
+M,Spain,17859612,Valladolid,10281,Real Valladolid,366,Real Valladolid CF,real-valladolid,Real Valladolid CF,Real Valladolid,Valladolid
+M,Spain,c6c493e6,Huesca,96925,SD Huesca,5358,SD Huesca,sd-huesca,SD Huesca,SD Huesca,Huesca
+M,Spain,ad2be733,Sevilla,8302,Sevilla,368,Sevilla FC,fc-sevilla,Sevilla FC,Sevilla FC,Sevilla
+M,Spain,dcc91a7b,Valencia,10267,Valencia,1049,Valencia CF,fc-valencia,Valencia CF,Valencia,Valencia
+M,Spain,2a8183b3,Villarreal,10205,Villarreal,1050,Villarreal CF,fc-villarreal,Villarreal CF,Villarreal,Villarreal
+M,Sweden,9423c05a,Djurgården,9802,Djurgården,1044,Djurgårdens IF,djurgardens-if,Djurgardens IF,Djurgardens IF,Djurgarden
+M,Sweden,f3d8c8b9,Malmö,10237,Malmö FF,496,Malmö FF,malmo-ff,Malmö FF,Malmo FF,Malmo FF
+M,Sweden,577e2606,Östersund,2004,Östersunds FK,9614,Östersunds FK,ostersunds-fk,,Östersunds FK,Oster
+M,Switzerland,d3d9424a,Basel,9931,Basel,26,FC Basel 1893,c-basel-1893,FC Basel 1893,Basel,Basel
+M,Switzerland,4dcf77da,Lugano,7896,Lugano,2790,FC Lugano,fc-lugano,FC Lugano,FC Lugano,Lugano
+M,Switzerland,b1b46fc3,Vaduz,9824,FC Vaduz,163,FC Vaduz,fc-vaduz,FC Vaduz,FC Vaduz,Vaduz
+M,Switzerland,22a5a99c,Zürich,10243,FC Zürich,260,FC Zürich,fc-zurich,FC Zürich,FC Zurich,Zurich
+M,Switzerland,4b682260,Young Boys,10192,Young Boys,452,BSC Young Boys,bsc-young-boys,BSC Young Boys,Young Boys,Young Boys
+M,Turkey,92ce6559,Akhisar Belediyespor,146396,Akhisarspor,19771,Akhisarspor,akhisar-belediye-genclik-ve-spor,Akhisarspor,Akhisar Belediye,
+M,Turkey,0f9294bd,Beşiktaş,10188,Beşiktaş,114,Besiktas JK,besiktas-istanbul,Besiktas JK,Besiktas,Besiktas
+M,Turkey,ae1e2d7d,Fenerbahçe,8695,Fenerbahçe,36,Fenerbahce SK,fenerbahce-istanbul,Fenerbahce SK,Fenerbahce,Fenerbahce
+M,Turkey,ecd11ca2,Galatasaray,8637,Galatasaray,141,Galatasaray SK,galatasaray-istanbul,Galatasaray SK,Galatasaray,Galatasaray
+M,Turkey,bff39cf5,İstanbul Başakşehir,1933,Istanbul Başakşehir,6890,Istanbul Basaksehir FK,istanbul-buyuksehir-belediyespor,Istanbul Basaksehir FK,Istanbul Basaksehir,
+M,Turkey,5700c020,Konyaspor,8622,Konyaspor,2293,Konyaspor,konyaspor,,Konyaspor,Konyaspor
+M,Turkey,c63f6c0c,Sivasspor,6265,Sivasspor,2381,Sivasspor,sivasspor,Sivasspor,Sivasspor,Sivasspor
+M,Turkey,c8ad3091,Trabzonspor,9752,Trabzonspor,449,Trabzonspor,trabzonspor,Trabzonspor,Trabzonspor,Trabzonspor
+M,Ukraine,c734e22f,Dynamo Kyiv,8688,Dynamo Kyiv,338,Dynamo Kyiv,dynamo-kiew,Dynamo Kyiv,Dynamo Kiev,
+M,Ukraine,946a30cb,Zorya Luhansk,7770,Zorya,10690,Zorya Lugansk,orya-lugansk,Zorya Lugansk,FC Zorya Luhansk,
+M,Ukraine,797d38d2,FC Oleksandriya,6072,FC Olexandriya,18303,FK Oleksandriya,pfk-oleksandria,FK Oleksandriya,PFC Oleksandriya,
+M,Ukraine,27b20cea,SK Dnipro-1,883952,SC Dnipro-1,60551,SK Dnipro-1,sk-dnipro-1,,SC Dnipro-1,
+M,Ukraine,e89d5a28,Shakhtar Donetsk,9728,Shakhtar Donetsk,660,Shakhtar Donetsk,shakhtar-donetsk,Shakhtar Donetsk,Shakhtar Donetsk,
+M,Ukraine,99f258c2,Vorskla Poltava,2373,Vorskla,2740,Vorskla Poltava,vorskla-poltava,Vorskla Poltava,Vorskla,
+M,USA,1ebc1a5b,Atlanta United,773958,Atlanta United,51663,Atlanta United FC,atlanta-united-fc,Atlanta United,Atlanta United FC,Atlanta Utd
+M,USA,b918956d,Austin FC,1218886,Austin FC,72309,Austin FC,austin-fc,Austin FC,Austin FC,Austin FC
+M,USA,eb57545a,Charlotte FC,1323940,Charlotte FC,78435,Charlotte FC,charlotte-fc,,Charlotte FC,Charlotte
+M,USA,f9940243,Chicago Fire,6397,Chicago Fire FC,432,Chicago Fire FC,chicago-fire,Chicago Fire FC,Chicago Fire,Chicago Fire
+M,USA,415b4465,Colorado Rapids,8314,Colorado Rapids,1247,Colorado Rapids,colorado-rapids,Colorado Rapids,Colorado Rapids,Colorado Rapids
+M,USA,529ba333,Columbus Crew,6001,Columbus Crew,813,Columbus Crew SC,columbus-crew,Columbus Crew SC,Columbus Crew,Columbus Crew
+M,USA,44117292,D.C. United,6602,DC United,2440,D.C. United,d-c-united,D.C. United,DC United,DC United
+M,USA,e9ea41b2,FC Cincinnati,722265,FC Cincinnati,51772,FC Cincinnati,fc-cincinnati,FC Cincinnati,FC Cincinnati,FC Cincinnati
+M,USA,15cf8f40,FC Dallas,6399,FC Dallas,8816,FC Dallas,fc-dallas,FC Dallas,FC Dallas,FC Dallas
+M,USA,0d885416,Houston Dynamo,8259,Houston Dynamo FC,9168,Houston Dynamo FC,houston-dynamo,Houston Dynamo,Houston Dynamo,Houston Dynamo
+M,USA,cb8b86a2,Inter Miami,960720,Inter Miami CF,69261,Inter Miami CF,inter-miami-cf,Inter Miami CF,Inter Miami CF,Inter Miami
+M,USA,81d817a3,Los Angeles FC,867280,Los Angeles FC,51828,Los Angeles FC,los-angeles-football-club,LAFC,Los Angeles FC,Los Angeles FC
+M,USA,d8b46897,LA Galaxy,6637,LA Galaxy,1061,Los Angeles Galaxy,los-angeles-galaxy,Los Angeles Galaxy,Los Angeles Galaxy,Los Angeles Galaxy
+M,USA,99ea75a6,Minnesota United,207242,Minnesota United,56089,Minnesota United FC,minnesota-united-fc,Minnesota United FC,Minnesota United FC,Minnesota United
+M,USA,fc22273c,CF Montréal,161195,CF Montreal,4078,Club de Foot Montréal,montreal-impact,Montreal Impact,Montreal Impact,CF Montreal
+M,USA,35f1b818,Nashville SC,915807,Nashville SC,63966,Nashville SC,nashville-mls-team,Nashville SC,Nashville SC,Nashville SC
+M,USA,3c079def,New England Revolution,6580,New England Revolution,626,New England Revolution,new-england-revolution,New England Revolution,New England Revolution,New England Revolution
+M,USA,64e81410,New York City FC,546238,New York City FC,40100,New York City FC,new-york-city-fc,NYCFC,New York City FC,New York City
+M,USA,69a0fb10,New York Red Bulls,6514,New York Red Bulls,623,New York Red Bulls,new-york-red-bulls,New York Red Bulls,New York Red Bulls,New York Red Bulls
+M,USA,46ef01d0,Orlando City,267810,Orlando City,45604,Orlando City SC,orlando-city-sc,Orlando City,Orlando City SC,Orlando City
+M,USA,46024eeb,Philadelphia Union,191716,Philadelphia Union,25467,Philadelphia Union,philadelphia-union,Philadelphia Union,Philadelphia Union,Philadelphia Union
+M,USA,d076914e,Portland Timbers,307690,Portland Timbers,4291,Portland Timbers,portland-timbers,Portland Timbers,Portland Timbers,Portland Timbers
+M,USA,f7d86a43,Real Salt Lake,6606,Real Salt Lake,6643,Real Salt Lake City,real-salt-lake-city,Real Salt Lake City,Real Salt Lake,Real Salt Lake
+M,USA,ca460650,San Jose Earthquakes,6603,San Jose Earthquakes,218,San Jose Earthquakes,san-jose-earthquakes,San Jose Earthquakes,San Jose Earthquakes,San Jose Earthquakes
+M,USA,6218ebd4,Seattle Sounders FC,130394,Seattle Sounders FC,9636,Seattle Sounders FC,seattle-sounders-fc,Seattle Sounders FC,Seattle Sounders FC,Seattle Sounders
+M,USA,4acb0537,Sporting KC,6604,Sporting Kansas City,4284,Sporting Kansas City,sporting-kansas-city,Sporting Kansas City,Sporting Kansas City,Sporting Kansas City
+M,USA,bd97ac1f,St. Louis City,1427963,St. Louis City,82686,St. Louis CITY SC,st-louis-city-sc,,St. Louis CITY SC,St. Louis City
+M,USA,130f43fa,Toronto FC,56453,Toronto FC,11141,Toronto FC,toronto-fc,Toronto FC,Toronto FC,Toronto FC
+M,USA,ab41cb90,Vancouver Whitecaps FC,307691,Vancouver Whitecaps,6321,Vancouver Whitecaps FC,vancouver-whitecaps,Vancouver Whitecaps FC,Vancouver Whitecaps,Vancouver Whitecaps
+F,Australia,772ed712,Adelaide United,675725,Adelaide United,,,,,,
+F,Australia,f60413f7,Brisbane Roar,675726,Brisbane Roar FC,,,,Brisbane Roar,,
+F,Australia,a2fa3506,Canberra United,675727,Canberra United FC,,,,,,
+F,Australia,6082332e,Melbourne City,675728,Melbourne City FC,,,,,,
+F,Australia,4f6d7ee7,Melbourne Victory,675734,Melbourne Victory,,,,,,
+F,Australia,acd7ce24,Newcastle Jets,675729,Newcastle Jets,,,,,,
+F,Australia,bae78cfe,Perth Glory,675730,Perth Glory,,,,Perth Glory,,
+F,Australia,5903e501,Sydney FC,675731,Sydney FC,,,,,,
+F,Australia,bc52ac89,Wellington Phoenix FC,1300347,Wellington Phoenix,,,,,,
+F,Australia,25b31403,Western Sydney Wanderers,675732,Western Sydney Wanderers FC,,,,,,
+F,Australia,0a911f26,Western United,1406928,Western United FC,,,,,,
+F,England,411b1108,Arsenal,258657,Arsenal Women,,,,,Arsenal Women,
+F,England,e3719fe4,Birmingham City,258658,Birmingham City Women (W),,,,,Birmingham City,
+F,England,fa2752bc,Brighton & Hove Albion,231505,Brighton Women,,,,Brisbane Roar,Brighton & Hove Albion,
+F,England,41916f68,Bristol City,258659,Bristol City WFC (W),,,,,Bristol Academy,
+F,England,a6a4e67d,Chelsea,258661,Chelsea Women,,,,,Chelsea FC Women,
+F,England,c4989550,Everton,258663,Everton Women,,,,,Everton Ladies,
+F,England,23bce84e,Leicester City WFC,614954,Leicester City WFC,,,,,Leicester City WFC,
+F,England,00f74a56,Liverpool,258665,Liverpool Women,,,,,Liverpool Women,
+F,England,9ce68f8a,Manchester City,231488,Man City Women,,,,,Manchester City Women,
+F,England,0bbd83f6,Manchester United,954396,Man United Women,,,,,Manchester United Women,
+F,England,5d020380,Reading,231483,Reading FC Women,,,,,Reading,
+F,England,e8e4577c,Tottenham,628117,Tottenham Women,,,,,Tottenham Women,
+F,England,52d65cea,West Ham United,231497,West Ham Women,,,,,West Ham United Ladies,
+F,England,a506e4a2,Yeovil Town,231504,Yeovil Town,,,,Yeovil Town,Yeovil Town Ladies,
+F,England,53157aa8,Aston Villa,231494,Aston Villa Women,,,,,,
+F,France,b54d31b3,Soyaux,628136,ASJ Soyaux,,,,,,
+F,France,69dee2b0,Bordeaux,862896,Bordeaux,,,,,,
+F,France,68f9fd31,Dijon,593381,Dijon Foot,,,,,,
+F,France,4fcc2996,Fleury,862902,Fleury Merogis U.S,,,,,,
+F,France,a36a81ff,Issy,608066,GPSO 92 Issy,,,,,,
+F,France,abc4f6d7,Guingamp,597900,Guingamp,,,,,,
+F,France,c57b7254,Le Havre,1169987,Le Havre,,,,,,
+F,France,7f2012ad,Lyon,394119,Lyon,,,,,,
+F,France,7bbdea71,Montpellier,606039,Montpellier,,,,,,
+F,France,28d9b675,Paris FC,862893,Paris FC,,,,,,
+F,France,80595417,Paris Saint-Germain,294858,Paris Saint Germain,,,,,,
+F,France,e3696882,Stade de Reims,1070036,Reims,,,,,,
+F,France,700c41b4,Rodez,628137,Rodez Aveyron,,,,,,
+F,France,c1a6475c,Saint-Étienne,612967,Saint-Etienne,,,,,,
+F,Germany,c6d4860a,Bayer Leverkusen,679913,Bayer Leverkusen,,,,,,
+F,Germany,51ec22be,Bayern Munich,671935,Bayern München,,,,,,
+F,Germany,97b7c0e8,E. Frankfurt,294857,Eintracht Frankfurt,,,,,,
+F,Germany,88ddc98e,Köln,672088,FC Köln,,,,,,
+F,Germany,4ed1418c,SV Meppen,1172323,Meppen,,,,SV Meppen,,
+F,Germany,0580d9a9,MSV Duisburg,856561,MSV Duisburg,,,,MSV Duisburg,,
+F,Germany,b4de690d,Freiburg,679909,SC Freiburg,,,,,,
+F,Germany,becc1dd0,Essen,674689,SGS Essen,,,,,,
+F,Germany,87705c62,Hoffenheim,679910,TSG 1899 Hoffenheim,,,,,,
+F,Germany,de550500,Turbine Potsdam,294583,Turbine Potsdam,,,,,,
+F,Germany,a1393014,Wolfsburg,394121,VfL Wolfsburg,,,,,,
+F,Germany,7adbf480,Werder Bremen,672089,Werder Bremen,,,,,,
+F,Italy,54da9a57,AC Milan,1184315,AC Milan,,,,,,
+F,Italy,756c9acb,FC Como Women,584394,FCF Como 2000,,,,,,
+F,Italy,c99ff6e5,Fiorentina,856740,Fiorentina,,,,,,
+F,Italy,d35ed67b,Hellas Verona,401650,Hellas Verona,,,,,,
+F,Italy,06d05f19,Internazionale,1184314,Inter,,,,,,
+F,Italy,613577b8,Juventus,956623,Juventus,,,,,,
+F,Italy,19db4c32,Lazio,602530,Lazio,,,,,,
+F,Italy,f7d05cb5,Parma Calcio 1913,1184312,Parma Calcio 1913,,,,,,
+F,Italy,be35aa4d,Pink Bari,584397,Pink Bari,,,,,,
+F,Italy,9f18ced7,ASD Calcio Pomigliano,1285955,Pomigliano Calcio,,,,,,
+F,Italy,02f8d026,AS Roma,584402,Roma,,,,,,
+F,Italy,828ce826,Napoli,1184318,S.S.D. Napoli Femminile,,,,,,
+F,Italy,20f5bd86,San Marino,1184319,San Marino Academy,,,,San Marino,,
+F,Italy,a8e83f23,Sassuolo,1184320,Sassuolo,,,,,,
+F,Italy,58e367c3,UC Sampdoria,1184313,UC Sampdoria,,,,,,
+F,Italy,b72bc283,Empoli,,,,,,,,
+F,Italy,d42d8b2f,Florentia,,,,,,,,
+F,Spain,e9fecaf2,Alhama,1396362,Alhama CF,,,,,,
+F,Spain,94929c05,Athletic Club,789880,Athletic Bilbao,,,,,,
+F,Spain,b56c2667,Atlético Madrid,671936,Atletico Madrid Femenino,,,,,,
+F,Spain,15f49df1,Barcelona,401657,Barcelona,,,,,,
+F,Spain,aa11fb42,Alavés,1281393,Deportivo Alaves,,,,,,
+F,Spain,27acb0af,Sporting de Huelva,980747,Huelva,,,,,,
+F,Spain,0f4738a8,Levante,687411,Levante,,,,,,
+F,Spain,753b93a5,Levante Las Planas,1396358,Levante Las Planas,,,,,,
+F,Spain,89818574,Madrid CFF,603631,Madrid Femenino,,,,,,
+F,Spain,74142337,Real Betis,603630,Real Betis Feminas,,,,,,
+F,Spain,54582b93,Real Madrid,1077486,Real Madrid Femenino,,,,,,
+F,Spain,c21f25d3,Real Sociedad,858300,Real Sociedad,,,,,,
+F,Spain,215d9026,Sevilla,980746,Sevilla,,,,,,
+F,Spain,4c088abe,UDG Tenerife,628715,UDG Tenerife,,,,,,
+F,Spain,f96ff499,Valencia,858301,Valencia Femenino,,,,,,
+F,Spain,7a7bef84,Villarreal,1281394,Villarreal,,,,,,
+F,USA,ae38d267,Angel City FC,1335914,Angel City FC,,,,,Angel City FC,
+F,USA,d976a235,Chicago Red Stars,189393,Chicago Red Stars,,,,Chicago Red Stars,Chicago Red Stars,
+F,USA,6f666306,Kansas City Current,1237561,Kansas City Current,,,,,FC Kansas City,
+F,USA,e813709a,Houston Dash,521233,Houston Dash,,,,Houston Dash,Houston Dash,
+F,USA,85c458aa,North Carolina Courage,243295,North Carolina Courage,,,,North Carolina FC,North Carolina FC,
+F,USA,2a6178ac,Orlando Pride,728922,Orlando Pride,,,,Orlando Pride,Orlando Pride,
+F,USA,df9a10a1,Portland Thorns FC,433029,Portland Thorns,,,,Portland Thorns,Portland Thorns,
+F,USA,da19ebd1,Racing Louisville,1237244,Racing Louisville,,,,,Racing Louisville FC,
+F,USA,bf961da0,San Diego Wave,1335917,San Diego Wave FC,,,,,San Diego Wave FC,
+F,USA,257fad2b,OL Reign,433031,OL Reign,,,,OL Reign,Seattle Reign FC,
+F,USA,8e306dc6,Gotham FC,189397,NJ/NY Gotham FC,,,,Sky Blue FC,Sky Blue FC,
+F,USA,d4c130bc,Utah Royals FC,923654,Utah Royals,,,,Utah Royals FC,Utah Royals FC,
+F,USA,e442aad0,Washington Spirit,433030,Washington Spirit,,,,Washington Spirit,Washington Spirit,
