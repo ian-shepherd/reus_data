@@ -13743,7 +13743,7 @@ cc58c4ea,/en/players/cc58c4ea/Gojko-Kacar,Gojko Kačar,16300.0,Gojko Kacar
 054849d2,/en/players/054849d2/Iago,Iago,845984.0,Iago
 e7d22eae,/en/players/e7d22eae/Jan-Moravek,Jan Morávek,114650.0,Jan Morávek
 99d6044d,/en/players/99d6044d/Kilian-Jakob,Kilian Jakob,767802.0,Kilian Jakob
-672803,/en/players/00672803/Lasse-Gunther,Lasse Günther,1245692.0,Lasse Günther
+00672803,/en/players/00672803/Lasse-Gunther,Lasse Günther,1245692.0,Lasse Günther
 582a5247,/en/players/582a5247/Mads-Pedersen,Mads Pedersen,657217.0,Mads Valentin Pedersen
 11dbba47,/en/players/11dbba47/Marcel-Heller,Marcel Heller,36554.0,Marcel Heller
 46750e9c,/en/players/46750e9c/Nathanael-Mbuku,Nathanael Mbuku,1049799.0,Nathanaël Mbuku
@@ -14994,3 +14994,968 @@ ff89334e,/en/players/ff89334e/Marcel-de-Jong,Marcel de Jong,45464.0,Marcel de Jo
 18d94cb0,/en/players/18d94cb0/PC,PC,490162.0,Victor Pagliari Giro
 b58f5f17,/en/players/b58f5f17/Scott-Sutter,Scott Sutter,25843.0,Scott Lee Sutter
 a2cb3f2c,/en/players/a2cb3f2c/Sean-Franklin,Sean Franklin,115972.0,Sean Franklin
+a36da810,/en/players/a36da810/Abel-Hernandez,Abel Hernández,105548.0,Abel Hernández
+ea80aff9,/en/players/ea80aff9/Abraham-Bass,Abraham Bass,1329342.0,Abraham Bass
+afb7f0ea,/en/players/afb7f0ea/Adam-Bareiro,Adam Bareiro,845370.0,Adam Bareiro
+fc9d3b30,/en/players/fc9d3b30/Adrian-Mora,Adrián Mora,918828.0,Adrian Mora
+bd7e2715,/en/players/bd7e2715/Agustin-Urzi,Agustín Urzi,989371.0,Agustin Urzi
+c88f8077,/en/players/c88f8077/Alan-Medina,Alan Medina,862174.0,Alan Medina
+6865507d,/en/players/6865507d/Alan-Mendoza,Alan Mendoza,530894.0,Alan Mendoza
+474d234f,/en/players/474d234f/Alan-Reyes,Alan Reyes,1027289.0,Alan Reyes
+4b71bfe4,/en/players/4b71bfe4/Alan-Sonora,Alan Soñora,1074074.0,Alan Sonora
+fb452bdc,/en/players/fb452bdc/Alberto-Joshimar-Acosta,Alberto Joshimar Acosta,199355.0,Alberto Acosta
+398fb976,/en/players/398fb976/Aldo-Cruz,Aldo Cruz,902047.0,Aldo Cruz
+2b757c6a,/en/players/2b757c6a/Aldo-Rocha,Aldo Rocha,418259.0,Aldo Rocha
+8cfe38af,/en/players/8cfe38af/Alejandro-Organista,Alejandro Organista,1139937.0,Alejandro Organista
+36b1c79f,/en/players/36b1c79f/Alex-Castro,Alex Castro,496552.0,Alex Castro
+d717b80e,/en/players/d717b80e/Alejandro-Zendejas,Alejandro Zendejas,621882.0,Alex Zendejas
+b40ff033,/en/players/b40ff033/Alexis-Gutierrez,Alexis Gutiérrez,1010702.0,Alexis Gutiérrez
+5c7fc905,/en/players/5c7fc905/Alfredo-Talavera,Alfredo Talavera,70399.0,Alfredo Talavera
+c705cdc4,/en/players/c705cdc4/Alvaro-Fidalgo,Álvaro Fidalgo,895954.0,Álvaro Fidalgo
+9981c92d,/en/players/9981c92d/Anderson-Leite,Anderson Leite,798588.0,Anderson Leite
+7b0c89ae,/en/players/7b0c89ae/Anderson-Santamaria,Anderson Santamaría,253956.0,Anderson Santamaria
+6fe53d33,/en/players/6fe53d33/Andres-Andrade,Andrés Andrade,185637.0,Andres Andrade
+2f8bb62a,/en/players/2f8bb62a/Andres-Gudino,Andrés Gudiño,1070198.0,Andres Gudino
+222c792f,/en/players/222c792f/Andres-Iniestra,Andrés Iniestra,774404.0,Andres Iniestra
+d076c70c,/en/players/d076c70c/Andres-Renteria,Andrés Rentería,317122.0,Andres Renteria
+2d43706b,/en/players/2d43706b/Andres-Sanchez,Andrés Sánchez,1274477.0,Andres Sanchez
+71910d3e,/en/players/71910d3e/Andres-Vombergar,Andrés Vombergar,681608.0,Andrés Vombergar
+36edfb9b,/en/players/36edfb9b/Angel-Romero,Ángel Romero,265996.0,Angel Romero
+296ecfcb,/en/players/296ecfcb/Angel-Zaldivar,Ángel Zaldívar,444351.0,Angel Zaldivar
+a213be30,/en/players/a213be30/Angelo-Sagal,Ángelo Sagal,304555.0,Angelo Sagal
+2df1fe65,/en/players/2df1fe65/Armando-Escobar,Armando Escobar,1028589.0,Armando Escobar
+659fa937,/en/players/659fa937/Augusto-Lotti,Augusto Lotti,693593.0,Augusto Lotti
+0cedda69,/en/players/0cedda69/Ayron-del-Valle,Ayron del Valle,74172.0,Ayron del Valle
+c0d97f5c,/en/players/c0d97f5c/Blas-Armoa,Blas Armoa,839634.0,Blas Armoa
+f3381616,/en/players/f3381616/Brian-Lozano,Brian Lozano,583848.0,Brian Lozano
+23144049,/en/players/23144049/Bruno-Romo,Bruno Romo,112550.0,Bruno Romo
+810e6e93,/en/players/810e6e93/Bruno-Valdez,Bruno Valdez,315632.0,Bruno Valdez
+09f3fdd3,/en/players/09f3fdd3/Cadete,Cadete,880218.0,Cadete
+437c560b,/en/players/437c560b/Camilo-Mayada,Camilo Mayada,206724.0,Camilo Mayada
+004e3d0f,/en/players/004e3d0f/Camilo-Vargas,Camilo Vargas,50207.0,Camilo Vargas
+ede429fd,/en/players/ede429fd/Candido-Ramirez,Cándido Ramírez,303949.0,Candido Ramirez
+b5dfc1d6,/en/players/b5dfc1d6/Carlos-Robles,Carlos Robles,824885.0,Carlos Robles
+046eb30b,/en/players/046eb30b/Carlos-Rotondi,Carlos Rotondi,855911.0,Carlos Rodolfo Rotondi
+ce239870,/en/players/ce239870/Carlos-Felipe-Rodriguez,Carlos Felipe Rodríguez,182467.0,Carlos Rodriguez
+c85f443b,/en/players/c85f443b/Carlos-Rosel,Carlos Rosel,616987.0,Carlos Rosel
+20974b8a,/en/players/20974b8a/Carlos-Alonso-Vargas,Carlos Alonso Vargas,832692.0,Carlos Vargas
+91b27c4b,/en/players/91b27c4b/Collin-Smith,Collin Smith,1188662.0,Collin Smith
+4971e653,/en/players/4971e653/Cristian-Insaurralde,Cristian Insaurralde,364208.0,Cristian Insaurralde
+0f53eefe,/en/players/0f53eefe/Cristian-Jimenez,Cristian Jiménez,1239645.0,Cristian Jimenez
+d4bb2b53,/en/players/d4bb2b53/Dario-Lezcano,Dario Lezcano,104646.0,Dario Lezcano
+ebec4405,/en/players/ebec4405/David-Alfredo-Andrade,David Alfredo Andrade,417552.0,David Andrade
+86fc5e05,/en/players/86fc5e05/Denzell-Garcia,Denzell García,1347199.0,Denzell García
+eda8e858,/en/players/eda8e858/Diego-Barbosa,Diego Barbosa,766850.0,Diego Barbosa
+897d858f,/en/players/897d858f/Diego-Hernandez,Diego Hernández,955696.0,Diego Hernández
+2ca02a86,/en/players/2ca02a86/Diego-Nava,Diego Nava,1136806.0,Diego Nava
+e3cae82a,/en/players/e3cae82a/Diego-Valdes,Diego Valdés,390758.0,Diego Valdés
+077f13d1,/en/players/077f13d1/Diego-Valdez,Diego Valdez,1028231.0,Diego Valdez
+21f4ce6f,/en/players/21f4ce6f/Dieter-Villalpando,Dieter Villalpando,518567.0,Dieter Villalpando
+fba1859a,/en/players/fba1859a/Edgar-Gutierrez,Edgar Gutiérrez,1295537.0,Edgar Gutiérrez
+9fdcb346,/en/players/9fdcb346/Edgar-Zaldivar,Edgar Zaldívar,766852.0,Edgar Zaldivar
+9af0a0d2,/en/players/9af0a0d2/Edson-Rivera,Édson Rivera,299052.0,Edson Rivera
+723496a4,/en/players/723496a4/Eduardo-Aguila,Eduardo Águila,1428481.0,Eduardo Aguila
+56406135,/en/players/56406135/Edy-Brambila,Edy Brambila,75664.0,Edy Brambila
+36bfc550,/en/players/36bfc550/Edyairth-Ortega,Edyairth Ortega,921399.0,Edyairth Ortega
+635c455c,/en/players/635c455c/Eleuterio-Jimenez,Eleuterio Jiménez,1042151.0,Eleuterio Jiménez
+958dab04,/en/players/958dab04/Elio-Castro,Elio Castro,163127.0,Elio Castro
+fc63eb31,/en/players/fc63eb31/Emanuel-Aguilera,Emanuel Aguilera,209273.0,Emanuel Aguilera
+f8c3bbb2,/en/players/f8c3bbb2/Emilio-Lara,Emilio Lara,1096624.0,Emilio Lara
+18123d70,/en/players/18123d70/Emmanuel-Garcia,Emmanuel García,464759.0,Emmanuel Garcia
+7b2c24ed,/en/players/7b2c24ed/Erik-Lira,Erik Lira,971628.0,Erik Lira
+b9cf8ff5,/en/players/b9cf8ff5/Esteban-Carvajal,Esteban Carvajal,193231.0,Esteban Carvajal
+5291f765,/en/players/5291f765/Esteban-Lozano,Esteban Lozano,1172985.0,Esteban Lozano
+b0171781,/en/players/b0171781/Facundo-Barcelo,Facundo Barcelo,435969.0,Facundo Barcelo
+d30c7094,/en/players/d30c7094/Federico-Vinas,Federico Viñas,1032811.0,Federico Vinas
+15c3891a,/en/players/15c3891a/Fernando-Gonzalez,Fernando González,949962.0,Fernando Gonzalez
+3032f912,/en/players/3032f912/Flavio-Santos,Flavio Santos,113397.0,Flavio Santos
+65b4f865,/en/players/65b4f865/Francisco-Nevarez,Francisco Nevarez,1071281.0,Francisco Nevarez
+95bca53e,/en/players/95bca53e/Franco-Troyansky,Franco Troyansky,726261.0,Franco Troyansky
+f8dd4788,/en/players/f8dd4788/Gabriel-Hachen,Gabriel Hachen,299645.0,Gabriel Hachen
+a566d3a2,/en/players/a566d3a2/Gaddi-Aguirre,Gaddi Aguirre,721448.0,Gaddi Aguirre
+7e9c78b9,/en/players/7e9c78b9/Gerardo-Flores-Zuniga,Gerardo Flores Zúñiga,71540.0,Gerardo Flores Zuniga
+ca07c1c5,/en/players/ca07c1c5/Gerardo-Valenzuela,Gerardo Valenzuela,1362857.0,Gerardo Valenzuela
+88f6ffd1,/en/players/88f6ffd1/Gonzalo-Carneiro,Gonzalo Carneiro,793611.0,Gonzalo Carneiro
+3438600c,/en/players/3438600c/Guillermo-Allison,Guillermo Allison,207791.0,Guillermo Allison
+24377e64,/en/players/24377e64/Guillermo-Matias-Fernandez,Guillermo Matías Fernández,309693.0,Guillermo Fernandez
+bb8ce61b,/en/players/bb8ce61b/Hector-Mascorro,Héctor Mascorro,610576.0,Hector Mascorro
+5173d58a,/en/players/5173d58a/Hedgardo-Marin,Hedgardo Marín,463324.0,Hedgardo Marin
+b585c991,/en/players/b585c991/Henry-Martin,Henry Martín,558452.0,Henry Martin
+a7d02761,/en/players/a7d02761/Heriberto-Olvera,Heriberto Olvera,519438.0,Heriberto Olvera
+a0596e4f,/en/players/a0596e4f/Hernan-Burbano,Hernán Burbano,261543.0,Hernán Burbano
+772b54a0,/en/players/772b54a0/Idekel-Dominguez,Idekel Domínguez,1010444.0,Idekel Dominguez
+03fdc7b4,/en/players/03fdc7b4/Ignacio-Rivero,Ignacio Rivero,430015.0,Ignacio Rivero
+d3e76f51,/en/players/d3e76f51/Iker-Moreno,Iker Moreno,1352812.0,Iker Moreno
+70209571,/en/players/70209571/Israel-Garcia,Israel García,1080237.0,Israel Garcia
+0db8bbc4,/en/players/0db8bbc4/Israel-Reyes,Israel Reyes,1074586.0,Israel Reyes
+3468cf5d,/en/players/3468cf5d/Ivan-Morales-Bravo,Iván Morales Bravo,785840.0,Ivan Morales
+7f3ae38c,/en/players/7f3ae38c/Ivan-Fernando-Ochoa,Iván Fernando Ochoa,726366.0,Ivan Ochoa
+b083864c,/en/players/b083864c/Jaime-Gomez-Valencia,Jaime Gómez Valencia,402810.0,Jaime Valencia Gomez
+8cd5e62c,/en/players/8cd5e62c/Jairo-Mungaray,Jairo Mungaray,1169792.0,Jairo Mungaray
+39315a29,/en/players/39315a29/Javier-Cortes,Javier Cortés,183539.0,Javier Cortés
+156637d3,/en/players/156637d3/Javier-Guemez,Javier Güemez,471119.0,Javier Guemez
+d19ff8ab,/en/players/d19ff8ab/Javier-Salas,Javier Salas,558374.0,Javier Salas
+17ac7f70,/en/players/17ac7f70/Jaziel-Martinez,Jaziel Martínez,1044928.0,Jaziel Martinez
+49f20f7e,/en/players/49f20f7e/Jefferson-Duque,Jefferson Duque,50258.0,Jefferson Duque
+e9ef9d93,/en/players/e9ef9d93/Angel-Marquez,Ángel Márquez,1125498.0,Jeremy Márquez
+41976af1,/en/players/41976af1/Jeremy-Menez,Jérémy Ménez,33782.0,Jérémy Ménez
+44267704,/en/players/44267704/Jesus-Duenas,Jesús Dueñas,163152.0,Jesus Alberto Duenas
+6087c5c7,/en/players/6087c5c7/Alonso-Escoboza,Alonso Escoboza,277141.0,Jesus Escoboza
+e815c85d,/en/players/e815c85d/Alberto-Ocejo,Alberto Ocejo,959832.0,Jesus Ocejo
+326c023a,/en/players/326c023a/Jesus-Pinuelas,Jesús Piñuelas,1222287.0,Jesus Pinuelas
+9d95e065,/en/players/9d95e065/Jhon-Duque-Arias,Jhon Duque Arias,730488.0,Jhon Duque
+3c7a3791,/en/players/3c7a3791/Joaquin-Laso,Joaquín Laso,622269.0,Joaquin Laso
+80958a5e,/en/players/80958a5e/Joaquin-Noy,Joaquín Noy,952315.0,Joaquin Noy
+f2780738,/en/players/f2780738/Jonathan-Herrera,Jonathan Herrera,974948.0,Jonathan Herrera
+4300a166,/en/players/4300a166/Jonathan-Lacerda,Jonathan Lacerda,56841.0,Jonathan Lacerda
+86ca9bca,/en/players/86ca9bca/Jonathan-Rodriguez,Jonathan Rodríguez,495107.0,Jonathan Rodriguez
+6ea0fa68,/en/players/6ea0fa68/Jordan-Sierra,Jordan Sierra,730303.0,Jordan Sierra
+9a158620,/en/players/9a158620/Jordan-Silva,Jordan Silva,494184.0,Jordan Silva
+89b04262,/en/players/89b04262/Jorge-Garcia,Jorge García,964454.0,Jorge García
+43837597,/en/players/43837597/Jorge-Rodriguez,Jorge Rodríguez,1404197.0,Jorge Guzman
+8e8f978b,/en/players/8e8f978b/Jorge-Segura,Jorge Segura,787092.0,Jorge Segura
+93f24791,/en/players/93f24791/Jose-Abella,José Abella,466755.0,Jose Abella
+0a9a98f7,/en/players/0a9a98f7/Jose-Garcia,José García,661270.0,Jose Garcia
+6ef3db2a,/en/players/6ef3db2a/Jose-Guillen,José Guillén,950476.0,José Guillén
+2a860a40,/en/players/2a860a40/Jose-Santiago-Hernandez,José Santiago Hernández,716748.0,Jose Hernandez
+68c0ac3d,/en/players/68c0ac3d/Jose-Reyes,Jose Reyes,1431169.0,Jose Reyes
+74c05e14,/en/players/74c05e14/Jose-Zapata,José Zapata,1172689.0,Jose Zapata
+d06a7432,/en/players/d06a7432/Juan-David-Castro,Juan David Castro,672836.0,Juan Castro
+d48a1284,/en/players/d48a1284/Juan-Escobar,Juan Escobar,747701.0,Juan Escobar
+aca7e65b,/en/players/aca7e65b/Juan-Izquierdo,Juan Izquierdo,922073.0,Juan Izquierdo
+6da43844,/en/players/6da43844/Juan-Antonio-Portales,Juan Antonio Portales,564638.0,Juan Portales
+5535c728,/en/players/5535c728/Julian-Quinones,Julián Quiñones,720560.0,Julian Quinones
+84d35e44,/en/players/84d35e44/Julio-Furch,Julio Furch,211074.0,Julio Cesar Furch
+c5b064eb,/en/players/c5b064eb/Karel-Campos,Karel Campos,1226470.0,Karel Campos
+16261349,/en/players/16261349/Kevin-Pereira,Kevin Pereira,1335068.0,Kevin Pereira
+3913c7c3,/en/players/3913c7c3/Kevin-Sandoval,Kevin Sandoval,1460523.0,Kevin Sandoval
+2f0e74a4,/en/players/2f0e74a4/Leandro-Carrijo,Leandro Carrijó,121928.0,Leandro Carrijo
+58d73304,/en/players/58d73304/Leo-Coelho,Léo Coelho,1103605.0,Leo Coelho
+01099a98,/en/players/01099a98/Luis-Fernando-Fuentes,Luis Fernando Fuentes,167052.0,Luis Fuentes
+48bd91d4,/en/players/48bd91d4/Luis-Malagon,Luis Malagón,724529.0,Luis Malagon
+759f1ac1,/en/players/759f1ac1/Luis-Angel-Mendoza,Luis Ángel Mendoza,195583.0,Luis Mendoza
+ad3382e6,/en/players/ad3382e6/Luis-Ricardo-Reyes,Luis Ricardo Reyes,766849.0,Luis Reyes
+868c0f75,/en/players/868c0f75/Marcelo-Barovero,Marcelo Barovero,113577.0,Marcelo Barovero
+4d2a9ead,/en/players/4d2a9ead/Mario-Osuna,Mario Osuna,420527.0,Mario Osuna
+e8d67346,/en/players/e8d67346/Marlon-Vargas,Marlon Vargas,1082057.0,Marlon Vargas
+25c9d693,/en/players/25c9d693/Martin-Barra,Martín Barra,974469.0,Martin Barra
+6e7d7a7a,/en/players/6e7d7a7a/Martin-Cauteruccio,Martín Cauteruccio,115871.0,Martin Cauteruccio
+6afd25e6,/en/players/6afd25e6/Hugo-Nervo,Hugo Nervo,170432.0,Martin Hugo Nervo
+f6d3f4ea,/en/players/f6d3f4ea/Martin-Rabunal,Martín Rabuñal,635427.0,Martin Rabunal
+57a197ab,/en/players/57a197ab/Martin-Eduardo-Zuniga,Martín Eduardo Zúñiga,393594.0,Martin Zuniga
+d523c0a3,/en/players/d523c0a3/Mauro-Fernandez,Mauro Fernández,280131.0,Mauro Fernandez
+9bf2c435,/en/players/9bf2c435/Mauro-Lainez,Mauro Laínez,643756.0,Mauro Laínez
+eaf1358b,/en/players/eaf1358b/Mauro-Zaleta,Mauro Zaleta,1327395.0,Mauro Zaleta
+eb8e75a9,/en/players/eb8e75a9/Miguel-Vazquez,Miguel Vázquez,1414582.0,Miguel Vazquez
+01699656,/en/players/01699656/Oscar-Benitez,Oscar Benítez,317740.0,Oscar Benitez
+363ba1be,/en/players/363ba1be/Oscar-Jimenez,Oscar Jiménez,463774.0,Oscar Jimenez
+5982f73e,/en/players/5982f73e/Oscar-Macias,Oscar Macías,889869.0,Oscar Macias
+7bda3d90,/en/players/7bda3d90/Pablo-Cesar-Aguilar,Pablo César Aguilar,106128.0,Pablo Aguilar
+c931cdfe,/en/players/c931cdfe/Paul-Aguilar,Paul Aguilar,68585.0,Paul Aguilar
+c4bfc6c5,/en/players/c4bfc6c5/Pedro-Aquino,Pedro Aquino,547745.0,Pedro Aquino
+ed074559,/en/players/ed074559/Pedro-Raul,Pedro Raul,890637.0,Pedro Raul
+d476c1e2,/en/players/d476c1e2/Pol-Garcia,Pol García,423206.0,Pol Garcia
+fb40b861,/en/players/fb40b861/Rafael-Baca,Rafael Baca,274099.0,Rafael Baca
+74a8b7fc,/en/players/74a8b7fc/Rafael-Guerrero,Rafael Guerrero,1295538.0,Rafael Guerrero
+f5aa2187,/en/players/f5aa2187/Ramazotti,Ramazotti,186327.0,Ramazotti
+44c271db,/en/players/44c271db/Ramiro-Carrera,Ramiro Carrera,469007.0,Ramiro Carrera
+c164493d,/en/players/c164493d/Ramon-Juarez,Ramón Juárez,1085776.0,Ramon Juarez
+02b16fb4,/en/players/02b16fb4/Remi-Cabral,Remi Cabral,1259810.0,Remi Cabral
+7b44fb2c,/en/players/7b44fb2c/Renato-Mendoza,Renato Mendoza,1178750.0,Renato Mendoza
+6a686827,/en/players/6a686827/Ricardo-Alba,Ricardo Alba,1283838.0,Ricardo Alba
+2229c165,/en/players/2229c165/Ricardo-Chavez-Soto,Ricardo Chávez Soto,659597.0,Ricardo Chavez
+2bc8597b,/en/players/2bc8597b/Richard-Sanchez,Richard Sánchez,745210.0,Richard Sanchez
+a294d0f1,/en/players/a294d0f1/Rodolfo-Rivera,Rodolfo Rivera,1010406.0,Rodolfo Rivera
+d7d05a22,/en/players/d7d05a22/Rodrigo-Dourado,Rodrigo Dourado,391602.0,Rodrigo Dourado
+9e02eca8,/en/players/9e02eca8/Rodrigo-Huescas,Rodrigo Huescas,1244640.0,Rodrigo Huescas
+cb8b660b,/en/players/cb8b660b/Rodrigo-Javier-Noya,Rodrigo Javier Noya,611545.0,Rodrigo Noya
+7c0527bb,/en/players/7c0527bb/Roman-Martinez,Román Martínez,1128494.0,Roman Martinez
+96fdc3c0,/en/players/96fdc3c0/Romulo-Otero,Rómulo Otero,240371.0,Romulo Otero
+12d979de,/en/players/12d979de/Rubens-Sambueza,Rubens Sambueza,18651.0,Rubens Sambueza
+83d525a4,/en/players/83d525a4/Salvador-Reyes-Chavez,Salvador Reyes Chávez,914119.0,Salvador Reyes
+5e2022e8,/en/players/5e2022e8/Santiago-Naveda,Santiago Naveda,1086640.0,Santiago Naveda
+80c755a4,/en/players/80c755a4/Santiago-Ormeno,Santiago Ormeño,972509.0,Santiago Ormeno
+7091c68e,/en/players/7091c68e/Sebastian-Caceres,Sebastián Cáceres,1020026.0,Sebastian Caceres
+c882a4e6,/en/players/c882a4e6/Sebastian-Jurado,Sebastián Jurado,876495.0,Sebastian Jurado Roca
+f1550173,/en/players/f1550173/Sergio-De-los-Rios,Sergio De los Ríos,1398212.0,Sergio De los Rios
+877d1631,/en/players/877d1631/Sergio-Diaz,Sergio Díaz,586809.0,Sergio Diaz
+50608653,/en/players/50608653/Sergio-Gonzalez,Sergio González,1125499.0,Sergio Gonzalez
+b26a0215,/en/players/b26a0215/Stiven-Jimenez,Stiven Jimenez,1440050.0,Stiven Jimenez
+d3134e28,/en/players/d3134e28/Tomas-Molina,Tomás Molina,728323.0,Tomas Molina
+aa98e19a,/en/players/aa98e19a/Unai-Bilbao,Unai Bilbao,616540.0,Unai Bilbao
+7293cfc3,/en/players/7293cfc3/Uziel-Garcia,Uziel García,1169756.0,Uziel García
+90a0bb3b,/en/players/90a0bb3b/Victor-Malcorra,Víctor Malcorra,362229.0,Víctor Malcorra
+4d001bbe,/en/players/4d001bbe/Noe-Maya,Noé Maya,156730.0,Vilches Noe Maya
+1fe71870,/en/players/1fe71870/Walter-Castillo,Walter Castillo,1203273.0,Walter Castillo
+6cb18573,/en/players/6cb18573/William-Mendieta,William Mendieta,202710.0,William Mendieta
+aab489b0,/en/players/aab489b0/Aaron-Bibout,Aaron Bibout,1463600.0,Aaron Bibout
+1b2f1090,/en/players/1b2f1090/Adonis-Frias,Adonis Frías,950270.0,Adonis Frias
+e4cb567a,/en/players/e4cb567a/Adrian-Villalobos,Adrián Villalobos,679581.0,Adrian Villalobos
+89a24cef,/en/players/89a24cef/Alan-Lopez,Alan López,418262.0,Alan Lopez
+2abbf0fe,/en/players/2abbf0fe/Alan-Mozo,Alan Mozo,671944.0,Alan Mozo
+94aa9ad6,/en/players/94aa9ad6/Alan-Torres,Alan Torres,1053696.0,Alan Torres
+08b819b6,/en/players/08b819b6/Alejandro-Duarte,Alejandro Duarte,930546.0,Alejandro Duarte
+f40f4c38,/en/players/f40f4c38/Alexis-Vega,Alexis Vega,728365.0,Alexis Vega
+dce4c80e,/en/players/dce4c80e/Alfonso-Blanco-Antunez,Alfonso Blanco Antúnez,111877.0,Alfonso Blanco
+c7a1f2c9,/en/players/c7a1f2c9/Alfonso-Emilio-Sanchez,Alfonso Emilio Sánchez,571775.0,Alfonso Sanchez
+9127eb4e,/en/players/9127eb4e/Ali-Avila,Ali Ávila,1109028.0,Ali Avila
+f29131b5,/en/players/f29131b5/Amine-Messoussa,Amine Messoussa,1481523.0,Amine Messoussa
+289f0b26,/en/players/289f0b26/Andres-Catalan,Andrés Catalán,1030758.0,Andres Catalan
+e5519e5e,/en/players/e5519e5e/Andres-Montano,Andres Montaño,1341356.0,Andres Montano
+ea83f5c2,/en/players/ea83f5c2/Angel-Mena,Ángel Mena,118374.0,Ángel Mena
+5311dbfb,/en/players/5311dbfb/Angel-Zapata,Ángel Zapata,1173461.0,Angel Zapata
+3334db7c,/en/players/3334db7c/Ariel-Nahuelpan,Ariel Nahuelpán,149584.0,Ariel Nahuelpán
+398cceea,/en/players/398cceea/Armando-Leon,Armando León,1138575.0,Armando Leon
+ccceb42b,/en/players/ccceb42b/Axel-Grijalva,Axel Grijalva,972266.0,Axel Grijalva
+8184304e,/en/players/8184304e/Beto-da-Silva,Beto da Silva,497518.0,Beto da Silva
+1241ff67,/en/players/1241ff67/Brian-Rubio,Brian Rubio,923559.0,Brian Rubio
+4b677ba7,/en/players/4b677ba7/Bryan-Colula,Bryan Colula,658480.0,Bryan Colula
+ad052490,/en/players/ad052490/Bryan-Rabello,Bryan Rabello,206679.0,Bryan Rabello
+29635536,/en/players/29635536/Carlos-Ernesto-Cisneros,Carlos Ernesto Cisneros,429345.0,Carlos Cisneros
+88205d23,/en/players/88205d23/Daniel-Amador,Daniel Amador,773618.0,Daniel Amador
+9f89b28b,/en/players/9f89b28b/Daniel-Lajud,Daniel Lajud,922565.0,Daniel Lajud
+35f6a5e2,/en/players/35f6a5e2/Deivoon-Magana,Deivoon Magaña,1280351.0,Deivoon Magana
+c300c5e4,/en/players/c300c5e4/Dilan-Zuniga,Dilan Zúñiga,517871.0,Dilan Zuniga
+7faaf973,/en/players/7faaf973/Duvan-Vergara,Duván Vergara,731802.0,Duvan Vergara
+b39849eb,/en/players/b39849eb/Edgar-Yoel-Barcenas,Édgar Yoel Bárcenas,526710.0,Edgar Barcenas
+c1a52f98,/en/players/c1a52f98/Edson-Resendez,Édson Reséndez,643752.0,Edson Resendez
+f3128f12,/en/players/f3128f12/Edson-Torres,Edson Torres,769592.0,Edson Torres
+2b40500f,/en/players/2b40500f/Eduard-Bello,Eduard Bello,495825.0,Eduard Bello
+4ddedf92,/en/players/4ddedf92/Eduardo-Banda,Eduardo Banda,1076869.0,Eduardo Banda
+fec78d63,/en/players/fec78d63/Eduardo-Del-Angel,Eduardo Del Ángel,1027287.0,Eduardo Del Angel
+1e92c75d,/en/players/1e92c75d/Efrain-Orona,Efraín Orona,823038.0,Efrain Orona
+59724024,/en/players/59724024/Either-Jimenez,Either Jiménez,1037278.0,Either Jimenez
+09b2bf95,/en/players/09b2bf95/Elias-Hernandez,Elías Hernández,106134.0,Elias Hernandez
+b2fe86e5,/en/players/b2fe86e5/Eli-Junior-Kroupi,Eli Junior Kroupi,1460534.0,Elie Kroupi
+2c4d473b,/en/players/2c4d473b/Eric-Cantu,Eric Cantú,926588.0,Eric Cantu
+06dddd9e,/en/players/06dddd9e/Erick-Aguirre,Érick Aguirre,564634.0,Erick Aguirre
+775d365e,/en/players/775d365e/Esteban-Andrada,Esteban Andrada,184662.0,Esteban Andrada
+cd60f3ce,/en/players/cd60f3ce/Facundo-Almada,Facundo Almada,995062.0,Facundo Almada
+636d680a,/en/players/636d680a/Federico-Martinez,Federico Martínez,861788.0,Federico Martinez
+2748b860,/en/players/2748b860/Felix-Crisanto,Félix Crisanto,422698.0,Félix Crisanto
+90070ab6,/en/players/90070ab6/Fernando-Beltran,Fernando Beltrán,861896.0,Fernando Beltran
+807e33f0,/en/players/807e33f0/Fernando-Ruben-Gonzalez,Fernando Rubén González,430764.0,Fernando Gonzalez
+46beb4b3,/en/players/46beb4b3/Fernando-Hernandez,Fernando Hernández,848038.0,Fernando Hernandez
+2782b079,/en/players/2782b079/Fernando-Illescas,Fernando Illescas,1069991.0,Fernando Illescas
+14968cd5,/en/players/14968cd5/Fidel-Ambriz,Fidel Ambríz,1110661.0,Fidel Ambriz
+4a305362,/en/players/4a305362/Francisco-Eduardo-Venegas,Francisco Eduardo Venegas,693677.0,Francisco Venegas
+2d25a7bd,/en/players/2d25a7bd/Gabriel-Cortez,Gabriel Cortez,425279.0,Gabriel Cortez
+19bc33ae,/en/players/19bc33ae/Gabriel-Lopez,Gabriel López,1380588.0,Gabriel Lopez
+fa61a2db,/en/players/fa61a2db/German-Berterame,Germán Berterame,743536.0,German Berterame
+8357a701,/en/players/8357a701/Gil-Buron,Gil Burón,497822.0,Gil Buron
+75f4c738,/en/players/75f4c738/Gilberto-Garcia,Gilberto García,1169787.0,Gilberto Garcia
+06834adf,/en/players/06834adf/Gilberto-Sepulveda,Gilberto Sepúlveda,988723.0,Gilberto Sepulveda
+2f94a698,/en/players/2f94a698/Giovanni-Augusto,Giovanni Augusto,202486.0,Giovanni Augusto
+ece17453,/en/players/ece17453/Gonzalo-Freitas,Gonzalo Freitas,310088.0,Gonzalo Freitas
+b86a76dd,/en/players/b86a76dd/Gonzalo-Sosa,Gonzalo Sosa,805662.0,Gonzalo Sosa
+1f81fd9b,/en/players/1f81fd9b/Hiram-Mier,Hiram Mier,229821.0,Hiram Mier
+8ff0aa1a,/en/players/8ff0aa1a/Isaac-Brizuela,Isaác Brizuela,178205.0,Isaác Brizuela
+6d5f8ef3,/en/players/6d5f8ef3/Isaac-Muniz,Isaác Muniz,1178115.0,Isaac Muniz
+9e5ab7e1,/en/players/9e5ab7e1/Israel-Jimenez,Israel Jiménez,141650.0,Israel Jiménez
+aa2e88c2,/en/players/aa2e88c2/Ivan-Moreno,Iván Moreno,949958.0,Ivan Moreno
+4fc516ca,/en/players/4fc516ca/Ivan-Tona,Iván Tona,1071276.0,Iván Tona
+e3bea481,/en/players/e3bea481/Ivan-Vazquez,Iván Vázquez,71695.0,Ivan Vazquez
+95714370,/en/players/95714370/Jacobo-Reyes,Jacobo Reyes,980593.0,Jacobo Reyes
+743d5a0e,/en/players/743d5a0e/Jaine-Barreiro,Jaine Barreiro,282254.0,Jaine Barreiro
+e8655b7e,/en/players/e8655b7e/Javier-Ibarra,Javier Ibarra,1169053.0,Javier Ibarra
+656f6c17,/en/players/656f6c17/Jefferson-Intriago,Jefferson Intriago,674228.0,Jefferson Intriago
+6239696f,/en/players/6239696f/Jesse-Zamudio,Jesse Zamudio,1135441.0,Jesse Zamudio
+c219b86b,/en/players/c219b86b/Jesus-Angulo,Jesús Angulo,730888.0,Jesus Angulo
+d0846b6c,/en/players/d0846b6c/Jesus-Gallardo,Jesús Gallardo,597976.0,Jesus Gallardo
+81c0bdd6,/en/players/81c0bdd6/Jesus-Eduardo-Zavala,Jesús Eduardo Zavala,71551.0,Jesus Zavala
+6465d159,/en/players/6465d159/Jonathan-Urretaviscaya,Jonathan Urretaviscaya,114680.0,Jonathan Urretaviscaya
+c0986642,/en/players/c0986642/Jordi-Cortizo,Jordi Cortizo,737290.0,Jordi Cortizo
+a08316ae,/en/players/a08316ae/Jorge-Roberto-Diaz,Jorge Roberto Díaz,914079.0,Jorge Diaz
+4fec10af,/en/players/4fec10af/Jorge-Antonio-Padilla,Jorge Antonio Padilla,1021375.0,Jorge Padilla
+9396692d,/en/players/9396692d/Jose-David-Ramirez,José David Ramírez,524850.0,Jose David Ramirez
+d6696790,/en/players/d6696790/Jose-Maria-Basanta,José María Basanta,18521.0,José Maria Basanta
+7e0815bc,/en/players/7e0815bc/Jose-Ortiz,José Ortiz,1071475.0,Jose Ortiz
+41e1b1f3,/en/players/41e1b1f3/Jown-Cardona,Jown Cardona,741059.0,Jown Cardona
+f9921fde,/en/players/f9921fde/Juan-Basulto,Juan Basulto,421625.0,Juan Basulto
+27e719d5,/en/players/27e719d5/Juan-Cornejo,Juan Cornejo,424348.0,Juan Cornejo
+0755a905,/en/players/0755a905/Juan-Rangel,Juan Rangel,1224690.0,Juan Rangel
+3dd4379b,/en/players/3dd4379b/Julien-Celestine,Julien Celestine,862643.0,Julien Celestine
+82aec90e,/en/players/82aec90e/Kaleth-Hernandez,Kaleth Hernández,1010405.0,Kaleth Hernandez
+c71a187b,/en/players/c71a187b/Leonel-Vangioni,Leonel Vangioni,94631.0,Leonel Vangioni
+d47cd62c,/en/players/d47cd62c/Lorenzo-Reyes,Lorenzo Reyes,166702.0,Lorenzo Reyes
+5c339cf6,/en/players/5c339cf6/Lucas-Di-Yorio,Lucas Di Yorio,740753.0,Lucas Di Yorio
+1fd490ef,/en/players/1fd490ef/Luis-Cervantes,Luís Cervantes,1381120.0,Luis Cervantes
+5d26db73,/en/players/5d26db73/Luis-Ernesto-Olascoaga,Luis Ernesto Olascoaga,198103.0,Luis Ernesto Olascoaga
+212d39d4,/en/players/212d39d4/Luis-Montes,Luis Montes,75059.0,Luis Montes
+d425d2a4,/en/players/d425d2a4/Luis-Olivas,Luis Olivas,1104990.0,Luis Olivas
+d49e5666,/en/players/d49e5666/Luis-Fernando-Quintana,Luis Fernando Quintana,446003.0,Luis Quintana
+e590bb10,/en/players/e590bb10/Luis-Romo,Luis Romo,921174.0,Luis Romo
+314bdac5,/en/players/314bdac5/Matias-Kranevitter,Matías Kranevitter,412762.0,Matias Kranevitter
+cf4f1eb9,/en/players/cf4f1eb9/Mauricio-Cuevas,Mauricio Cuevas,1079040.0,Mauricio Cuevas
+284e865d,/en/players/284e865d/Mauro-Boselli,Mauro Boselli,18859.0,Mauro Boselli
+d64db7ed,/en/players/d64db7ed/Maximiliano-Cerato,Maximiliano Cerato,207271.0,Maximiliano Cerato
+e5e15e0a,/en/players/e5e15e0a/Maximiliano-Meza,Maximiliano Meza,469616.0,Maximiliano Meza
+c9cd7003,/en/players/c9cd7003/Michael-Orozco,Michael Orozco,72122.0,Michael Orozco
+be8fc30a,/en/players/be8fc30a/Michael-Rangel,Michael Rangel,425785.0,Michael Rangel
+5250e871,/en/players/5250e871/Michell-Rodriguez,Michell Rodríguez,1079606.0,Michell Rodríguez
+63c4565f,/en/players/63c4565f/Miguel-Angel-Fraga,Miguel Ángel Fraga,70800.0,Miguel Fraga
+9c06f135,/en/players/9c06f135/Miguel-Jimenez-Ponce,Miguel Jiménez Ponce,251275.0,Miguel Ponce Jimenez
+339ea835,/en/players/339ea835/Nestor-Vidrio,Néstor Vidrio,114058.0,Néstor Vidrio
+6cdb3f42,/en/players/6cdb3f42/Nicolas-Benedetti,Nicolás Benedetti,658135.0,Nicolas Benedetti
+88f918b9,/en/players/88f918b9/Nicolas-Vikonis,Nicolás Vikonis,56948.0,Nicolas Vikonis
+f5fc1426,/en/players/f5fc1426/Omar-Govea,Omar Govea,610473.0,Omar Govea
+caebc84f,/en/players/caebc84f/Omar-Mireles,Omar Mireles,954255.0,Omar Mireles
+d6371fe3,/en/players/d6371fe3/Omar-Moreno,Omar Moreno,1432127.0,Omar Moreno
+5e6758f3,/en/players/5e6758f3/Oribe-Peralta,Oribe Peralta,75625.0,Oribe Peralta
+dbbf140d,/en/players/dbbf140d/Oscar-Villa,Oscar Villa,1199210.0,Oscar Villa
+856532c0,/en/players/856532c0/Paolo-Yrizar,Paolo Yrizar,731474.0,Paolo Yrizar
+c4a9b5e6,/en/players/c4a9b5e6/Paul-Bellon,Paul Bellón,1203345.0,Paul Bellon
+21f7e809,/en/players/21f7e809/Pavel-Perez,Pavel Pérez,1179357.0,Pavel Perez
+e2d658ef,/en/players/e2d658ef/Pedro-Hernandez,Pedro Hernández,1173459.0,Pedro Hernandez
+e4820b2e,/en/players/e4820b2e/Rafael-Duran,Rafael Durán,861895.0,Rafael Duran
+cd91ec40,/en/players/cd91ec40/Ramiro-Gonzalez-Hernandez,Ramiro González Hernández,662545.0,Ramiro Gonzalez
+e946665a,/en/players/e946665a/Raul-Camacho,Raúl Camacho,1428480.0,Raul Camacho
+d88d0a41,/en/players/d88d0a41/Raul-Sandoval,Raúl Sandoval,996034.0,Raul Sandoval
+295da4c2,/en/players/295da4c2/Ricardo-Marin,Ricardo Marín,693676.0,Ricardo Marin
+72da065d,/en/players/72da065d/Richard-Rios-Montoya,Richard Rios Montoya,1174630.0,Richard Rios
+ff871e14,/en/players/ff871e14/Roberto-Alvarado,Roberto Alvarado,720737.0,Roberto Alvarado
+1f97c45f,/en/players/1f97c45f/Roberto-Meraz,Roberto Meraz,914118.0,Roberto Meraz
+a4a5868e,/en/players/a4a5868e/Rodolfo-Cota,Rodolfo Cota,111873.0,Rodolfo Cota
+b5691f5d,/en/players/b5691f5d/Rodrigo-Aguirre,Rodrigo Aguirre,401095.0,Rodrigo Aguirre
+b094f16d,/en/players/b094f16d/Rodrigo-Millar,Rodrigo Millar,49996.0,Rodrigo Millar
+bf9a2406,/en/players/bf9a2406/Rogelio-Funes-Mori,Rogelio Funes Mori,190511.0,Rogelio Funes Mori
+da0c0e79,/en/players/da0c0e79/Ruben-Marques,Rúben Marques,1485452.0,Ruben Marques
+2f456b86,/en/players/2f456b86/Ruben-Quintanilla,Rubén Quintanilla,1404409.0,Rubén Quintanilla
+7a91ab7b,/en/players/7a91ab7b/Sagir-Arce,Sagir Arce,1087544.0,Sagir Arce
+6ca7237c,/en/players/6ca7237c/Salvador-Rodriguez,Salvador Rodríguez,1233487.0,Salvador Rodriguez
+56bb895f,/en/players/56bb895f/Saul-Zamora,Saúl Zamora,1125520.0,Saul Zamora
+0784bd21,/en/players/0784bd21/Sebastian-Martinez,Sebastián Martínez,1130233.0,Sebastian Martinez
+fd44eb49,/en/players/fd44eb49/Sebastian-Perez-Bouquet,Sebastián Pérez Bouquet,1327605.0,Sebastián Pérez-Bouquet
+0e3ee284,/en/players/0e3ee284/Sebastian-Santos,Sebastian Santos,1433093.0,Sebastian Santos
+4ef92b90,/en/players/4ef92b90/Sebastian-Vegas,Sebastián Vegas,478454.0,Sebastian Vegas
+b8776065,/en/players/b8776065/Sergio-Adrian-Flores,Sergio Adrián Flores,643748.0,Sergio Flores
+f7d7f152,/en/players/f7d7f152/Sergio-Villarreal,Sergio Villarreal,957032.0,Sergio Villarreal
+3e04dfad,/en/players/3e04dfad/Sonny-Finch,Sonny Finch,1292834.0,Sonny Finch
+779aa25c,/en/players/779aa25c/Tony-Rolke,Tony Rölke,1436335.0,Tony Rolke
+aca8043a,/en/players/aca8043a/Victor-Davila,Víctor Dávila,566247.0,Victor Davila
+67dfb898,/en/players/67dfb898/Victor-Guzman,Víctor Guzmán,643749.0,Victor Guzman
+416a75fb,/en/players/416a75fb/Victor-Guzman,Víctor Guzmán,1128493.0,Victor Guzman
+029e290d,/en/players/029e290d/Vinicio-Angulo,Vinicio Angulo,194661.0,Vinicio Angulo
+6c4f744d,/en/players/6c4f744d/William-Tesillo,William Tesillo,207383.0,William Tesillo
+9eb9fdec,/en/players/9eb9fdec/Yairo-Moreno,Yairo Moreno,726475.0,Yairo Moreno
+4cac48c4,/en/players/4cac48c4/Yekeson-Subah,Yekeson Subah,1296896.0,Yekeson Subah
+3fce2e96,/en/players/3fce2e96/Zahid-Munoz,Zahid Muñoz,1169752.0,Zahid Munoz
+a2e9f252,/en/players/a2e9f252/Gary-Kagelmacher,Gary Kagelmacher,57078.0,Gary Kagelmacher
+03a8b265,/en/players/03a8b265/Emmanuel-Gigliotti,Emmanuel Gigliotti,184005.0,Emmanuel Gigliotti
+b425b366,/en/players/b425b366/Agustin-Oliveros,Agustín Oliveros,952324.0,Agustin Oliveros
+78db8e07,/en/players/78db8e07/Alan-Montes,Alán Montes,1170826.0,Alan Montes
+85fd4dbf,/en/players/85fd4dbf/Alberto-Herrera,Alberto Herrera,1295524.0,Alberto Herrera
+06b00cad,/en/players/06b00cad/Alejandro-Andrade,Alejandro Andrade,1176659.0,Alejandro Andrade
+ee246a94,/en/players/ee246a94/Alexis-Francisco-Pena,Alexis Francisco Peña,671970.0,Alexis Pena
+14c35d1a,/en/players/14c35d1a/Alexis-Perez,Alexis Pérez,521252.0,Alexis Perez
+a70ba644,/en/players/a70ba644/Alonso-Zamora,Alonso Zamora,186059.0,Alonso Zamora
+b80dbe8a,/en/players/b80dbe8a/Alvaro-Verda,Álvaro Verda,954093.0,Alvaro Verda
+7db31ca9,/en/players/7db31ca9/Amaury-Escoto,Amaury Escoto,262724.0,Amaury Escoto
+7ace741e,/en/players/7ace741e/Angel-Alonzo,Ángel Alonzo,1012761.0,Angel Alonzo
+685b396a,/en/players/685b396a/Angel-Robles,Ángel Robles,1248072.0,Angel Robles
+cec676c5,/en/players/cec676c5/Angel-Sepulveda,Ángel Sepúlveda,215428.0,Angel Sepulveda
+c8e4f105,/en/players/c8e4f105/Angelo-Araos,Ángelo Araos,659757.0,Ángelo Araos
+38802f7d,/en/players/38802f7d/Ariel-Uribe,Ariel Uribe,1044632.0,Ariel Uribe
+44b2e916,/en/players/44b2e916/Arturo-Palma,Arturo Palma,1233486.0,Arturo Palma
+4641e9a2,/en/players/4641e9a2/Aviles-Hurtado,Avilés Hurtado,206227.0,Avilés Hurtado
+ad4632bb,/en/players/ad4632bb/Benjamin-Galindo-Jr,Benjamín Galindo Jr.,933918.0,Benjamin Galindo
+1b9399bc,/en/players/1b9399bc/Bernardo-Cuesta,Bernardo Cuesta,361099.0,Bernardo Cuesta
+c1a72c24,/en/players/c1a72c24/Bryan-Carvallo,Bryan Carvallo,524514.0,Bryan Carvallo
+e2190ad8,/en/players/e2190ad8/Bryan-Garnica,Bryan Garnica,684129.0,Bryan Garnica
+e8707fbb,/en/players/e8707fbb/Carlos-Baltazar,Carlos Baltazar,996036.0,Carlos Baltazar
+7616d972,/en/players/7616d972/Gael-Acosta,Gael Acosta,445781.0,Carlos Gael Acosta
+bda0bc1e,/en/players/bda0bc1e/Carlos-Guerrero,Carlos Guerrero,1019142.0,Carlos Guerrero
+5ed4bcb5,/en/players/5ed4bcb5/Carlos-Guzman,Carlos Guzmán,294973.0,Carlos Guzman
+ea64c7cf,/en/players/ea64c7cf/Cesar-Aguirre,César Aguirre,1029240.0,Cesar Aguirre
+57376761,/en/players/57376761/Christian-Cueva,Christian Cueva,138183.0,Christian Cueva
+e97a88da,/en/players/e97a88da/Christian-Gimenez,Christian Giménez,74585.0,Christian Gimenez
+baa6295e,/en/players/baa6295e/Christian-Marrugo,Christian Marrugo,74960.0,Christian Marrugo
+94d12e15,/en/players/94d12e15/Claudio-Riano,Claudio Riaño,359472.0,Claudio Riano
+879bb6ef,/en/players/879bb6ef/Cristian-Menendez,Cristian Menéndez,127623.0,Cristian Menendez
+7221d0a5,/en/players/7221d0a5/Cristian-Palacios,Cristian Palacios,205942.0,Cristian Palacios
+dc91fa52,/en/players/dc91fa52/Cristian-Souza,Cristian Souza,841483.0,Cristian Souza
+be1395da,/en/players/be1395da/Damian-Batallini,Damián Batallini,724453.0,Damian Batallini
+cb98d15d,/en/players/cb98d15d/Daniel-Aguilar,Daniel Aguilar,1044852.0,Daniel Aguilar
+80d1a2f7,/en/players/80d1a2f7/Daniel-Arreola,Daniel Arreola,141652.0,Daniel Arreola
+b4daf602,/en/players/b4daf602/Daniel-Alexis-Parra,Daniel Alexis Parra,772312.0,Daniel Parra
+a7e5a754,/en/players/a7e5a754/Diego-Abella,Diego Abella,1010156.0,Diego Abella
+e33d517b,/en/players/e33d517b/Diego-Cruz-Esparza,Diego Cruz Esparza,683765.0,Diego Cruz Esparza
+73bca0c9,/en/players/73bca0c9/Diego-De-Buen,Diego De Buen,272616.0,Diego De Buen
+fa054cd3,/en/players/fa054cd3/Diego-Gomez,Diego Gómez,1327189.0,Diego Gomez
+50c6ae47,/en/players/50c6ae47/Diego-Zago,Diego Zago,1126973.0,Diego Zago
+41c13bc9,/en/players/41c13bc9/Eduardo-Mustre,Eduardo Mustre,1192467.0,Eduardo Mustre
+0634e84b,/en/players/0634e84b/Edwin-Hernandez,Edwin Hernández,141633.0,Edwin Hernandez
+b12f009b,/en/players/b12f009b/Emanuel-Gularte,Emanuel Gularte,848035.0,Emanuel Gularte
+4a516d57,/en/players/4a516d57/Emanuel-Loeschbor,Emanuel Loeschbor,528351.0,Emanuel Loeschbor
+b57a9ba3,/en/players/b57a9ba3/Erbin-Trejo,Erbín Trejo,179076.0,Erbin Trejo
+980e59a1,/en/players/980e59a1/Erik-Pimentel,Erik Pimentel,277275.0,Erik Pimentel
+aa385931,/en/players/aa385931/Fabricio-Formiliano,Fabricio Formiliano,384342.0,Fabricio Formiliano
+02cf308a,/en/players/02cf308a/Facundo-Batista,Facundo Batista,976444.0,Facundo Batista
+91b8e2e1,/en/players/91b8e2e1/Facundo-Castro,Facundo Castro,543427.0,Facundo Castro
+d3b58aaa,/en/players/d3b58aaa/Facundo-Waller,Facundo Waller,725073.0,Facundo Waller
+e1cf57c7,/en/players/e1cf57c7/Federico-Mancuello,Federico Mancuello,161344.0,Federico Mancuello
+786c2e9e,/en/players/786c2e9e/Felix-Micolta,Félix Micolta,119033.0,Felix Micolta
+0c403511,/en/players/0c403511/Fernando-Aristeguieta,Fernando Aristeguieta,211146.0,Fernando Aristeguieta
+a51e0948,/en/players/a51e0948/Fernando-Madrigal,Fernando Madrigal,614519.0,Fernando Madrigal
+2d193f63,/en/players/2d193f63/Fernando-Plascencia,Fernando Plascencia,1035193.0,Fernando Plascencia
+6c10fced,/en/players/6c10fced/Fidel-Martinez,Fidel Martínez,237608.0,Fidel Martinez
+08bea18b,/en/players/08bea18b/Francisco-Acuna,Francisco Acuña,157866.0,Francisco Acuna
+e1ae2215,/en/players/e1ae2215/Franco-Torgnascioli,Franco Torgnascioli,310290.0,Franco Torgnascioli
+bf7d1725,/en/players/bf7d1725/Gabriel-Achilier,Gabriel Achilier,52483.0,Gabriel Achilier
+9838cb70,/en/players/9838cb70/Gaston-Lezcano,Gastón Lezcano,280137.0,Gaston Lezcano
+a9235301,/en/players/a9235301/Geisson-Perea,Geisson Perea,480766.0,Geisson Perea
+09b53eeb,/en/players/09b53eeb/George-Corral,George Corral,164724.0,George Corral
+a1bb9076,/en/players/a1bb9076/Gil-Alcala,Gil Alcalá,610744.0,Gil Alcala
+50dcb7e4,/en/players/50dcb7e4/Giovani-Hernandez,Giovani Hernández,343939.0,Giovani Hernández
+5188561c,/en/players/5188561c/Gustavo-Ferrareis,Gustavo Ferrareis,602570.0,Gustavo Ferrareis
+7d014cb0,/en/players/7d014cb0/Heriberto-Jurado,Heriberto Jurado,1306869.0,Heriberto Jurado
+0e7f14c9,/en/players/0e7f14c9/Hibert-Ruiz,Hibert Ruiz,277276.0,Hibert Ruiz
+2307f286,/en/players/2307f286/Illian-Hernandez,Illian Hernandez,1280280.0,Illian Hernandez
+ee54cb7a,/en/players/ee54cb7a/Irven-Avila,Irven Ávila,116937.0,Irven Avila
+dc4b2946,/en/players/dc4b2946/Israel-Luna,Israel Luna,1109048.0,Israel Luna
+3a9bac9a,/en/players/3a9bac9a/Ivo-Vazquez,Ivo Vázquez,1108516.0,Ivo Vazquez
+1fa0a5ca,/en/players/1fa0a5ca/Jahaziel-Marchand,Jahaziel Marchand,1222815.0,Jahaziel Marchand
+2a79d1ae,/en/players/2a79d1ae/Jair-Cortes,Jair Cortés,1025121.0,Jair Cortes
+d526bb34,/en/players/d526bb34/Jair-Pereira,Jair Pereira,278569.0,Jair Pereira
+6c5549b7,/en/players/6c5549b7/Jairo-Gonzalez,Jairo González,558633.0,Jairo Gonzalez
+f1ff14eb,/en/players/f1ff14eb/Jesus-Alcantar-Rodriguez,Jesús Alcantar Rodríguez,1170829.0,Jesus Alcantar
+92f7b073,/en/players/92f7b073/Jose-de-Jesus-Godinez,José de Jesús Godínez,844919.0,Jesus Godinez
+b9bb50d8,/en/players/b9bb50d8/Jesus-Paganoni,Jesús Paganoni,70490.0,Jesus Paganoni
+066e9f5d,/en/players/066e9f5d/Jesus-Trindade,Jesús Trindade,495445.0,Jesus Trindade
+d80c5170,/en/players/d80c5170/Jesus-Velasco,Jesus Velasco,1463169.0,Jesus Velasco
+84b7c924,/en/players/84b7c924/Joao-Rodriguez,Joao Rodríguez,425426.0,Joao Rodriguez
+ce070a45,/en/players/ce070a45/Jonathan-Copete,Jonathan Copete,52196.0,Jonathan Copete
+35087c0f,/en/players/35087c0f/Jorge-Aguilar,Jorge Aguilar,1002048.0,Jorge Aguilar
+e728a035,/en/players/e728a035/Jorge-Valadez,Jorge Valadéz,880977.0,Jorge Valadez
+11f1e522,/en/players/11f1e522/Jorge-Valdivia,Jorge Valdivia,18544.0,Jorge Valdivia
+ef3e1e6f,/en/players/ef3e1e6f/Jose-Daniel-Guerrero,José Daniel Guerrero,72147.0,José Daniel Guerrero
+72c08f14,/en/players/72c08f14/Jose-Joaquin-Esquivel,José Joaquín Esquivel,766570.0,Jose Esquivel
+d78d7415,/en/players/d78d7415/Jose-Francisco-Torres,José Francisco Torres,95292.0,Jose Francisco Torres
+6f8f2f80,/en/players/6f8f2f80/Jose-Gurrola,José Gurrola,935918.0,Jose Gurrola
+6cfa365d,/en/players/6cfa365d/Jose-Padilla,José Padilla,863142.0,Jose Padilla
+af89c75e,/en/players/af89c75e/Jose-Zuniga,José Zúñiga,1083320.0,Jose Zuniga
+8d416b5e,/en/players/8d416b5e/Josue-Gomez,Josué Gómez,1130437.0,Josue Gomez
+636b0833,/en/players/636b0833/Kevin-Alvarez,Kevin Álvarez,924737.0,Kevin Álvarez
+2c155f33,/en/players/2c155f33/Kevin-Ortega,Kevin Ortega,1185739.0,Kevin Ortega
+2271da97,/en/players/2271da97/Leonardo-Ramos,Leonardo Ramos,558240.0,Leonardo Ramos
+39ab758c,/en/players/39ab758c/Lucas-Villafanez,Lucas Villafáñez,245434.0,Lucas Villafanez
+371fbf4a,/en/players/371fbf4a/Luis-Calzadilla,Luis Calzadilla,1114432.0,Luis Calzadilla
+ddb323c5,/en/players/ddb323c5/Luis-Miguel-Noriega,Luis Miguel Noriega,97892.0,Luis Noriega
+be50f4be,/en/players/be50f4be/Manuel-Agustin-Duarte,Manuel Agustín Duarte,1253932.0,Manuel Duarte
+b02ca422,/en/players/b02ca422/Manuel-Viniegra,Manuel Viniegra,70237.0,Manuel Viniegra Garcia
+b0042dc3,/en/players/b0042dc3/Marcelo-Allende,Marcelo Allende,688299.0,Marcelo Allende
+f397ba12,/en/players/f397ba12/Marino-Hinestroza,Marino Hinestroza,1205222.0,Marino Hinestroza
+f1e39207,/en/players/f1e39207/Mario-de-Luna,Mario de Luna,111889.0,Mario de Luna
+786861a0,/en/players/786861a0/Mario-Trejo,Mario Trejo,950024.0,Mario Trejo
+8ae9001b,/en/players/8ae9001b/Martin-Barragan,Martín Barragán,494183.0,Martin Barragan
+042bdc11,/en/players/042bdc11/Martin-Rea,Martín Rea,921860.0,Martin Rea
+b88beb53,/en/players/b88beb53/Matias-Alustiza,Matías Alustiza,111033.0,Matias Alustiza
+88dd134a,/en/players/88dd134a/Matias-Britos,Matías Britos,166119.0,Matias Britos
+e7eab8e7,/en/players/e7eab8e7/Matias-Catalan,Matías Catalán,427912.0,Matias Catalan
+c91c9e95,/en/players/c91c9e95/Mauricio-Isais,Mauricio Isais,1128764.0,Mauricio Isais
+1643c897,/en/players/1643c897/Mauro-Quiroga,Mauro Quiroga,213720.0,Mauro Quiroga
+c3c12758,/en/players/c3c12758/Maximiliano-Salas,Maximiliano Salas,730647.0,Maximiliano Salas
+e3b9cc57,/en/players/e3b9cc57/Maximiliano-Silvera,Maximiliano Silvera,1256494.0,Maximiliano Silvera
+ac7051b6,/en/players/ac7051b6/Miguel-Pedroza,Miguel Pedroza,1327190.0,Miguel Pedroza
+526f7e39,/en/players/526f7e39/Milton-Gimenez,Milton Giménez,670344.0,Milton Gimenez
+dbb9ae9e,/en/players/dbb9ae9e/Nicolas-Albarracin,Nicolás Albarracín,281312.0,Nicolas Albarracin
+cf402a8b,/en/players/cf402a8b/Nicolas-Sosa,Nicolás Sosa,845944.0,Nicolas Sosa
+ec68301a,/en/players/ec68301a/Oscar-Millan,Oscar Millán,1092003.0,Oscar Millan
+372c2df8,/en/players/372c2df8/Oscar-Murillo,Óscar Murillo,167928.0,Oscar Murillo
+40e417fa,/en/players/40e417fa/Oscar-Ustari,Óscar Ustari,30992.0,Oscar Ustari
+612f5526,/en/players/612f5526/Osmar-Mares,Osmar Mares,71033.0,Osmar Mares Martinez
+69a95401,/en/players/69a95401/Osvaldo-Martinez,Osvaldo Martínez,157424.0,Osvaldo Martinez
+085e3d90,/en/players/085e3d90/Pablo-Parra,Pablo Parra,198567.0,Pablo Parra
+aca6e7d7,/en/players/aca6e7d7/Paolo-Medina,Paolo Medina,1071474.0,Paolo Medina
+7aab7dd5,/en/players/7aab7dd5/Patrick-Villa,Patrick Villa,1440205.0,Patrick Villa
+99150b4e,/en/players/99150b4e/Pedro-Campos,Pedro Campos,950025.0,Pedro Campos
+2a8713eb,/en/players/2a8713eb/Pedro-Pedraza,Pedro Pedraza,1202775.0,Pedro Pedraza
+49511283,/en/players/49511283/Rafael-Fernandez,Rafael Fernández,1169764.0,Rafael Fernandez
+841c78f2,/en/players/841c78f2/Rafael-Ramirez,Rafael Ramírez,229736.0,Rafael Ramirez
+675d4782,/en/players/675d4782/Raul-Castillo,Raúl Castillo,1035189.0,Raul Castillo
+abe4fb02,/en/players/abe4fb02/Ray-Sandoval,Ray Sandoval,547750.0,Ray Sandoval
+11f13469,/en/players/11f13469/Rene-Lopez,René López,1203563.0,Rene Lopez
+cc9ee242,/en/players/cc9ee242/Ricardo-Monreal,Ricardo Monreal,1023022.0,Ricardo Monreal
+9a7e38ea,/en/players/9a7e38ea/Ricardo-Pena,Ricardo Peña,769570.0,Ricardo Pena
+70caef79,/en/players/70caef79/Roberto-Nurse,Roberto Nurse,147962.0,Roberto Nurse
+4e7349f3,/en/players/4e7349f3/Rodolfo-Salinas,Rodolfo Salinas,72130.0,Rodolfo Salinas Ortiz
+c4a882fc,/en/players/c4a882fc/Rodolfo-Vilchis,Rodolfo Vilchis,201039.0,Rodolfo Vilchis
+c1e5ab87,/en/players/c1e5ab87/Rodrigo-Contreras,Rodrigo Contreras,410434.0,Rodrigo Contreras
+6436748b,/en/players/6436748b/Rodrigo-Rey,Rodrigo Rey,443465.0,Rodrigo Rey
+656316b4,/en/players/656316b4/Rogelio-Cortez-Pineda,Rogelio Cortéz Pineda,1393763.0,Rogelio Pineda
+487b81af,/en/players/487b81af/Ronaldo-Gonzalez,Ronaldo González,1194503.0,Ronaldo Gonzalez
+0b97f70a,/en/players/0b97f70a/Sebastian-Fassi,Sebastián Fassi,558540.0,Sebastian Fassi
+e4a47bec,/en/players/e4a47bec/Sebastian-Palacios,Sebastián Palacios,432949.0,Sebastian Palacios
+082d1db5,/en/players/082d1db5/Sebastian-Sosa,Sebastián Sosa,292353.0,Sebastian Sosa
+8f2aa5c9,/en/players/8f2aa5c9/Sergio-Bareiro,Sergio Bareiro,768602.0,Sergio Bareiro
+b9bfa710,/en/players/b9bfa710/Ulises-Cardona,Ulises Cardona,882474.0,Ulises Cardona
+5ce77553,/en/players/5ce77553/Vicente-Poggi,Vicente Poggi,1211623.0,Vicente Poggi
+8748ef78,/en/players/8748ef78/Ismael-Sosa,Ismael Sosa,41552.0,Victor Ismael Sosa
+8639bd72,/en/players/8639bd72/Victor-Mora,Víctor Mora,1072261.0,Victor Mora
+5bde59f8,/en/players/5bde59f8/Waldo-Madrid,Waldo Madrid,1251768.0,Waldo Madrid
+b4bbb408,/en/players/b4bbb408/Yerko-Leiva,Yerko Leiva,530995.0,Yerko Leiva Lazo
+5c8d4f5e,/en/players/5c8d4f5e/Yohandry-Orozco,Yohandry Orozco,108461.0,Yohandry Orozco
+f7134924,/en/players/f7134924/Yosgart-Gutierrez,Yosgart Gutiérrez,70197.0,Yosgart Gutiérrez
+c2133be8,/en/players/c2133be8/Nicolas-Navarro,Nicolás Navarro,18558.0,Nicolás Navarro
+ff70b131,/en/players/ff70b131/Pablo-Barrera,Pablo Barrera,70865.0,Pablo Barrera
+318c7568,/en/players/318c7568/Miguel-Samudio,Miguel Samudio,96817.0,Miguel Samudio
+d7367ead,/en/players/d7367ead/Julio-Nava,Julio Nava,111893.0,Julio Nava
+53bdece3,/en/players/53bdece3/Edson-Puch,Edson Puch,164290.0,Edson Puch
+c7d1536c,/en/players/c7d1536c/Diego-Novaretti,Diego Novaretti,184132.0,Diego Novaretti
+cf7f7a52,/en/players/cf7f7a52/Daniel-Cervantes,Daniel Cervantes,230343.0,Daniel Cervantes
+a1cc2dae,/en/players/a1cc2dae/Alfonso-Luna,Alfonso Luna,277143.0,Alfonso Luna
+e2019576,/en/players/e2019576/Jefferson-Orejuela,Jefferson Orejuela,396093.0,Jefferson Orejuela
+5cf877dc,/en/players/5cf877dc/Michael-Perez-Ortiz,Michael Pérez Ortíz,399487.0,Michael Pérez Ortíz
+2febef70,/en/players/2febef70/Irving-Zurita,Irving Zurita,418250.0,Irving Zurita
+ca15fdf2,/en/players/ca15fdf2/Maximiliano-Perg,Maximiliano Perg,428602.0,Maximiliano Perg
+40269e37,/en/players/40269e37/Hugo-Silveira,Hugo Silveira,479042.0,Hugo Silveira
+ba6d8435,/en/players/ba6d8435/Gonzalo-Montes,Gonzalo Montes,494956.0,Gonzalo Montes
+9c577087,/en/players/9c577087/Bryan-Olivera,Bryan Olivera,495286.0,Bryan Olivera
+19da9ece,/en/players/19da9ece/Washington-Aguerre,Washington Aguerre,521632.0,Washington Aguerre
+8ee9191e,/en/players/8ee9191e/Clifford-Aboagye,Clifford Aboagye,533112.0,Clifford Aboagye
+8c0cb551,/en/players/8c0cb551/Victor-Milke,Víctor Milke,559985.0,Víctor Milke
+deee261c,/en/players/deee261c/Kevin-Escamilla,Kevin Escamilla,610642.0,Kevin Escamilla
+03e1a505,/en/players/03e1a505/Jonathan-Betancourt,Jonathan Betancourt,613938.0,Jonathan Betancourt
+dbe02a06,/en/players/dbe02a06/Luis-Madrigal,Luis Madrigal,640280.0,Luis Madrigal
+a5737fd0,/en/players/a5737fd0/Kevin-Balanta,Kevin Balanta,675918.0,Kevin Balanta
+7c094b1a,/en/players/7c094b1a/Christian-Rivera,Christian Rivera,732548.0,Christian Rivera
+0e8cbfc4,/en/players/0e8cbfc4/Miguel-Barbieri,Miguel Barbieri,742681.0,Miguel Barbieri
+f775c775,/en/players/f775c775/Leonardo-Sequeira,Leonardo Sequeira,795724.0,Leonardo Sequeira
+79ad7358,/en/players/79ad7358/Gabriel-Rojas,Gabriel Rojas,805540.0,Gabriel Rojas
+a71bef40,/en/players/a71bef40/Aldo-Arellano,Aldo Arellano,825949.0,Aldo Arellano
+aca69d0c,/en/players/aca69d0c/Carlos-Zamora,Carlos Zamora,863024.0,Carlos Zamora
+aee0f861,/en/players/aee0f861/Joshua-Canales,Joshua Canales,888749.0,Joshua Canales
+f9c512db,/en/players/f9c512db/Carlos-Higuera,Carlos Higuera,892195.0,Carlos Higuera
+f7b6ea32,/en/players/f7b6ea32/Juan-Romagnoli,Juan Romagnoli,897604.0,Juan Romagnoli
+f2c2d261,/en/players/f2c2d261/Joe-Gallardo,Joe Gallardo,1036400.0,Joe Gallardo
+0201a97a,/en/players/0201a97a/Hugo-Magallanes,Hugo Magallanes,1073150.0,Hugo Magallanes
+f981321f,/en/players/f981321f/Eduardo-Bravo,Eduardo Bravo,1169052.0,Eduardo Bravo
+45522a10,/en/players/45522a10/Aristeo-Garcia,Aristeo García,1221049.0,Aristeo García
+44d1c7c0,/en/players/44d1c7c0/Alejandro-Rivero,Alejandro Rivero,1222432.0,Alejandro Rivero
+5329413c,/en/players/5329413c/Ettson-Ayon,Ettson Ayon,1302079.0,Ettson Ayon
+d0832e71,/en/players/d0832e71/Aldo-Lopez,Aldo López,1138422.0,Aldo Lopez
+7e88757f,/en/players/7e88757f/Andres-Ibarguen,Andrés Ibargüen,578025.0,Andres Ibarguen
+5df18014,/en/players/5df18014/Ayrton-Preciado,Ayrton Preciado,345801.0,Ayrton Preciado
+22232b62,/en/players/22232b62/Benny-Diaz,Benny Díaz,1168815.0,Benny Diaz
+7ab584e1,/en/players/7ab584e1/Cris-Martinez,Cris Martínez,274374.0,Cris Martinez
+03edb878,/en/players/03edb878/Daniel-Jebbison,Daniel Jebbison,1253827.0,Daniel Jebbison
+011b2621,/en/players/011b2621/Deiner-Quinonez,Deiner Quiñónez,496867.0,Deiner Quinonez
+91d4d322,/en/players/91d4d322/Diego-Medina,Diego Medina,1096623.0,Diego Medina
+61088de3,/en/players/61088de3/Eduardo-Aguirre,Eduardo Aguirre,689693.0,Eduardo Aguirre
+9e81aaf7,/en/players/9e81aaf7/Edwin-Cetre,Edwin Cetré,924959.0,Edwin Cetre
+99f5d6aa,/en/players/99f5d6aa/Fabian-Castillo,Fabián Castillo,207524.0,Fabian Castillo
+2c8a91b9,/en/players/2c8a91b9/Fallou-Fall,Fallou Fall,1473603.0,Fallou Fall
+1bbc96a2,/en/players/1bbc96a2/Franco-Pizzichillo,Franco Pizzichillo,1174809.0,Franco Pizzichillo
+56628958,/en/players/56628958/George-Abbott,George Abbott,1347713.0,George Abbott
+d8ee75b6,/en/players/d8ee75b6/Gerardo-Alcoba,Gerardo Alcoba,56830.0,Gerardo Alcoba
+191aa29a,/en/players/191aa29a/Gerson-Vazquez,Gerson Vázquez,1079977.0,Gerson Vazquez
+d8b7afc2,/en/players/d8b7afc2/Gibran-Lajud,Gibran Lajud,528122.0,Gibran Lajud
+5300af73,/en/players/5300af73/Harold-Preciado,Harold Preciado,466600.0,Harold Preciado
+088575d1,/en/players/088575d1/Hiram-Munoz,Hiram Muñoz,792854.0,Hiram Munoz
+048057ce,/en/players/048057ce/Ignacio-Jeraldino,Ignacio Jeraldino,304520.0,Ignacio Jeraldino
+a1a5a22b,/en/players/a1a5a22b/Jair-Diaz,Jair Díaz,861893.0,Jair Diaz
+7c2d1ba0,/en/players/7c2d1ba0/Jair-Gonzalez,Jair González,1174785.0,Jair Gonzalez
+c732cbaa,/en/players/c732cbaa/Jesus-Isijara,Jesús Isijara,215038.0,Jesus Isijara
+9ec27e7f,/en/players/9ec27e7f/Joaquin-Montecinos,Joaquín Montecinos,1206710.0,Joaquin Montecinos
+f817784b,/en/players/f817784b/Jonathan-Diaz,Jonathan Díaz,1169796.0,Jonathan Diaz
+e84f023a,/en/players/e84f023a/Jonathan-Suarez,Jonathan Suárez,950056.0,Jonathan Suarez
+55f70431,/en/players/55f70431/Jordan-Carrillo,Jordan Carrillo,1171126.0,Jordan Carrillo
+a78c131a,/en/players/a78c131a/Jose-Antonio-Rodriguez,José Antonio Rodríguez,324432.0,José Antonio Rodriguez
+f425bb4c,/en/players/f425bb4c/Jose-Avila,José Ávila,890329.0,Jose Avila
+9ab0b080,/en/players/9ab0b080/Jose-Lozano,José Lozano,1085770.0,Jose Lozano
+13b34cde,/en/players/13b34cde/Joshua-Mancha,Joshua Mancha,1431197.0,Joshua Mancha
+bf453048,/en/players/bf453048/Kevin-Castaneda,Kevin Castañeda,951049.0,Kevin Castaneda
+f0f2ab49,/en/players/f0f2ab49/Leonel-Lopez,Leonel López,534735.0,Leonel Lopez
+229294a6,/en/players/229294a6/Luis-Gamiz,Luis Gamíz,955697.0,Luis Gamiz
+4b1879cb,/en/players/4b1879cb/Luis-Leal,Luís Leal,211821.0,Luis Leal
+331c5a98,/en/players/331c5a98/Mamadou-Diakhon,Mamadou Diakhon,1484998.0,Mamadou Diakhon
+f3e5f80c,/en/players/f3e5f80c/Octavio-Rivero,Octavio Rivero,410821.0,Octavio Rivero
+2a5ee788,/en/players/2a5ee788/Omar-Campos,Omar Campos,1222470.0,Omar Campos
+d31dc36d,/en/players/d31dc36d/Ricardo-Diaz,Ricardo Díaz,914138.0,Ricardo Diaz
+e5cc2715,/en/players/e5cc2715/Rodrigo-Godinez,Rodrigo Godínez,393071.0,Rodrigo Godinez
+21849bf3,/en/players/21849bf3/Ronaldo-Prieto,Ronaldo Prieto,950656.0,Ronaldo Prieto
+a51d449a,/en/players/a51d449a/Salvador-Mariscal,Salvador Mariscal,1239856.0,Salvador Mariscal
+9eedf0e0,/en/players/9eedf0e0/Samuel-Amo-Ameyaw,Samuel Amo-Ameyaw,1418073.0,Samuel Amo-Ameyaw
+48329ff8,/en/players/48329ff8/Samuel-Ntanda,Samuel Ntanda,1489446.0,Samuel Ntanda-Lukisa
+dd986929,/en/players/dd986929/Santiago-Munoz,Santiago Muñóz,1109767.0,Santiago Muñoz
+9494822b,/en/players/9494822b/Sebastian-Yanez,Sebastián Yanez,1285275.0,Sebastian Yanez
+2b82cc9d,/en/players/2b82cc9d/Shayr-Mohamed-Gonzalez,Shayr Mohamed González,1169757.0,Shayr Mohamed
+9b1b4782,/en/players/9b1b4782/Gonzalo-Jara,Gonzalo Jara,49885.0,Gonzalo Jara
+8c6ca532,/en/players/8c6ca532/Jonathan-Orozco,Jonathan Orozco,71526.0,Jonathan Orozco
+509708e4,/en/players/509708e4/Washington-Camacho,Washington Camacho,74880.0,Washington Camacho
+3dd562b8,/en/players/3dd562b8/Diego-Braghieri,Diego Braghieri,113730.0,Diego Braghieri
+bff05389,/en/players/bff05389/Esteban-Pavez,Esteban Pavez,164767.0,Esteban Pavez
+f2f06df9,/en/players/f2f06df9/Renato-Ibarra,Renato Ibarra,207243.0,Renato Ibarra
+fdb68e2a,/en/players/fdb68e2a/Junior-Sornoza,Junior Sornoza,291154.0,Junior Sornoza
+8e8cceac,/en/players/8e8cceac/Federico-Lertora,Federico Lértora,306127.0,Federico Lértora
+e43dc6bb,/en/players/e43dc6bb/Erick-Castillo,Erick Castillo,458861.0,Erick Castillo
+b75a1b03,/en/players/b75a1b03/Yonatthan-Rak,Yonatthan Rak,495383.0,Yonatthan Rak
+18a3f871,/en/players/18a3f871/Juan-Martin-Lucero,Juan Martín Lucero,561043.0,Juan Martín Lucero
+b5d5cb01,/en/players/b5d5cb01/Luis-Lozoya,Luis Lozoya,562080.0,Luis Lozoya
+c5cc3130,/en/players/c5cc3130/Braian-Romero,Braian Romero,615987.0,Braian Romero
+b5354c19,/en/players/b5354c19/Gustavo-Canto,Gustavo Canto,623787.0,Gustavo Canto
+94e40a9f,/en/players/94e40a9f/Alexis-Castro,Alexis Castro,623986.0,Alexis Castro
+691bf9fe,/en/players/691bf9fe/Misael-Dominguez,Misael Domínguez,774427.0,Misael Domínguez
+93ffd0e4,/en/players/93ffd0e4/Ismael-Govea,Ismael Govea,926358.0,Ismael Govea
+d15c81f9,/en/players/d15c81f9/Edson-Alvarado,Edson Alvarado,1017330.0,Edson Alvarado
+01a27d9e,/en/players/01a27d9e/Francisco-Contreras,Francisco Contreras,1023023.0,Francisco Contreras
+613bf0c3,/en/players/613bf0c3/Alan-Ruiz,Alan Ruiz,1045254.0,Alan Ruiz
+bd6583dc,/en/players/bd6583dc/Jordan-Rezabala,Jordan Rezabala,1053699.0,Jordan Rezabala
+8c6f25f8,/en/players/8c6f25f8/Salvador-Manriquez,Salvador Manríquez,1125519.0,Salvador Manríquez
+d6f74787,/en/players/d6f74787/Christian-Castillo,Christian Castillo,1222038.0,Christian Castillo
+e37f063e,/en/players/e37f063e/Rodrigo-Parra,Rodrigo Parra,1232295.0,Rodrigo Parra
+26f76d7b,/en/players/26f76d7b/Alejandro-Martinez,Alejandro Martínez,1248060.0,Alejandro Martínez
+32a7f855,/en/players/32a7f855/Abraham-Flores,Abraham Flores,1306879.0,Abraham Flores
+4b46566d,/en/players/4b46566d/Cesar-Castillo,César Castillo,1327393.0,César Castillo
+ac638620,/en/players/ac638620/Eduardo-Armenta,Eduardo Armenta,1329364.0,Eduardo Armenta
+75a15d99,/en/players/75a15d99/Alam-Galindo,Alam Galindo,1329365.0,Alam Galindo
+1e690aa4,/en/players/1e690aa4/Hugo-Weckmann,Hugo Weckmann,1338843.0,Hugo Weckmann
+219acdfa,/en/players/219acdfa/Abolfazl-Jalali,Abolfazl Jalali,1256489.0,Abolfazl Jalali
+682bd745,/en/players/682bd745/Abraham-Gonzalez,Abraham González,165706.0,Abraham Gonzalez
+b805a7f8,/en/players/b805a7f8/Adolfo-Dominguez-Gerardo,Adolfo Domínguez Gerardo,610465.0,Adolfo Dominguez
+a81bb5ec,/en/players/a81bb5ec/Adolfo-Hernandez,Adolfo Hernández,957528.0,Adolfo Hernandez
+cd5453d5,/en/players/cd5453d5/Adrian-Aldrete,Adrián Aldrete,70827.0,Adrian Aldrete
+4d7ac982,/en/players/4d7ac982/Adrian-Garza,Adrián Garza,1216797.0,Adrian Garza
+0c2a2a73,/en/players/0c2a2a73/Adrian-Luna,Adrián Luna,206699.0,Adrian Luna
+2a3e6ac7,/en/players/2a3e6ac7/Aldhair-Molina,Aldhair Molina,1010161.0,Aldhair Molina
+d8ca630d,/en/players/d8ca630d/Aldo-Llanas,Aldo Llanas,1380574.0,Aldo Llanas
+5ab26e83,/en/players/5ab26e83/Alek-Alvarez,Alek Álvarez,1178451.0,Alek Alvarez
+db19a32b,/en/players/db19a32b/Alfredo-Saldivar,Alfredo Saldívar,212486.0,Alfredo Saldivar Medina
+6524b411,/en/players/6524b411/Amaury-Garcia,Amaury García,1084523.0,Amaury Garcia
+585e1b85,/en/players/585e1b85/Andre-Pierre-Gignac,André-Pierre Gignac,38098.0,Andre-Pierre Gignac
+580ef6d8,/en/players/580ef6d8/Angel-Reyna,Ángel Reyna,72126.0,Angel Reyna
+70e6a77e,/en/players/70e6a77e/Arturo-Delgado,Arturo Delgado,1203586.0,Arturo Delgado
+03026a5f,/en/players/03026a5f/Arturo-Ortiz,Arturo Ortiz,418257.0,Arturo Ortiz
+a9c2e4f5,/en/players/a9c2e4f5/Brandon-Sartiaguin,Brandon Sartiaguin,1171897.0,Brandon Sartiaguin
+cd926b2a,/en/players/cd926b2a/Brian-Figueroa,Brian Figueroa,863133.0,Brian Figueroa
+12759bc6,/en/players/12759bc6/Carlos-Calvo,Carlos Calvo,350922.0,Carlos Calvo
+ddb8cfad,/en/players/ddb8cfad/Carlos-Esquivel,Carlos Esquivel,71030.0,Carlos Esquivel
+3e643a7a,/en/players/3e643a7a/Carlos-Galindo,Carlos Galindo,1176803.0,Carlos Galindo
+50520f42,/en/players/50520f42/Carlos-Orrantia,Carlos Orrantía,201110.0,Carlos Orrantia
+de2f44ce,/en/players/de2f44ce/Cesar-Huerta,César Huerta,977404.0,Cesar Huerta
+9ba1c30c,/en/players/9ba1c30c/Claudio-Baeza,Claudio Baeza,360799.0,Claudio Baeza
+295b7567,/en/players/295b7567/David-Ayala,David Ayala,1283363.0,David Ayala
+49dc9833,/en/players/49dc9833/Diego-Abitia,Diego Abitia,1358427.0,Diego Abitia
+237efd70,/en/players/237efd70/Diego-Rosales,Diego Rosales,957527.0,Diego Rosales
+e09561fc,/en/players/e09561fc/Edgar-Alaffita,Edgar Alaffita,724355.0,Edgar Alaffita
+c76f60d9,/en/players/c76f60d9/Eduardo-Tercero,Eduardo Tercero,862169.0,Eduardo Tercero
+bd603c00,/en/players/bd603c00/Eduardo-Vargas,Eduardo Vargas,50661.0,Eduardo Vargas
+112e1080,/en/players/112e1080/Efrain-Velarde,Efraín Velarde,70809.0,Efrain Velarde Calvillo
+7c0da546,/en/players/7c0da546/Emanuel-Montejano-Arroyo,Emanuel Montejano Arroyo,1125756.0,Emanuel Montejano
+59ffa68e,/en/players/59ffa68e/Enrique-Gomez,Enrique Gomez,1411030.0,Enrique Gomez
+3306b9e8,/en/players/3306b9e8/Enrique-Triverio,Enrique Triverio,468984.0,Enrique Triverio
+705e455e,/en/players/705e455e/Erick-Avalos,Erick Ávalos,1218003.0,Erick Avalos
+5f956fcf,/en/players/5f956fcf/Felipe-Pardo,Felipe Pardo,101434.0,Felipe Pardo
+2d53386a,/en/players/2d53386a/Fernando-Gorriaran,Fernando Gorriarán,495198.0,Fernando Gorriaran
+9c71adcd,/en/players/9c71adcd/Fernando-Ordonez,Fernando Ordóñez,1470110.0,Fernando Ordonez
+4958ceac,/en/players/4958ceac/Fernando-Tobio,Fernando Tobio,115671.0,Fernando Tobio
+05540190,/en/players/05540190/Francisco-Meza,Francisco Meza,307477.0,Francisco Meza
+d71833f6,/en/players/d71833f6/Gabriel-Torres,Gabriel Torres,118548.0,Gabriel Torres
+bd5e4352,/en/players/bd5e4352/Gael-Rodriguez,Gael Rodríguez,1428183.0,Gael Rodríguez
+3d310a6d,/en/players/3d310a6d/Gerardo-Moreno,Gerardo Moreno,442345.0,Gerardo Moreno
+10204bed,/en/players/10204bed/Giovanny-Leon,Giovanny León,957643.0,Giovanny Leon
+eb9f3f10,/en/players/eb9f3f10/Guido-Milan,Guido Milán,426878.0,Guido Milan
+839ac4ea,/en/players/839ac4ea/Gustavo-Del-Prete,Gustavo Del Prete,848182.0,Gustavo Del Prete
+aaba5eaf,/en/players/aaba5eaf/Gustavo-Gutierrez,Gustavo Gutiérrez,1201411.0,Gustavo Gutierrez
+76b24e70,/en/players/76b24e70/Haret-Ortega,Haret Ortega,1416322.0,Haret Ortega
+9bd12d11,/en/players/9bd12d11/Hector-Ramirez,Héctor Ramírez,1197370.0,Hector Ramirez
+040e5ca4,/en/players/040e5ca4/Ian-Gonzalez-Nieto,Ian Gonzalez Nieto,640114.0,Ian Gonzalez
+3947fa95,/en/players/3947fa95/Igor-Lichnovsky,Igor Lichnovsky,298327.0,Igor Lichnovsky
+bf9e5df6,/en/players/bf9e5df6/Isaias-Galvan,Isaias Galván,1470109.0,Isaias Galvan
+bce71c9a,/en/players/bce71c9a/Isaias-Violante,Isaías Violante,1197375.0,Isaias Violante
+9e18930d,/en/players/9e18930d/Ivan-Acero,Iván Acero,958451.0,Ivan Acero
+046f3c1b,/en/players/046f3c1b/Ivan-Santillan,Iván Santillán,306978.0,Ivan Santillan
+0c0d23df,/en/players/0c0d23df/Jacob-Morales,Jacob Morales,1178445.0,Jacob Morales
+215104cc,/en/players/215104cc/Javier-Aquino,Javier Aquino,172324.0,Javier Aquino
+dc7acc74,/en/players/dc7acc74/Jean-Meneses,Jean Meneses,664954.0,Jean Meneses
+7c033200,/en/players/7c033200/Jeison-Angulo,Jeison Angulo,643523.0,Jeison Angulo
+c367c835,/en/players/c367c835/Jeronimo-Rodriguez,Jerónimo Rodríguez,1168818.0,Jeronimo Rodriguez
+2a8638ec,/en/players/2a8638ec/Jesus-Alberto-Angulo,Jesús Alberto Angulo,882469.0,Jesus Angulo
+90271b6f,/en/players/90271b6f/Jesus-Garza,Jesús Garza,1075104.0,Jesus Garza
+efe5d6bc,/en/players/efe5d6bc/Jesus-Henestrosa,Jesús Henestrosa,519507.0,Jesus Henestrosa
+92624456,/en/players/92624456/Jesus-Molina,Jesús Molina,112081.0,Jesus Molina
+88a5e694,/en/players/88a5e694/Jesus-Rivas,Jesús Rivas,1125755.0,Jesus Rivas
+2eefb7b4,/en/players/2eefb7b4/Jesus-Venegas,Jesús Venegas,1242124.0,Jesus Venegas
+814252bc,/en/players/814252bc/Jonathan-Sanchez,Jonathan Sánchez,497823.0,Jonathan Sanchez
+3c0efe33,/en/players/3c0efe33/Jorge-Ruvalcaba,Jorge Ruvalcaba,1306870.0,Jorge Ruvalcaba
+9920b309,/en/players/9920b309/Jorge-Torres-Nilo,Jorge Torres Nilo,70468.0,Jorge Torres Nilo
+5bb0a820,/en/players/5bb0a820/Jose-Alcantara,José Alcántara,1047754.0,Jose Alcantara
+a2f33682,/en/players/a2f33682/Jose-Arturo-Rivas,José Arturo Rivas,70219.0,Jose Arturo Rivas
+4b583a34,/en/players/4b583a34/Jose-Caicedo,José Caicedo,1331128.0,Jose Caicedo
+2ca40180,/en/players/2ca40180/Jose-Chavez,José Chávez,977943.0,Jose Chavez
+e0ba1c09,/en/players/e0ba1c09/Jose-Cobian,José Cobián,972260.0,Jose Cobian
+c06004ce,/en/players/c06004ce/Jose-Galindo,José Galindo,1169791.0,Jose Galindo
+1ecdebcd,/en/players/1ecdebcd/Jose-Navarro,José Navarro,1381064.0,Jose Navarro
+10b8a858,/en/players/10b8a858/Juan-Aguayo,Juan Agüayo,848042.0,Juan Aguayo
+fc2c5692,/en/players/fc2c5692/Juan-Ignacio-Dinenno,Juan Ignacio Dinenno,486453.0,Juan Dinenno
+2c0fbaf5,/en/players/2c0fbaf5/Juan-Iturbe,Juan Iturbe,245572.0,Juan Iturbe
+12741be6,/en/players/12741be6/Juan-Miguel,Juan Miguel,1179284.0,Juan Miguel
+dd6862d1,/en/players/dd6862d1/Juan-Pablo-Vigon,Juan Pablo Vigón,350153.0,Juan Pablo Vigon
+77e40b36,/en/players/77e40b36/Kenneth-Jaime,Kenneth Jaime,1373792.0,Kenneth Jaime
+a3f53eb9,/en/players/a3f53eb9/Leiton-Jimenez,Leiton Jiménez,195192.0,Leiton Jimenez Romero
+fdf3e7e6,/en/players/fdf3e7e6/Leobardo-Lopez,Leobardo López,70253.0,Leobardo Lopez
+a757be87,/en/players/a757be87/Leonardo-Fernandez,Leonardo Fernández,834965.0,Leonardo Fernandez
+89d13d69,/en/players/89d13d69/Leonel-Prieto,Leonel Prieto,1362508.0,Leonel Prieto
+39c52d54,/en/players/39c52d54/Luis-Enrique-Quinones,Luis Enrique Quiñones,425810.0,Luis Quinones
+49674dfa,/en/players/49674dfa/Manuel-Aguilar,Manuel Aguilar,1441874.0,Manuel Aguilar
+e8b5ca4b,/en/players/e8b5ca4b/Marcel-Ruiz,Marcel Ruiz,950681.0,Marcel Ruiz
+955b2e8a,/en/players/955b2e8a/Marcelo-Diaz,Marcelo Díaz,49847.0,Marcelo Diaz
+2fcbe28b,/en/players/2fcbe28b/Marco-Garcia,Marco García,1125757.0,Marco Garcia
+f9ab3f4a,/en/players/f9ab3f4a/Maximiliano-Araujo,Maximiliano Araújo,1031656.0,Maximiliano Araujo
+2bf0adf4,/en/players/2bf0adf4/Miguel-Carreon,Miguel Carreón,1171293.0,Miguel Carreon
+d8f11068,/en/players/d8f11068/Nahuel-Guzman,Nahuel Guzmán,193993.0,Nahuel Guzman
+224e3926,/en/players/224e3926/Nene-Bonilha,Nenê Bonilha,265913.0,Nene Bonilha
+653222cd,/en/players/653222cd/Nicolas-Freire,Nicolás Freire,427046.0,Nicolas Freire
+0cab947b,/en/players/0cab947b/Nicolas-Ibanez,Nicolás Ibáñez,996018.0,Nicolás Ibánez
+5e36ed08,/en/players/5e36ed08/Oliver-Perez,Oliver Pérez,1341610.0,Oliver Perez
+36c7457a,/en/players/36c7457a/Oscar-Vanegas,Oscar Vanegas,1212165.0,Oscar Vanegas
+be9664e2,/en/players/be9664e2/Osvaldo-Gonzalez,Osvaldo González,50590.0,Osvaldo Gonzalez
+c3a799f0,/en/players/c3a799f0/Pablo-Barrientos,Pablo Barrientos,18733.0,Pablo Barrientos
+38eb6aae,/en/players/38eb6aae/Pablo-Jaquez,Pablo Jáquez,610644.0,Pablo Jaquez Isunza
+b8d4f461,/en/players/b8d4f461/Pablo-Monroy,Pablo Monroy,1440801.0,Pablo Monroy
+19ae4d5c,/en/players/19ae4d5c/Rafael-Carioca,Rafael Carioca,127373.0,Rafael Carioca
+27b6a658,/en/players/27b6a658/Raymundo-Fulgencio,Raymundo Fulgencio,952904.0,Raymundo Fulgencio
+f9dc54eb,/en/players/f9dc54eb/Santiago-Trigos,Santiago Trigos,1304418.0,Santiago Trigos
+70565276,/en/players/70565276/Sebastian-Fierro,Sebastián Fierro,1428525.0,Sebastian Fierro
+063125ca,/en/players/063125ca/Sebastian-Rodriguez,Sebastián Rodríguez,280489.0,Sebastian Rodriguez
+34074967,/en/players/34074967/Sebastian-Sosa,Sebastián Sosa,56648.0,Sebastián Sosa
+fba79ac8,/en/players/fba79ac8/Tiago-Volpi,Tiago Volpi,409017.0,Tiago Volpi
+4624df7c,/en/players/4624df7c/Ulises-Rivas,Ulises Rivas,533769.0,Ulises Rivas
+18679d62,/en/players/18679d62/Valber-Huerta,Valber Huerta,317774.0,Valber Huerta
+04a82b14,/en/players/04a82b14/Vladimir-Lorona,Vladimir Loroña,950917.0,Vladimir Lorona
+c02b862e,/en/players/c02b862e/William-da-Silva,William da Silva,128362.0,William da Silva
+190bc058,/en/players/190bc058/Carlos-Salcido,Carlos Salcido,34479.0,Carlos Salcido
+2e5d21ca,/en/players/2e5d21ca/Lampros-Kontogiannis,Lampros Kontogiannis,148961.0,Lampros Kontogiannis
+2fef8b92,/en/players/2fef8b92/Daniel-Villalva,Daniel Villalva,164723.0,Daniel Villalva
+8cce9a77,/en/players/8cce9a77/Bryan-Carrasco,Bryan Carrasco,185092.0,Bryan Carrasco
+4f0cf249,/en/players/4f0cf249/Jefferson-Murillo,Jefferson Murillo,281991.0,Jefferson Murillo
+488cada2,/en/players/488cada2/Federico-Illanes,Federico Illanes,616536.0,Federico Illanes
+b5b4458b,/en/players/b5b4458b/Yeison-Guerrero,Yeison Guerrero,688279.0,Yeison Guerrero
+e6ac9ac5,/en/players/e6ac9ac5/Duilio-Tejeda,Duilio Tejeda,812295.0,Duilio Tejeda
+0c29b78c,/en/players/0c29b78c/Joe-Abrigo,Joe Abrigo,821999.0,Joe Abrigo
+fb155b4e,/en/players/fb155b4e/Edson-Garcia,Edson García,862997.0,Edson García
+614ae765,/en/players/614ae765/Eduardo-Pastrana,Eduardo Pastrana,962216.0,Eduardo Pastrana
+9edeba54,/en/players/9edeba54/Cesar-Landa,César Landa,964679.0,César Landa
+96f9403b,/en/players/96f9403b/Luis-Galicia,Luis Galicia,1079613.0,Luis Galicia
+1543b95a,/en/players/1543b95a/Francisco-Garcia,Francisco García,1384970.0,Francisco Garcia Flores
+4a64c915,/en/players/4a64c915/Sebastian-Martinez,Sebastián Martínez,1385983.0,Sebastian Martinez
+6e259571,/en/players/6e259571/Alejandro-Diaz-Liceaga,Alejandro Díaz Liceága,601393.0,Alejandro Diaz
+648fed70,/en/players/648fed70/Israel-Larios,Israel Larios,1436543.0,Israel Larios
+bff5525c,/en/players/bff5525c/Lucas-Trezza,Lucas Trezza,1174840.0,Lucas Rodriguez
+abc7b250,/en/players/abc7b250/Milton-Caraglio,Milton Caraglio,113757.0,Milton Joel Caraglio
+2c9a3484,/en/players/2c9a3484/Federico-Gino,Federico Gino,429987.0,Federico Acevedo
+b3f50e68,/en/players/b3f50e68/Felipe-Gallegos,Felipe Gallegos,206847.0,Luis Gallegos
+068060bb,/en/players/068060bb/Felipe-Garcia-Hernandez,Felipe García Hernández,1203270.0,Felipe Garcia
+5f77ed34,/en/players/5f77ed34/Jorge-Sanchez,Jorge Sánchez,463829.0,Jorge Sánchez
+b4c77085,/en/players/b4c77085/Jose-Hernandez,José Hernández,966230.0,Jose Hernandez
+2280fe86,/en/players/2280fe86/Juan-Martinez,Juan Martínez,1125525.0,Pablo Martinez
+69873a5f,/en/players/69873a5f/Luis-Fernando-Leon,Luis Fernando León,315925.0,Luis Leon
+e6f722ac,/en/players/e6f722ac/Luis-Ramirez,Luis Ramírez,931258.0,Luis Ramirez
+e6ede7f4,/en/players/e6ede7f4/Mario,Mario,37427.0,Mario Alvarez
+d8d91ddd,/en/players/d8d91ddd/Ricardo-Garcia,Ricardo García,1187829.0,Ricardo Garcia
+059a4e65,/en/players/059a4e65/Rodrigo-Armando-Gonzalez,Rodrigo Armando González,559969.0,Rodrigo Gonzalez
+c0781cf2,/en/players/c0781cf2/Vitinho,Vitinho,1256627.0,Vitinho
+37fdc62b,/en/players/37fdc62b/Brayan-Angulo,Brayan Angulo,617597.0,Bryan Angulo
+f0acf582,/en/players/f0acf582/Charly-Rodriguez,Charly Rodríguez,769593.0,Carlos Rodriguez
+d5c24d20,/en/players/d5c24d20/Christian-Tabo,Christian Tabó,389892.0,Cristian Tabo
+e39a7e9c,/en/players/e39a7e9c/Jose-Corona,José Corona,70878.0,José de Jesus Corona
+99f74040,/en/players/99f74040/Jose-Joaquin-Martinez,José Joaquín Martínez,111904.0,Joaquin Martinez
+99b865b7,/en/players/99b865b7/Julio-Dominguez,Julio Domínguez,70199.0,Julio César Dominguez
+3d9c1055,/en/players/3d9c1055/Pablo-Ceppelini,Pablo Ceppelini,166121.0,Pablo Ceppelini
+3e2406b1,/en/players/3e2406b1/Diego-Chavez-Collins,Diego Chávez Collins,601453.0,Diego Chavez
+812c0d71,/en/players/812c0d71/Eder-Borelli,Eder Borelli,208073.0,Eder Nicolas Borelli
+158b37a1,/en/players/158b37a1/Elson-Jose-Dias-Junior,Elson José Dias Júnior,915246.0,Elsinho
+b18b798e,/en/players/b18b798e/Enrique-Palos,Enrique Palos,70207.0,Enrique Eduardo Palos
+877b54d5,/en/players/877b54d5/Fernandinho,Fernandinho,813039.0,Fernandinho
+b99b4cf5,/en/players/b99b4cf5/Gustavo-Velasquez,Gustavo Velásquez,497352.0,Gustavo Velazquez
+fbc39139,/en/players/fbc39139/Jose-Lopez,José López,1019125.0,Jose Lopez
+b3dc01fe,/en/players/b3dc01fe/Jose-Rodriguez,José Rodríguez,1039224.0,Jose Rodriguez
+c4a9769a,/en/players/c4a9769a/Lucas-da-Silva-Xavier,Lucas da Silva Xavier,824439.0,Lucas
+125d6bed,/en/players/125d6bed/Luis-Alfonso-Rodriguez,Luis Alfonso Rodríguez,200875.0,Luis Rodriguez
+8fc40c11,/en/players/8fc40c11/Luis-Donaldo-Hernandez,Luis Donaldo Hernández,735766.0,Luis Hernandez
+afa0ada7,/en/players/afa0ada7/Luis-Lopez,Luis López,486458.0,Luis Lopez
+0ca56107,/en/players/0ca56107/Luis-Pavez-Munoz,Luis Pavez Muñoz,491925.0,Luis Pavez
+19f98ce0,/en/players/19f98ce0/Martin-Galvan,Martín Galván,135291.0,Martin Luis Galvan
+91e7fc9a,/en/players/91e7fc9a/Matias-Garcia,Matías García,267200.0,Matias Garcia
+8fd7f49c,/en/players/8fd7f49c/Victor-Manon,Víctor Mañón,111878.0,Victor Omar Manon
+42fa6572,/en/players/42fa6572/Alejandro-Mayorga,Alejandro Mayorga,848043.0,Manuel Mayorga
+115a67c4,/en/players/115a67c4/Carlos-Villanueva-Lopez,Carlos Villanueva López,350568.0,Carlos Villanueva
+39af4ba6,/en/players/39af4ba6/Jesus-Chiquete,Jesús Chiquete,1249286.0,Jesus Orozco
+a331f530,/en/players/a331f530/Jesus-Sanchez-Garcia,Jesús Sánchez García,213221.0,Jesus Sanchez
+e7d21d61,/en/players/e7d21d61/Jose-Gonzalez,José González,1070702.0,José González
+5c16e950,/en/players/5c16e950/Miguel-Angel-Ponce,Miguel Ángel Ponce,200992.0,Miguel Ponce
+ab365692,/en/players/ab365692/Alexander-Mejia,Alexander Mejía,50341.0,Alexander Mejia
+f2f8ca42,/en/players/f2f8ca42/Alfonso-Alvarado,Alfonso Alvarado,921579.0,José Alvarado
+7caf162d,/en/players/7caf162d/Byron-Castillo,Byron Castillo,729089.0,Byron Castillo
+ad1f19a3,/en/players/ad1f19a3/Claudio-Ernesto-Gonzalez,Claudio Ernesto González,836931.0,Claudio Gonzalez
+20f21b81,/en/players/20f21b81/Hector-Uribe,Héctor Uribe,1229453.0,Hector Guevara
+2e541097,/en/players/2e541097/Jose-Ivan-Rodriguez,José Iván Rodríguez,819851.0,Jose Rodriguez
+fc5f0f3c,/en/players/fc5f0f3c/Juan-Ignacio-Gonzalez,Juan Ignacio González,121042.0,Juan Gonzalez
+d89e48b8,/en/players/d89e48b8/Lucas-Romero,Lucas Romero,388605.0,Lucas Daniel Romero
+db9f5c17,/en/players/db9f5c17/Osvaldo-Rodriguez-del-Portal,Osvaldo Rodríguez del Portal,643753.0,Osvaldo Rodriguez
+d516c57c,/en/players/d516c57c/Cesar-Cercado,César Cercado,242206.0,Cesar Eduardo Cercado Luna
+c58a8544,/en/players/c58a8544/Diego-Rafael-Jimenez,Diego Rafael Jiménez,166588.0,Diego Jiménez
+f913875f,/en/players/f913875f/Francisco-Javier-Rodriguez,Francisco Javier Rodríguez,30964.0,Francisco Rodriguez
+6142dcbc,/en/players/6142dcbc/Francisco-Javier-Torres,Francisco Javier Torres,71014.0,Francisco Torres
+bf8819c2,/en/players/bf8819c2/Jose-Francisco-Canales,José Francisco Canales,165831.0,Francisco Canales
+908a3c68,/en/players/908a3c68/Omar-Tejeda,Omar Tejeda,951102.0,Omar Tejada
+cea8f295,/en/players/cea8f295/Enrique-Cedillo,Enrique Cedillo,862972.0,Cedillo
+15bff5b5,/en/players/15bff5b5/Gael-Sandoval,Gael Sandoval,346304.0,Walter Sandoval
+eb04bb4d,/en/players/eb04bb4d/Jorge-Zarate,Jorge Zárate,199913.0,Jorge Alejandro Zarate
+ce78778d,/en/players/ce78778d/Luis-Rey,Luis Rey,1222037.0,Luis Gabriel Rey
+e1dcc3ae,/en/players/e1dcc3ae/Manuel-Perez-Ruiz,Manuel Pérez Ruiz,311946.0,Manuel Perez
+67f2c5a5,/en/players/67f2c5a5/Miguel-Sansores,Miguel Sansores,197077.0,Miguel Angel Sansores
+aab63918,/en/players/aab63918/Ricardo-Gutierrez,Ricardo Gutiérrez,1191817.0,Daniel Gutierrez
+90be7877,/en/players/90be7877/Alfonso-Gonzalez,Alfonso González,292903.0,Arturo Gonzalez
+556d06e0,/en/players/556d06e0/Felix-Eduardo-Rodriguez,Félix Eduardo Rodríguez,769593.0,Carlos Rodriguez
+bc7774f1,/en/players/bc7774f1/Joao-Joshimar-Rojas,Joao Joshimar Rojas,675358.0,Joao Rojas
+5cf71053,/en/players/5cf71053/Luis-Sanchez,Luis Sánchez,1044929.0,Luis Sanchez
+0a301459,/en/players/0a301459/Nicolas-Sanchez,Nicolás Sanchez,113677.0,Nicolas Sanchez
+a7104778,/en/players/a7104778/Stefan-Medina,Stefan Medina,206767.0,John Medina
+cb610a47,/en/players/cb610a47/Carlos-Adrian-Morales,Carlos Adrián Morales,70984.0,Carlos Morales
+f2a0bbad,/en/players/f2a0bbad/Jesus-Gonzalez,Jesus Gonzalez,1010154.0,Jesus Gonzales
+73e801cf,/en/players/73e801cf/Antonio-de-Jesus-Lopez,Antonio de Jesús López,950475.0,Antonio Lopez
+9c8c2a2b,/en/players/9c8c2a2b/Bryan-Roque,Bryan Roque,1226999.0,Bryan Casas
+f7381739,/en/players/f7381739/Carlos-Pena,Carlos Peña,212476.0,Carlos Pena
+30f57b90,/en/players/30f57b90/Daniel-Pinedo,Daniel Pinedo,1200393.0,Daniel Lopez
+24c6fb79,/en/players/24c6fb79/Hugo-Gonzalez-Duran,Hugo González Durán,188123.0,Hugo Gonzalez
+022693b5,/en/players/022693b5/Jesus-Ochoa,Jesús Ochoa,1140069.0,Alejandro Ochoa
+a295261d,/en/players/a295261d/Jesus-Veyna,Jesús Veyna,633240.0,Zaid Veyna
+ef645a7b,/en/players/ef645a7b/Juan-Dominguez,Juan Domínguez,1294724.0,Juan Dominguez
+65432ad8,/en/players/65432ad8/Juan-Pablo-Segovia,Juan Pablo Segovia,624060.0,Juan Pablo Segovia
+fd622bea,/en/players/fd622bea/Julio-Cesar-Gonzalez-Trinidad,Julio César González Trinidad,497328.0,Julio Gonzalez
+abf5d813,/en/players/abf5d813/Luis-Ernesto-Perez-Martinez,Luis Ernesto Pérez Martínez,230344.0,Luis Perez
+8a250399,/en/players/8a250399/Matias-Fernandez,Matías Fernández,47373.0,Matias Fernández
+6a63fe0e,/en/players/6a63fe0e/Edgar-Hernandez,Édgar Hernández,630615.0,Edgar Hernandez
+4a021593,/en/players/4a021593/Andrea-Dacourt,Andréa Dacourt,1489099.0,Andrea Dacourt
+7a3f8712,/en/players/7a3f8712/Theo-Trinker,Théo Trinker,1462776.0,Theo Trinker
+bf4d6654,/en/players/bf4d6654/Alejandro-Granados,Alejandro Granados,1485173.0,Alejandro Granados
+5d2961ce,/en/players/5d2961ce/Juninho,Juninho,1131346.0,Juninho
+6bfe53bb,/en/players/6bfe53bb/Bryan-Gonzalez,Bryan González,1112940.0,Bryan Gonzalez
+b931ac44,/en/players/b931ac44/Carlos-Moreno,Carlos Moreno,991005.0,Carlos Moreno
+67d34a1b,/en/players/67d34a1b/Erick-Sanchez,Erick Sánchez,772320.0,Erick Sánchez
+274d5b09,/en/players/274d5b09/Francisco-Antonio-Figueroa,Francisco Antonio Figueroa,822211.0,Antonio Figueroa
+2e7edd56,/en/players/2e7edd56/Jesus-Hernandez,Jesús Hernández,1306880.0,Jesus Hernandez
+24bf30ba,/en/players/24bf30ba/Jose-Castillo-Perez,José Castillo Pérez,1184671.0,Jose Castillo
+17991890,/en/players/17991890/Juan-David-Perez,Juan David Pérez,316022.0,Juan Perez
+6ab02e85,/en/players/6ab02e85/Julio-Perez,Julio Pérez,1386558.0,Julio Perez
+e50949ea,/en/players/e50949ea/Luis-Chavez,Luis Chávez,527616.0,Luis Chávez
+34f9eb16,/en/players/34f9eb16/Miguel-Angel-Herrera,Miguel Ángel Herrera,360278.0,Miguel Herrera
+8f774c7f,/en/players/8f774c7f/Nahuel-Bustos,Nahuel Bustos,835409.0,Nahuel Lautaro Bustos
+bcc50c9b,/en/players/bcc50c9b/Pablo-Cesar-Lopez,Pablo César López,688825.0,Pablo Lopez
+d7558a5c,/en/players/d7558a5c/Roberto-de-la-Rosa,Roberto de la Rosa,868061.0,Roberto de la Rosa
+e9249cea,/en/players/e9249cea/Oscar-Perez-Rojas,Óscar Pérez Rojas,30587.0,Oscar Pérez
+949bc248,/en/players/949bc248/Antony-Silva,Antony Silva,244289.0,Antony Silva
+67892e21,/en/players/67892e21/Daniel-Hernandez,Daniel Hernández,1182649.0,Daniel Hernandez
+649f8ee1,/en/players/649f8ee1/Daniel-Alvarez-Lopez,Daniel Álvarez López,612772.0,Daniel Alvarez
+d35757d7,/en/players/d35757d7/Emiliano-Garcia,Emiliano García,1114197.0,Emiliano Garcia
+7cbd34c2,/en/players/7cbd34c2/Emilio-Martinez-Gonzalez,Emilio Martínez González,1209379.0,Emilio Gonzalez
+ea7d42fb,/en/players/ea7d42fb/Fernando-Arce-Jr,Fernando Arce Jr.,659034.0,Fernando Juarez
+59146354,/en/players/59146354/Guillermo-Martinez-Ayala,Guillermo Martínez Ayala,558539.0,Guillermo Martinez
+ce147009,/en/players/ce147009/Jesus-Rodriguez,Jesús Rodríguez,716086.0,Jesus Ivan Rodriguez
+51432989,/en/players/51432989/Jonathan-Espericueta,Jonathan Espericueta,494953.0,Jonathan Espericueta
+7e3cf271,/en/players/7e3cf271/Jose-Ignacio-Pallas,José Ignacio Pallas,56681.0,Ignacio Pallas
+1c7e10b1,/en/players/1c7e10b1/Kevin-Ramirez,Kevin Ramírez,581723.0,Kevin Ramirez
+aa7e1bb1,/en/players/aa7e1bb1/Lucao,Lucao,782189.0,Lucas Maia
+0105f4d1,/en/players/0105f4d1/Luis-Enrique-Robles,Luis Enrique Robles,70453.0,Luis Robles
+1849f698,/en/players/1849f698/Luis-Garcia,Luis García,251277.0,Luis Garcia
+548d8753,/en/players/548d8753/Omar-Fernandez-Frasica,Omar Fernández Frasica,579659.0,Omar Andres Fernandez
+1ab588a6,/en/players/1ab588a6/Pablo-Gonzalez-Diaz,Pablo González Díaz,363282.0,Pablo González
+515412cb,/en/players/515412cb/Pedro-Goulart,Pedro Goulart,914070.0,Pedro
+a982b2e9,/en/players/a982b2e9/Alberto-Garcia-Jr,Alberto García Jr.,315234.0,Jorge Garcia
+a8796ec0,/en/players/a8796ec0/Arelibetsiel-Hernandez,Arelibetsiel Hernández,363488.0,Betsiel Hernandez
+858b3f3f,/en/players/858b3f3f/Augusto-Cesar-Moreira,Augusto César Moreira,265615.0,Augusto Cesar
+f7f77b05,/en/players/f7f77b05/Baldomero-Perlaza,Baldomero Perlaza,281545.0,Baldomero Perlaza
+bc16535e,/en/players/bc16535e/Chico,Chico,923766.0,Chico
+62eef061,/en/players/62eef061/David-Barbona,David Barbona,609985.0,David Barbona
+23f60edd,/en/players/23f60edd/David-Cabrera-Pujol,David Cabrera Pujol,70859.0,David Cabrera
+2bebf8f6,/en/players/2bebf8f6/David-Salazar,David Salazar,277272.0,David Salazar
+0ac3d7d8,/en/players/0ac3d7d8/Everaldo-Stum,Everaldo Stum,295103.0,Everaldo
+493e6a9c,/en/players/493e6a9c/Francisco-Israel-Rivera,Francisco Israel Rivera,571773.0,Francisco Rivera
+999a0a16,/en/players/999a0a16/Jesus-Hernandez,Jesús Hernández,1288840.0,Jesus Hernandez
+413663e3,/en/players/413663e3/Jonathan-David-dos-Santos-Dure,Jonathan David dos Santos Duré,799490.0,Jonathan dos Santos
+fd1604fa,/en/players/fd1604fa/Jonathan-Torres,Jonathan Torres,662089.0,Jonathan Torres
+da7bbfee,/en/players/da7bbfee/Jorge-Daniel-Hernandez,Jorge Daniel Hernández,159848.0,Jorge Hernández
+409b83b5,/en/players/409b83b5/Jose-Doldan,José Doldán,1127279.0,Alexis Doldan
+5e4e7cca,/en/players/5e4e7cca/Jose-Enrique-Angulo,José Enrique Angulo,684745.0,Jose Angulo
+85dd6c75,/en/players/85dd6c75/Jose-Espino,José Espino,1204017.0,Jose Ramirez
+f8949b73,/en/players/f8949b73/Jose-Maduena,José Madueña,302493.0,Jose Antonio Maduena
+3602099e,/en/players/3602099e/Juan-Pablo-Meza,Juan Pablo Meza,559994.0,Juan Meza
+e2ab721a,/en/players/e2ab721a/Omar-Israel-Mendoza,Omar Israel Mendoza,559999.0,Omar Mendoza
+9758e1e7,/en/players/9758e1e7/Pablo-Gomez,Pablo Gómez,1027721.0,Pablo Gomez
+7903a84a,/en/players/7903a84a/Raul-Torres-Rodriguez,Raúl Torres Rodríguez,861894.0,Raul Torres
+88d66ac1,/en/players/88d66ac1/Rodrigo-Lopez,Rodrigo López,1381368.0,Rodrigo Lopez
+e9a252f2,/en/players/e9a252f2/Erik-Vera,Érik Vera,244791.0,Erik Franco Vera
+53cc94d0,/en/players/53cc94d0/Araujo-de-Oliveira-Henrique,Araujo de Oliveira Henrique,1083364.0,Edgar Games
+e02b15cb,/en/players/e02b15cb/Eduardo-Perez-Reyes,Eduardo Pérez Reyes,559997.0,Eduardo Pérez
+c0a8860f,/en/players/c0a8860f/Felix-Torres-Caicedo,Félix Torres Caicedo,825641.0,Félix Torres
+a7c11793,/en/players/a7c11793/Hugo-Isaac-Rodriguez,Hugo Isaác Rodríguez,200588.0,Hugo Rodriguez
+04bdcce2,/en/players/04bdcce2/Javier-Marcelo-Correa,Javier Marcelo Correa,564613.0,Javier Correa
+528b1be4,/en/players/528b1be4/Lucas-Gonzalez,Lucas González,1088057.0,Lucas Gonzalez
+5c0b9acb,/en/players/5c0b9acb/Manu-Balda,Manu Balda,612739.0,Manuel Balda
+16cb5073,/en/players/16cb5073/Raul-Lopez-Gomez,Raúl López Gómez,432851.0,Raul Lopez
+d4f99521,/en/players/d4f99521/Oscar-Manzanarez,Óscar Manzanarez,896548.0,Oscar Manzanarez
+9d33c71a,/en/players/9d33c71a/Diego-Iturralde,Diego Iturralde,1403389.0,Diego Hormigo
+c5642098,/en/players/c5642098/Manuel-Sebastian,Manuel Sebastián,1428849.0,Manu Bueno
+fa828ce6,/en/players/fa828ce6/Alexis-Canelo,Alexis Canelo,616400.0,Alexis Pedro Canelo
+ae6c8c81,/en/players/ae6c8c81/Daniel-Lopez,Daniel López,862812.0,Daniel Lopez
+2e949638,/en/players/2e949638/Diego-Gonzalez,Diego González,114490.0,Diego González
+f23be077,/en/players/f23be077/Diego-Rodriguez,Diego Rodríguez,297653.0,Diego Rodriguez
+908e6b5c,/en/players/908e6b5c/Jesus-Rubio,Jesús Rubio,1083228.0,Everardo Rubio
+966d118a,/en/players/966d118a/Jorge-Rojas,Jorge Rojas,260182.0,Jorge Rojas
+35fd6633,/en/players/35fd6633/Jose-Juan-Vazquez,José Juan Vázquez,342776.0,José Vázquez
+a9794529,/en/players/a9794529/Juan-Carlos-Valenzuela,Juan Carlos Valenzuela,70475.0,Juan Carlos Valenzuela
+941426aa,/en/players/941426aa/Julian-Velazquez,Julián Velázquez,188477.0,Julian Alberto Velazquez
+518b4a46,/en/players/518b4a46/Leonel-Miranda,Leonel Miranda,426408.0,Leonel Ariel Miranda
+b3e8b604,/en/players/b3e8b604/Luis-Felix,Luis Félix,1281608.0,Luis Felix
+d87c9ca1,/en/players/d87c9ca1/Luis-Martinez,Luis Martínez,959507.0,Luis Martinez
+3869abdf,/en/players/3869abdf/Luis-Villegas,Luis Villegas,1199425.0,Luis Carlos Villegas
+308990ee,/en/players/308990ee/Nicolas-Diaz-Huincales,Nicolás Díaz Huincales,841170.0,Nicolas Diaz
+c8bc817f,/en/players/c8bc817f/Alan-Rodriguez,Alan Rodríguez,1084096.0,Alan Rodriguez
+9cacb8e1,/en/players/9cacb8e1/Andres-Mosquera-Guardia,Andrés Mosquera Guardia,205863.0,Andrés Mosquera
+54a15dab,/en/players/54a15dab/Antonio-Rios,Antonio Ríos,163132.0,Antonio Rios Martinez
+a1b9fab4,/en/players/a1b9fab4/Arturo-del-Campo,Arturo del Campo,1436542.0,Arturo Martin del Campo
+8da9409e,/en/players/8da9409e/Braian-Samudio,Braian Samudio,853996.0,Samu
+af31b77b,/en/players/af31b77b/Brayan-Angulo,Brayan Angulo,110331.0,Brayan Angulo
+b661e058,/en/players/b661e058/Brayan-Angulo-Mosquera,Brayan Angulo Mosquera,205863.0,Andrés Mosquera
+dfe2cfc8,/en/players/dfe2cfc8/Brian-Garcia,Brian García,1205874.0,Brian Garcia
+ca1fedb4,/en/players/ca1fedb4/Camilo-Sanvezzo,Camilo Sanvezzo,256605.0,Camilo
+5c059b5d,/en/players/5c059b5d/Carlos-Gonzalez-Espinola,Carlos González Espínola,614459.0,Carlos Gonzalez
+cd09e9a1,/en/players/cd09e9a1/Diego,Diego,89476.0,Diego
+6e1747c4,/en/players/6e1747c4/Diego-Gonzalez,Diego González,914472.0,Diego González
+a9cde92c,/en/players/a9cde92c/Edgar-Ivan-Lopez,Edgar Iván López,867741.0,Edgar Lopez
+18f8c925,/en/players/18f8c925/Everardo-Lopez-del-Villar,Everardo López del Villar,1353113.0,Everardo Del Villar
+1e368495,/en/players/1e368495/Fernando-Navarro-Moran,Fernando Navarro Morán,115731.0,Fernando Navarro
+1ebd3fa2,/en/players/1ebd3fa2/Javier-Cabrera,Javier Cabrera,210469.0,Javier Cabrera
+d48c51d6,/en/players/d48c51d6/Jonatan-Maidana,Jonatan Maidana,69288.0,Jonatan Ramon Maidana
+c3090d78,/en/players/c3090d78/Jorge-Rodriguez,Jorge Rodríguez,1222434.0,Jorge Rodriguez
+d04f5f73,/en/players/d04f5f73/Luis-Manuel-Garcia,Luis Manuel García,417520.0,Luis Garcia
+1fb26f97,/en/players/1fb26f97/Pablo-Lopez,Pablo López,889182.0,Pablo Lopez
+d3cfa137,/en/players/d3cfa137/Ricardo-Javier-Cruz,Ricardo Javier Cruz,527047.0,Ricardo Cruz
+4f022a82,/en/players/4f022a82/Richard-Ruiz,Richard Ruiz,277145.0,Richard Ruiz Toledo
+0dca0fd9,/en/players/0dca0fd9/Santiago-Garcia,Santiago García,196205.0,Santiago Garcia
+3a23190a,/en/players/3a23190a/Fernando-Gonzalez,Fernando González,1470113.0,Fernando Gonzalez
+6f760f44,/en/players/6f760f44/Francisco-Sebastian-Cordova,Francisco Sebastián Córdova,915602.0,Francisco Cordova
+cf9989c2,/en/players/cf9989c2/Hugo-Ayala,Hugo Ayala,70455.0,Hugo Ayala Castro
+116a2429,/en/players/116a2429/Jose-Garcia,José García,1042249.0,Jose Luis Garcia
+0cff6222,/en/players/0cff6222/Juninho,Juninho,19287.0,Juninho
+93e7fa05,/en/players/93e7fa05/Leonardo-Flores,Leonardo Flores,1359533.0,Leonardo Flores
+8d2ee5e2,/en/players/8d2ee5e2/Nicolas-Lopez,Nicolás López,362194.0,Nicolas Lopez
+6bd1f932,/en/players/6bd1f932/Carlos-Gutierrez,Carlos Gutiérrez,950657.0,Carlos Gutierrez
+4e365f70,/en/players/4e365f70/Diogo,Diogo,1136605.0,Diogo
+fb8b684d,/en/players/fb8b684d/Higor,Higor,1033100.0,Higor Meritao
+9feaac78,/en/players/9feaac78/Jose-Gonzalez,José González,1288844.0,José González
+0124a43a,/en/players/0124a43a/Julio-Jose-Gonzalez,Julio José González,242197.0,Julio Gonzalez
+43298abf,/en/players/43298abf/Omar-Islas,Omar Islas,586706.0,Omar Hernandez
+2c45321f,/en/players/2c45321f/Pablo-Bennevendo-Pena,Pablo Bennevendo Peña,1169770.0,Pablo Bennevendo
+d8131ea0,/en/players/d8131ea0/Rogerio,Rogério,268397.0,Rogério
+12c59f01,/en/players/12c59f01/Rosario-Enrique-Cota-Carrazco,Rosario Enrique Cota Carrazco,611730.0,Rosario Cota
+5193e6c8,/en/players/5193e6c8/Angel-Garcia,Ángel García,1197374.0,Angel Garcia
+0219d7be,/en/players/0219d7be/Carlos-Alberto-Gutierrez,Carlos Alberto Gutiérrez,163150.0,Carlos Gutierrez
+171ea2fe,/en/players/171ea2fe/Cristian-Gonzalez-Bautista,Cristian González Bautista,823672.0,Cristian Gonzalez
+62397c44,/en/players/62397c44/Enrique-Perez,Enrique Pérez,186936.0,Enrique Perez Herrera
+2ddf9f3f,/en/players/2ddf9f3f/Fabricio,Fabrício,166872.0,Fabricio
+458c15f7,/en/players/458c15f7/Luis-Antonio-Martinez,Luis Antonio Martínez,100938.0,Luis Martinez
+1c2e5ad0,/en/players/1c2e5ad0/Luis-Caicedo-Medina,Luis Caicedo Medina,322447.0,Luis Caicedo
+eeb45208,/en/players/eeb45208/Meliton-Hernandez,Melitón Hernández,70204.0,Edgar Hernandez
+29b51d26,/en/players/29b51d26/Rodrigo-Lopez,Rodrigo López,69654.0,Rodrigo Lopez
