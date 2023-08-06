@@ -191,7 +191,7 @@ M,Italy,4fcb34fd,Benevento,6266,Benevento,4171,Benevento Calcio,benevento-calcio
 M,Italy,1d8099f8,Bologna,9857,Bologna,1025,Bologna FC 1909,fc-bologna,Bologna FC 1909,Bologna,Bologna
 M,Italy,4ef57aeb,Brescia,9858,Brescia,19,Brescia Calcio,brescia-calcio,Brescia Calcio,Brescia,Brescia
 M,Italy,c4260e09,Cagliari,8529,Cagliari,1390,Cagliari Calcio,cagliari-calcio,Cagliari Calcio,Cagliari,Cagliari
-M,Italy,cc919b35,Chievo,8533,Chievo Verona,862,Chievo Verona,chievo-verona,Chievo Verona,Chievo Verona,
+M,Italy,cc919b35,Chievo,8533,Chievo Verona,862,Chievo Verona,chievo-verona,Chievo Verona,Chievo Verona,Chievo
 M,Italy,9aad3a77,Cremonese,7801,Cremonese,2239,US Cremonese,us-cremonese,US Cremonese,Cremonese,Cremonese
 M,Italy,3074d7b1,Crotone,9884,Crotone,4083,FC Crotone,fc-crotone,FC Crotone,Crotone,Crotone
 M,Italy,a3d88bd8,Empoli,8534,Empoli,749,FC Empoli,fc-empoli,FC Empoli,Empoli,Empoli
@@ -243,11 +243,11 @@ M,Mexico,a42ddf2f,Tijuana,162418,Tijuana,13353,Club Tijuana,club-tijuana,Club Ti
 M,Mexico,44b88a4e,Toluca,6618,Toluca,1804,Deportivo Toluca,deportivo-toluca,,Toluca,Toluca
 M,Mexico,260596d3,Veracruz,6382,Veracruz,5138,Tiburones Rojos de Veracruz,tiburones-rojos-de-veracruz,Tiburones Rojos de Veracruz,Veracruz,Veracruz
 M,Moldova,50995c1e,Sheriff Tiraspol,9729,FC Sheriff,2481,FC Sheriff Tiraspol,fc-sheriff-tiraspol,Sheriff Tiraspol,FC Sheriff Tiraspol,
-M,Netherlands,4e7459b7,ADO Den Haag,10217,ADO Den Haag,1268,ADO Den Haag,ado-den-haag,ADO Den Haag,ADO Den Haag,
+M,Netherlands,4e7459b7,ADO Den Haag,10217,ADO Den Haag,1268,ADO Den Haag,ado-den-haag,ADO Den Haag,ADO Den Haag,Den Haag
 M,Netherlands,19c3f8c4,Ajax,8593,Ajax,610,Ajax Amsterdam,ajax-amsterdam,Ajax Amsterdam,Ajax,Ajax
 M,Netherlands,3986b791,AZ Alkmaar,10229,AZ Alkmaar,1090,AZ Alkmaar,az-alkmaar,AZ Alkmaar,AZ,AZ Alkmaar
 M,Netherlands,5c9e307a,Cambuur,7788,Cambuur,133,SC Cambuur Leeuwarden,sc-cambuur-leeuwarden,,Cambuur Leeuwarden,Cambuur
-M,Netherlands,c6f58d53,De Graafschap,8526,De Graafschap,642,De Graafschap Doetinchem,de-graafschap-doetinchem,De Graafschap Doetinchem,De Graafschap,
+M,Netherlands,c6f58d53,De Graafschap,8526,De Graafschap,642,De Graafschap Doetinchem,de-graafschap-doetinchem,De Graafschap Doetinchem,De Graafschap,Graafschap
 M,Netherlands,01888db1,Emmen,6660,FC Emmen,1283,FC Emmen,fc-emmen,FC Emmen,Emmen,FC Emmen
 M,Netherlands,740cb7d4,Excelsior,10218,Excelsior,798,Excelsior Rotterdam,sbv-excelsior-rotterdam,,Excelsior,Excelsior
 M,Netherlands,bec05adb,Groningen,8674,FC Groningen,202,FC Groningen,fc-groningen,FC Groningen,FC Groningen,Groningen
@@ -258,48 +258,48 @@ M,Netherlands,fb4ca611,Feyenoord,10235,Feyenoord,234,Feyenoord Rotterdam,feyenoo
 M,Netherlands,bd08295c,Fortuna Sittard,6422,Fortuna Sittard,385,Fortuna Sittard,fortuna-sittard,Fortuna Sittard,Fortuna Sittard,For Sittard
 M,Netherlands,e33d6108,Go Ahead Eagles,6433,Go Ahead Eagles,1435,Go Ahead Eagles,go-ahead-eagles-deventer,,Go Ahead Eagles,Go Ahead Eagles
 M,Netherlands,193ff7aa,Heerenveen,10228,SC Heerenveen,306,SC Heerenveen,sc-heerenveen,SC Heerenveen,Heerenveen,Heerenveen
-M,Netherlands,c882b88e,Heracles Almelo,9791,Heracles,1304,Heracles Almelo,heracles-almelo,Heracles Almelo,Heracles,
-M,Netherlands,8ed04be8,NAC Breda,9761,NAC Breda,132,NAC Breda,nac-breda,NAC Breda,NAC,
+M,Netherlands,c882b88e,Heracles Almelo,9791,Heracles,1304,Heracles Almelo,heracles-almelo,Heracles Almelo,Heracles,Heracles
+M,Netherlands,8ed04be8,NAC Breda,9761,NAC Breda,132,NAC Breda,nac-breda,NAC Breda,NAC,NAC Breda
 M,Netherlands,fc629994,NEC Nijmegen,8464,NEC Nijmegen,467,NEC Nijmegen,nec-nijmegen,NEC Nijmegen,NEC,Nijmegen
-M,Netherlands,e3db180b,Zwolle,6413,PEC Zwolle,1269,PEC Zwolle,pec-zwolle,PEC Zwolle,PEC Zwolle,
+M,Netherlands,e3db180b,Zwolle,6413,PEC Zwolle,1269,PEC Zwolle,pec-zwolle,PEC Zwolle,PEC Zwolle,Zwolle
 M,Netherlands,e334d850,PSV Eindhoven,8640,PSV Eindhoven,383,PSV Eindhoven,psv-eindhoven,PSV Eindhoven,PSV,PSV Eindhoven
 M,Netherlands,bb14adb3,RKC Waalwijk,10219,RKC Waalwijk,235,RKC Waalwijk,rkc-waalwijk,RKC Waalwijk,RKC,Waalwijk
 M,Netherlands,146a68ce,Sparta Rotterdam,8614,Sparta Rotterdam,468,Sparta Rotterdam,sparta-rotterdam,Sparta Rotterdam,Sparta,Sparta Rotterdam
 M,Netherlands,209d7fa2,Vitesse,8277,Vitesse,499,Vitesse Arnhem,vitesse-arnheim,Vitesse Arnhem,Vitesse,Vitesse
-M,Netherlands,534ac6d0,VVV-Venlo,9839,VVV-Venlo,1426,VVV-Venlo,vvv-venlo,VVV-Venlo,VVV Venlo,
-M,Netherlands,f0479d7b,Willem II,8525,Willem II,403,Willem II Tilburg,willem-ii-tilburg,,Willem II,
+M,Netherlands,534ac6d0,VVV-Venlo,9839,VVV-Venlo,1426,VVV-Venlo,vvv-venlo,VVV-Venlo,VVV Venlo,VVV Venlo
+M,Netherlands,f0479d7b,Willem II,8525,Willem II,403,Willem II Tilburg,willem-ii-tilburg,,Willem II,Willem II
 M,Norway,d86248bd,Bodø/Glimt,8402,Bodø/Glimt,501,FK Bodø/Glimt,fk-bodo-glimt,,Bodo/Glimt,Bodo/Glimt
 M,Norway,174bd5a0,Molde,9917,Molde,687,Molde FK,molde-fk,Molde FK,Molde,Molde
 M,Norway,90e37d3a,Rosenborg,8422,Rosenborg,195,Rosenborg BK,rosenborg-trondheim,Rosenborg BK,Rosenborg,Rosenborg
 M,Norway,47b3e736,Sarpsborg 08,8509,Sarpsborg 08,10217,Sarpsborg 08 FF,sarpsborg-08-ff,Sarpsborg 08 FF,Sarpsborg,Sarpsborg 08
 M,Poland,fdba14df,Lech Poznań,2182,Lech Poznan,238,Lech Poznan,ech-poznań,Lech Poznan,Lech Poznan,Lech Poznan
 M,Poland,a73408a7,Legia Warsaw,8673,Legia Warszawa,255,Legia Warszawa,legia-warschau,Legia Warszawa,Legia Warsaw,Legia
-M,Portugal,5905b07a,Belenenses SAD,9807,B-SAD,2457,B SAD,belenenses-sad,Belenenses SAD,Belenenses,
+M,Portugal,5905b07a,Belenenses SAD,9807,B-SAD,2457,B SAD,belenenses-sad,Belenenses SAD,Belenenses,Belenenses
 M,Portugal,a77c513e,Benfica,9772,Benfica,294,SL Benfica,benfica-lissabon,SL Benfica,Benfica,Benfica
 M,Portugal,37b7e9e2,Boavista,8613,Boavista,2503,Boavista FC,boavista-porto-fc,Boavista FC,Boavista,Boavista
 M,Portugal,69d84c29,Braga,10264,Braga,1075,SC Braga,sc-braga,SC Braga,Braga,Sp Braga
-M,Portugal,5c9eb756,Nacional,10214,Nacional,982,CD Nacional,cd-nacional,,C.D. Nacional,
+M,Portugal,5c9eb756,Nacional,10214,Nacional,982,CD Nacional,cd-nacional,,C.D. Nacional,Nacional
 M,Portugal,b20a2b76,Casa Pia,212821,Casa Pia AC,3268,Casa Pia AC,casa-pia-ac,,Casa Pia,Casa Pia
 M,Portugal,bf4e8a13,Chaves,9774,Chaves,3325,GD Chaves,gd-chaves,GD Chaves,Chaves,Chaves
-M,Portugal,cfdb925a,Aves,10223,Aves,3336,Desportivo Aves,desportivo-aves,,Desportivo Aves,
+M,Portugal,cfdb925a,Aves,10223,Aves,3336,Desportivo Aves,desportivo-aves,,Desportivo Aves,Aves
 M,Portugal,00c41b75,Estoril,7842,Estoril,1465,GD Estoril Praia,gd-estoril-praia,,Estoril Praia,Estoril
 M,Portugal,2de656d5,Famalicão,1634,Famalicao,3329,FC Famalicão,fc-famalicao,FC Famalicão,Famalicao,Famalicao
 M,Portugal,0d36ddd4,Arouca,158085,Arouca,8024,FC Arouca,fc-arouca,,FC Arouca,Arouca
 M,Portugal,5e876ee6,Porto,9773,FC Porto,2500,FC Porto,fc-porto,FC Porto,FC Porto,Porto
-M,Portugal,a995609f,Feirense,4064,Feirense,3349,CD Feirense,cd-feirense,,Feirense,
+M,Portugal,a995609f,Feirense,4064,Feirense,3349,CD Feirense,cd-feirense,,Feirense,Feirense
 M,Portugal,6a329209,Gil Vicente FC,9764,Gil Vicente,2424,Gil Vicente FC,gil-vicente-fc,,Gil Vicente,Gil Vicente
 M,Portugal,3f319bc9,Vitória Guimarães,7844,Vitoria de Guimaraes,2420,Vitória Guimarães SC,vitoria-guimaraes-sc,Vitória Guimarães SC,Guimaraes,Guimaraes
 M,Portugal,c1b0f61b,Marítimo,10212,Maritimo,1301,CS Marítimo,cs-maritimo,,Maritimo,Maritimo
-M,Portugal,e4502862,Moreirense,8348,Moreirense,979,Moreirense FC,moreirense-fc,,Moreirense,
+M,Portugal,e4502862,Moreirense,8348,Moreirense,979,Moreirense FC,moreirense-fc,,Moreirense,Moreirense
 M,Portugal,f6af6f6f,Paços de Ferreira,6403,Pacos de Ferreira,2995,FC Paços de Ferreira,fc-pacos-de-ferreira,FC Paços de Ferreira,Pacos Ferreira,Pacos Ferreira
 M,Portugal,a549d6c6,Portimonense,9765,Portimonense,7378,Portimonense SC,portimonense-sc,Portimonense SC,Portimonense,Portimonense
 M,Portugal,eea856da,Rio Ave,7841,Rio Ave,2425,Rio Ave FC,rio-ave-fc,,Rio Ave,Rio Ave
 M,Portugal,f5b64cb1,Santa Clara,1567,Santa Clara,2423,CD Santa Clara,cd-santa-clara,,Santa Clara,Santa Clara
 M,Portugal,13dc44fd,Sporting CP,9768,Sporting CP,336,Sporting CP,sporting-lissabon,Sporting CP,Sporting CP,Sp Lisbon
-M,Portugal,e442fa76,Tondela,188163,Tondela,7179,CD Tondela,cd-tondela,CD Tondela,Tondela,
-M,Portugal,4cb59dcf,Vitória Setúbal,10238,Vitoria de Setubal,1085,Vitória Setúbal FC,vitoria-setubal-fc,,Vitoria Setubal,
+M,Portugal,e442fa76,Tondela,188163,Tondela,7179,CD Tondela,cd-tondela,CD Tondela,Tondela,Tondela
+M,Portugal,4cb59dcf,Vitória Setúbal,10238,Vitoria de Setubal,1085,Vitória Setúbal FC,vitoria-setubal-fc,,Vitoria Setubal,Setubal
 M,Portugal,b9daacef,Vizela,4531,Vizela,6912,FC Vizela,fc-vizela,FC Vizela,Vizela,Vizela
-M,Portugal,489c9cd9,Farense,6004,Farense,4294,SC Farense,sc-farense,SC Farense,,
+M,Portugal,489c9cd9,Farense,6004,Farense,4294,SC Farense,sc-farense,SC Farense,,Farense
 M,Romania,ff04e205,CFR Cluj,9731,CFR Cluj,7769,CFR Cluj,cfr-cluj,CFR Cluj,CFR 1907 Cluj,CFR Cluj
 M,Romania,aed59852,FCSB,9723,FC FCSB,301,FCSB,fcsb,FCSB,,FCSB
 M,Russia,f0c0c2c2,CSKA Moscow,9760,CSKA Moscow,2410,CSKA Moscow,zska-moskau,CSKA Moscow,CSKA Moscow,CSKA Moscow
