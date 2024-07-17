@@ -7,7 +7,7 @@ competition_id,competition_name,competition_url,competition_type,ccode,gender
 9265,AFF Suzuki Cup,/leagues/9265/overview/aff-suzuki-cup,Club International Cups,INT,M
 289,Africa Cup of Nations,/leagues/289/overview/africa-cup-of-nations,National Team Competitions,INT,M
 9428,African Nations Championship,/leagues/9428/overview/african-nations-championship,National Team Competitions,INT,M
-9579,Algarve Cup (W),/leagues/9579/overview/algarve-cup-(w),National Team Competitions,INT,W
+9579,Algarve Cup (W),/leagues/9579/overview/algarve-cup-(w),National Team Competitions,INT,F
 290,Asian Cup,/leagues/290/overview/asian-cup,National Team Competitions,INT,M
 526,CAF Champions League,/leagues/526/overview/caf-champions-league,Club International Cups,INT,M
 9468,CAF Confed Cup,/leagues/9468/overview/caf-confed-cup,National Team Competitions,INT,M
@@ -22,7 +22,7 @@ competition_id,competition_name,competition_url,competition_type,ccode,gender
 45,Copa Libertadores,/leagues/45/overview/copa-libertadores,Club International Cups,INT,M
 299,Copa Sudamericana,/leagues/299/overview/copa-sudamericana,Club International Cups,INT,M
 50,EURO,/leagues/50/overview/euro,National Team Competitions,INT,M
-292,Euro Championship (Women),/leagues/292/overview/euro-championship-(women),National Team Competitions,INT,W
+292,Euro Championship (Women),/leagues/292/overview/euro-championship-(women),National Team Competitions,INT,F
 287,EURO U19,/leagues/287/overview/euro-u19,National Team Competitions,INT,M
 288,EURO U21,/leagues/288/overview/euro-u21,National Team Competitions,INT,M
 10216,Europa Conference League,/leagues/10216/overview/europa-conference-league,Club International Cups,INT,M
@@ -33,9 +33,9 @@ competition_id,competition_name,competition_url,competition_type,ccode,gender
 10043,Leagues Cup,/leagues/10043/overview/leagues-cup,Club International Cups,INT,M
 491,Recopa Sudamericana,/leagues/491/overview/recopa-sudamericana,Club International Cups,INT,M
 9876,SAFF Championship,/leagues/9876/overview/saff-championship,Club International Cups,INT,M
-9921,SheBelieves Cup (W),/leagues/9921/overview/shebelieves-cup-(w),National Team Competitions,INT,W
+9921,SheBelieves Cup (W),/leagues/9921/overview/shebelieves-cup-(w),National Team Competitions,INT,F
 66,Summer Olympics,/leagues/66/overview/summer-olympics,National Team Competitions,INT,M
-65,Summer Olympics (Women),/leagues/65/overview/summer-olympics-(women),National Team Competitions,INT,W
+65,Summer Olympics (Women),/leagues/65/overview/summer-olympics-(women),National Team Competitions,INT,F
 9514,The Atlantic Cup,/leagues/9514/overview/the-atlantic-cup,Club International Cups,INT,M
 296,U-20 World Cup,/leagues/296/overview/u-20-world-cup,National Team Competitions,INT,M
 9806,UEFA Nations League A,/leagues/9806/overview/uefa-nations-league-a,National Team Competitions,INT,M
@@ -45,9 +45,9 @@ competition_id,competition_name,competition_url,competition_type,ccode,gender
 74,UEFA Super Cup,/leagues/74/overview/uefa-super-cup,Club International Cups,INT,M
 9741,UEFA Youth League,/leagues/9741/overview/uefa-youth-league,Club International Cups,INT,M
 10124,Ultimate Quaran-Team,/leagues/10124/overview/ultimate-quaran-team,Club International Cups,INT,M
-9375,Women's Champions League,/leagues/9375/overview/womens-champions-league,Club International Cups,INT,W
-10096,Women's Club Friendlies,/leagues/10096/overview/womens-club-friendlies,Club International Cups,INT,W
-76,Women's World Cup Qualification,/leagues/76/overview/womens-world-cup-qualification,National Team Qualification,INT,W
+9375,Women's Champions League,/leagues/9375/overview/womens-champions-league,Club International Cups,INT,F
+10096,Women's Club Friendlies,/leagues/10096/overview/womens-club-friendlies,Club International Cups,INT,F
+76,Women's World Cup Qualification,/leagues/76/overview/womens-world-cup-qualification,National Team Qualification,INT,F
 77,World Cup,/leagues/77/overview/world-cup,National Team Competitions,INT,M
 10197,World Cup Qualification AFC,/leagues/10197/overview/world-cup-qualification-afc,National Team Qualification,INT,M
 10196,World Cup Qualification CAF,/leagues/10196/overview/world-cup-qualification-caf,National Team Qualification,INT,M
@@ -71,7 +71,7 @@ competition_id,competition_name,competition_url,competition_type,ccode,gender
 10053,Trofeo de Campeones,/leagues/10053/overview/trofeo-de-campeones,Domestic Cups,ARG,M
 118,Premier League,/leagues/118/overview/premier-league,Domestic Leagues - 1st Tier,ARM,M
 113,A-League,/leagues/113/overview/a-league,Domestic Leagues - 1st Tier,AUS,M
-9495,A-League Women,/leagues/9495/overview/a-league-women,Domestic Leagues - 1st Tier,AUS,W
+9495,A-League Women,/leagues/9495/overview/a-league-women,Domestic Leagues - 1st Tier,AUS,F
 9471,FFA Cup,/leagues/9471/overview/ffa-cup,Domestic Cups,AUS,M
 38,Bundesliga,/leagues/38/overview/bundesliga,Domestic Leagues - 1st Tier,AUT,M
 119,2. Liga,/leagues/119/overview/2.-liga,Domestic Leagues - 2nd Tier,AUT,M
@@ -157,10 +157,10 @@ competition_id,competition_name,competition_url,competition_type,ccode,gender
 142,EFL Trophy,/leagues/142/overview/efl-trophy,Domestic Cups,ENG,M
 9253,FA Trophy,/leagues/9253/overview/fa-trophy,Domestic Cups,ENG,M
 10068,Premier League U18,/leagues/10068/overview/premier-league-u18,Domestic Youth Leagues,ENG,M
-9227,WSL,/leagues/9227/overview/wsl,Domestic Leagues - 1st Tier,ENG,W
-10173,Women's Community Shield,/leagues/10173/overview/womens-community-shield,Domestic Cups,ENG,W
-10082,FA Cup (Women),/leagues/10082/overview/fa-cup-(women),Domestic Cups,ENG,W
-9717,Women's League Cup,/leagues/9717/overview/womens-league-cup,Domestic Cups,ENG,W
+9227,WSL,/leagues/9227/overview/wsl,Domestic Leagues - 1st Tier,ENG,F
+10173,Women's Community Shield,/leagues/10173/overview/womens-community-shield,Domestic Cups,ENG,F
+10082,FA Cup (Women),/leagues/10082/overview/fa-cup-(women),Domestic Cups,ENG,F
+9717,Women's League Cup,/leagues/9717/overview/womens-league-cup,Domestic Cups,ENG,F
 248,Meistriliiga,/leagues/248/overview/meistriliiga,Domestic Leagues - 1st Tier,EST,M
 10034,Meistrilia Qualification,/leagues/10034/overview/meistrilia-qualification,Domestic Leagues - 1st Tier,EST,M
 9069,Super Cup,/leagues/9069/overview/super-cup,Domestic Cups,EST,M
@@ -172,13 +172,13 @@ competition_id,competition_name,competition_url,competition_type,ccode,gender
 251,Ykkönen,/leagues/251/overview/ykknen,Domestic Leagues - 2nd Tier,FIN,M
 143,Cup,/leagues/143/overview/cup,Domestic Cups,FIN,M
 8969,Kakkonen,/leagues/8969/overview/kakkonen,Domestic Leagues - 3rd Tier and Lower,FIN,M
-10174,Kansallinen (Women),/leagues/10174/overview/kansallinen-(women),Domestic Leagues - 1st Tier,FIN,W
-10186,Kansallinen Qualification (Women),/leagues/10186/overview/kansallinen-qualification-(women),Domestic Leagues - 1st Tier,FIN,W
+10174,Kansallinen (Women),/leagues/10174/overview/kansallinen-(women),Domestic Leagues - 1st Tier,FIN,F
+10186,Kansallinen Qualification (Women),/leagues/10186/overview/kansallinen-qualification-(women),Domestic Leagues - 1st Tier,FIN,F
 53,Ligue 1,/leagues/53/overview/ligue-1,Domestic Leagues - 1st Tier,FRA,M
 110,Ligue 2,/leagues/110/overview/ligue-2,Domestic Leagues - 2nd Tier,FRA,M
 8970,National,/leagues/8970/overview/national,Domestic Leagues - 3rd Tier and Lower,FRA,M
 134,Coupe de France,/leagues/134/overview/coupe-de-france,Domestic Cups,FRA,M
-9677,Division 1 (W),/leagues/9677/overview/division-1-(w),Domestic Leagues - 1st Tier,FRA,W
+9677,Division 1 (W),/leagues/9677/overview/division-1-(w),Domestic Leagues - 1st Tier,FRA,F
 9666,Ligue 1 Qualification,/leagues/9666/overview/ligue-1-qualification,Domestic Leagues - 1st Tier,FRA,M
 9667,Ligue 2 Qualification,/leagues/9667/overview/ligue-2-qualification,Domestic Leagues - 2nd Tier,FRA,M
 207,Super Cup,/leagues/207/overview/super-cup,Domestic Cups,FRA,M
@@ -192,7 +192,7 @@ competition_id,competition_name,competition_url,competition_type,ccode,gender
 9081,1. Bundesliga Promotion/Relegation,/leagues/9081/overview/1.-bundesliga-promotion%2frelegation,Domestic Leagues - 1st Tier,GER,M
 9734,2. Bundesliga Qualification,/leagues/9734/overview/2.-bundesliga-qualification,Domestic Leagues - 2nd Tier,GER,M
 8924,Super Cup,/leagues/8924/overview/super-cup,Domestic Cups,GER,M
-9676,Frauen Bundesliga,/leagues/9676/overview/frauen-bundesliga,Domestic Leagues - 1st Tier,GER,W
+9676,Frauen Bundesliga,/leagues/9676/overview/frauen-bundesliga,Domestic Leagues - 1st Tier,GER,F
 522,Premier League,/leagues/522/overview/premier-league,Domestic Leagues - 1st Tier,GHA,M
 135,Super League 1,/leagues/135/overview/super-league-1,Domestic Leagues - 1st Tier,GRE,M
 145,Greece Cup,/leagues/145/overview/greece-cup,Domestic Cups,GRE,M
@@ -231,7 +231,7 @@ competition_id,competition_name,competition_url,competition_type,ccode,gender
 141,Coppa Italia,/leagues/141/overview/coppa-italia,Domestic Cups,ITA,M
 147,Serie C,/leagues/147/overview/serie-c,Domestic Leagues - 3rd Tier and Lower,ITA,M
 222,Supercoppa,/leagues/222/overview/supercoppa,Domestic Cups,ITA,M
-10178,Serie A Women,/leagues/10178/overview/serie-a-women,Domestic Leagues - 1st Tier,ITA,W
+10178,Serie A Women,/leagues/10178/overview/serie-a-women,Domestic Leagues - 1st Tier,ITA,F
 223,J. League,/leagues/223/overview/j.-league,Domestic Leagues - 1st Tier,JPN,M
 8974,J. League 2,/leagues/8974/overview/j.-league-2,Domestic Leagues - 2nd Tier,JPN,M
 9136,J. League 3,/leagues/9136/overview/j.-league-3,Domestic Leagues - 3rd Tier and Lower,JPN,M
@@ -250,7 +250,7 @@ competition_id,competition_name,competition_url,competition_type,ccode,gender
 230,Liga MX,/leagues/230/overview/liga-mx,Domestic Leagues - 1st Tier,MEX,M
 8976,Liga de Expansión MX,/leagues/8976/overview/liga-de-expansin-mx,Domestic Leagues - 2nd Tier,MEX,M
 9345,Copa MX,/leagues/9345/overview/copa-mx,Domestic Cups,MEX,M
-9906,Liga MX Femenil,/leagues/9906/overview/liga-mx-femenil,Domestic Leagues - 1st Tier,MEX,W
+9906,Liga MX Femenil,/leagues/9906/overview/liga-mx-femenil,Domestic Leagues - 1st Tier,MEX,F
 231,National Division,/leagues/231/overview/national-division,Domestic Leagues - 1st Tier,MDA,M
 9530,Cup,/leagues/9530/overview/cup,Domestic Cups,MDA,M
 9985,Super Cup,/leagues/9985/overview/super-cup,Domestic Cups,MDA,M
@@ -274,7 +274,7 @@ competition_id,competition_name,competition_url,competition_type,ccode,gender
 59,Eliteserien,/leagues/59/overview/eliteserien,Domestic Leagues - 1st Tier,NOR,M
 203,OBOS-ligaen,/leagues/203/overview/obos-ligaen,Domestic Leagues - 2nd Tier,NOR,M
 204,2. Divisjon,/leagues/204/overview/2.-divisjon,Domestic Leagues - 3rd Tier and Lower,NOR,M
-331,Toppserien (W),/leagues/331/overview/toppserien-(w),Domestic Leagues - 1st Tier,NOR,W
+331,Toppserien (W),/leagues/331/overview/toppserien-(w),Domestic Leagues - 1st Tier,NOR,F
 60,Eliteserien Qualification,/leagues/60/overview/eliteserien-qualification,Domestic Leagues - 1st Tier,NOR,M
 206,Norgesmesterskapet,/leagues/206/overview/norgesmesterskapet,Domestic Cups,NOR,M
 9754,OBOS-ligaen Qualification,/leagues/9754/overview/obos-ligaen-qualification,Domestic Leagues - 2nd Tier,NOR,M
@@ -336,12 +336,12 @@ competition_id,competition_name,competition_url,competition_type,ccode,gender
 140,LaLiga2,/leagues/140/overview/laliga2,Domestic Leagues - 2nd Tier,ESP,M
 8968,Primera Division RFEF,/leagues/8968/overview/primera-division-rfef,Domestic Leagues - 3rd Tier and Lower,ESP,M
 9138,Segunda Division RFEF,/leagues/9138/overview/segunda-division-rfef,Domestic Leagues - 3rd Tier and Lower,ESP,M
-9907,Primera Division Femenina,/leagues/9907/overview/primera-division-femenina,Domestic Leagues - 1st Tier,ESP,W
+9907,Primera Division Femenina,/leagues/9907/overview/primera-division-femenina,Domestic Leagues - 1st Tier,ESP,F
 138,Copa del Rey,/leagues/138/overview/copa-del-rey,Domestic Cups,ESP,M
 139,Super Cup,/leagues/139/overview/super-cup,Domestic Cups,ESP,M
 67,Allsvenskan,/leagues/67/overview/allsvenskan,Domestic Leagues - 1st Tier,SWE,M
 168,Superettan,/leagues/168/overview/superettan,Domestic Leagues - 2nd Tier,SWE,M
-9089,Damallsvenskan (W),/leagues/9089/overview/damallsvenskan-(w),Domestic Leagues - 1st Tier,SWE,W
+9089,Damallsvenskan (W),/leagues/9089/overview/damallsvenskan-(w),Domestic Leagues - 1st Tier,SWE,F
 171,Cup,/leagues/171/overview/cup,Domestic Cups,SWE,M
 169,Ettan,/leagues/169/overview/ettan,Domestic Leagues - 3rd Tier and Lower,SWE,M
 69,Super League,/leagues/69/overview/super-league,Domestic Leagues - 1st Tier,SUI,M
@@ -365,11 +365,11 @@ competition_id,competition_name,competition_url,competition_type,ccode,gender
 8972,USL Championship,/leagues/8972/overview/usl-championship,Domestic Leagues - 2nd Tier,USA,M
 9296,USL League One,/leagues/9296/overview/usl-league-one,Domestic Leagues - 3rd Tier and Lower,USA,M
 9441,Open Cup,/leagues/9441/overview/open-cup,Domestic Cups,USA,M
-9134,NWSL,/leagues/9134/overview/nwsl,Domestic Leagues - 1st Tier,USA,W
+9134,NWSL,/leagues/9134/overview/nwsl,Domestic Leagues - 1st Tier,USA,F
 10282,MLS Next Pro,/leagues/10282/overview/mls-next-pro,Domestic Youth Leagues,USA,M
 10084,NISA,/leagues/10084/overview/nisa,Domestic Leagues - 3rd Tier and Lower,USA,M
 10207,NISA Legends Cup,/leagues/10207/overview/nisa-legends-cup,Domestic Cups,USA,M
-10167,NWSL Challenge Cup,/leagues/10167/overview/nwsl-challenge-cup,Domestic Cups,USA,W
+10167,NWSL Challenge Cup,/leagues/10167/overview/nwsl-challenge-cup,Domestic Cups,USA,F
 161,Primera Division,/leagues/161/overview/primera-division,Domestic Leagues - 1st Tier,URU,M
 9122,Segunda Division,/leagues/9122/overview/segunda-division,Domestic Leagues - 2nd Tier,URU,M
 339,Primera Division,/leagues/339/overview/primera-division,Domestic Leagues - 1st Tier,VEN,M
